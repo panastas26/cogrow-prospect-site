@@ -1,48 +1,47 @@
 import type { SiteConfig } from "@/config/types";
 
-interface ProcessProps {
-  config: SiteConfig;
-}
-
-export function ThreeStepProcessMini({ config }: ProcessProps) {
-  const { sections, conversion } = config;
-  const { process } = sections;
+export function ThreeStepProcessMini({ config }: { config: SiteConfig }) {
+  const { process } = config.sections;
+  const { primaryCTA } = config.conversion;
 
   return (
-    <section id="process" className="bg-[var(--color-primary-dark)] text-white py-20 md:py-24">
-      <div className="max-w-6xl mx-auto px-5">
-        <div className="max-w-2xl mb-14">
-          <p className="text-xs font-bold tracking-[0.15em] uppercase text-[var(--color-accent)] mb-3">
-            {process.label}
-          </p>
-          <h2 className="text-2xl md:text-3xl font-bold leading-tight mb-4">
+    <section id="process" className="bg-navy-deep text-warm-white py-20 md:py-28 relative grain-overlay">
+      <div className="relative z-10 mx-auto max-w-6xl px-6">
+        <div className="max-w-2xl mb-16">
+          <p className="section-label !text-brass-light mb-4">{process.label}</p>
+          <h2 className="font-display text-3xl md:text-4xl font-light leading-tight mb-5">
             {process.title}
           </h2>
-          <p className="text-white/60 leading-relaxed">
+          <p className="text-warm-light/60 leading-relaxed">
             {process.subtitle}
           </p>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-3 gap-10 md:gap-8">
           {process.steps.map((step, i) => (
             <div key={i} className="relative">
-              <div className="text-5xl font-bold text-white/10 mb-4">
+              {/* Step number */}
+              <div className="font-display text-6xl font-light text-warm-light/[0.07] mb-4 leading-none">
                 {String(i + 1).padStart(2, "0")}
               </div>
-              <h3 className="text-lg font-bold mb-3">{step.title}</h3>
-              <p className="text-white/60 text-sm leading-relaxed">
+              {/* Brass accent line */}
+              <div className="w-8 h-px bg-brass-light/50 mb-5" />
+              <h3 className="font-display text-xl font-normal text-warm-white mb-3">
+                {step.title}
+              </h3>
+              <p className="text-warm-light/55 text-sm leading-relaxed">
                 {step.description}
               </p>
             </div>
           ))}
         </div>
 
-        <div className="mt-14">
+        <div className="mt-16">
           <a
-            href={conversion.primaryCTA.href}
-            className="inline-flex items-center px-7 py-3.5 bg-[var(--color-accent)] hover:brightness-110 text-white font-semibold rounded-lg transition-all text-base"
+            href={primaryCTA.href}
+            className="inline-flex items-center px-8 py-4 bg-brass hover:bg-brass-light text-navy-deep font-medium text-sm rounded transition-colors tracking-wide"
           >
-            {conversion.primaryCTA.label}
+            {primaryCTA.label}
           </a>
         </div>
       </div>

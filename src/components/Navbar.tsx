@@ -1,75 +1,72 @@
 "use client";
 
 import { useState } from "react";
-import { Icon } from "./Icons";
 import type { SiteConfig } from "@/config/types";
 
-interface NavbarProps {
-  config: SiteConfig;
-}
-
-export function Navbar({ config }: NavbarProps) {
+export function Navbar({ config }: { config: SiteConfig }) {
   const [open, setOpen] = useState(false);
   const { business, conversion } = config;
 
   return (
-    <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100">
-      <div className="max-w-6xl mx-auto px-5 flex items-center justify-between h-[68px]">
-        <a href="#" className="text-xl font-bold tracking-tight text-[var(--color-primary-dark)]">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-warm-white/92 backdrop-blur-md border-b border-rule/60">
+      <div className="mx-auto max-w-6xl px-6 flex items-center justify-between h-16">
+        <a href="#" className="font-display text-xl font-semibold text-navy tracking-tight">
           {business.name}
         </a>
 
-        {/* Desktop nav */}
         <div className="hidden md:flex items-center gap-8">
-          <a href="#services" className="text-sm font-medium text-gray-600 hover:text-[var(--color-primary)] transition-colors">
-            Services
-          </a>
-          <a href="#process" className="text-sm font-medium text-gray-600 hover:text-[var(--color-primary)] transition-colors">
-            How It Works
-          </a>
-          <a href="#testimonials" className="text-sm font-medium text-gray-600 hover:text-[var(--color-primary)] transition-colors">
-            Testimonials
-          </a>
-          <a href="#faq" className="text-sm font-medium text-gray-600 hover:text-[var(--color-primary)] transition-colors">
-            FAQ
-          </a>
+          <a href="#services" className="text-[13px] text-slate hover:text-navy transition-colors">Services</a>
+          <a href="#why-us" className="text-[13px] text-slate hover:text-navy transition-colors">Why Us</a>
+          <a href="#process" className="text-[13px] text-slate hover:text-navy transition-colors">Process</a>
+          <a href="#testimonials" className="text-[13px] text-slate hover:text-navy transition-colors">Clients</a>
+          <a href="#faq" className="text-[13px] text-slate hover:text-navy transition-colors">FAQ</a>
+          {business.phone && (
+            <a
+              href={`tel:${business.phone.replace(/[^0-9+]/g, "")}`}
+              className="text-[13px] font-medium text-navy"
+            >
+              {business.phone}
+            </a>
+          )}
           <a
             href={conversion.primaryCTA.href}
-            className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--color-primary)] hover:bg-[var(--color-primary-dark)] rounded-lg transition-colors"
+            className="inline-flex items-center px-5 py-2.5 bg-navy text-warm-white text-[13px] font-medium rounded hover:bg-navy-deep transition-colors"
           >
             {conversion.primaryCTA.label}
           </a>
         </div>
 
-        {/* Mobile hamburger */}
         <button
           onClick={() => setOpen(!open)}
-          className="md:hidden p-2 text-gray-600"
+          className="md:hidden p-2 text-navy"
           aria-label="Toggle menu"
         >
-          <Icon name={open ? "x" : "menu"} className="w-6 h-6" />
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+            {open ? (
+              <path d="M6 6l12 12M6 18L18 6" strokeLinecap="round" />
+            ) : (
+              <path d="M4 7h16M4 12h16M4 17h16" strokeLinecap="round" />
+            )}
+          </svg>
         </button>
       </div>
 
-      {/* Mobile menu */}
       {open && (
-        <div className="md:hidden bg-white border-t border-gray-100 px-5 py-4 flex flex-col gap-3">
-          <a href="#services" onClick={() => setOpen(false)} className="text-sm font-medium text-gray-700 py-2">
-            Services
-          </a>
-          <a href="#process" onClick={() => setOpen(false)} className="text-sm font-medium text-gray-700 py-2">
-            How It Works
-          </a>
-          <a href="#testimonials" onClick={() => setOpen(false)} className="text-sm font-medium text-gray-700 py-2">
-            Testimonials
-          </a>
-          <a href="#faq" onClick={() => setOpen(false)} className="text-sm font-medium text-gray-700 py-2">
-            FAQ
-          </a>
+        <div className="md:hidden bg-warm-white border-t border-rule/60 px-6 py-6 space-y-4">
+          <a href="#services" onClick={() => setOpen(false)} className="block text-sm text-charcoal">Services</a>
+          <a href="#why-us" onClick={() => setOpen(false)} className="block text-sm text-charcoal">Why Us</a>
+          <a href="#process" onClick={() => setOpen(false)} className="block text-sm text-charcoal">Process</a>
+          <a href="#testimonials" onClick={() => setOpen(false)} className="block text-sm text-charcoal">Clients</a>
+          <a href="#faq" onClick={() => setOpen(false)} className="block text-sm text-charcoal">FAQ</a>
+          {business.phone && (
+            <a href={`tel:${business.phone.replace(/[^0-9+]/g, "")}`} className="block text-sm font-medium text-navy">
+              {business.phone}
+            </a>
+          )}
           <a
             href={conversion.primaryCTA.href}
             onClick={() => setOpen(false)}
-            className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--color-primary)] rounded-lg mt-1"
+            className="block text-center px-5 py-3 bg-navy text-warm-white text-sm font-medium rounded"
           >
             {conversion.primaryCTA.label}
           </a>

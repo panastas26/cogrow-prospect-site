@@ -1,54 +1,40 @@
-import { Icon } from "./Icons";
 import type { SiteConfig } from "@/config/types";
 
-interface TestimonialGridProps {
-  config: SiteConfig;
-}
-
-export function TestimonialGrid({ config }: TestimonialGridProps) {
-  const { sections } = config;
-  const { testimonials } = sections;
+export function TestimonialGrid({ config }: { config: SiteConfig }) {
+  const { testimonials } = config.sections;
 
   return (
-    <section id="testimonials" className="bg-white py-20 md:py-24">
-      <div className="max-w-6xl mx-auto px-5">
-        <div className="max-w-2xl mb-12">
-          <p className="text-xs font-bold tracking-[0.15em] uppercase text-[var(--color-accent)] mb-3">
-            {testimonials.label}
-          </p>
-          <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary-dark)] leading-tight">
+    <section id="testimonials" className="bg-warm-white py-20 md:py-28">
+      <div className="mx-auto max-w-6xl px-6">
+        <div className="max-w-2xl mb-14">
+          <p className="section-label mb-4">{testimonials.label}</p>
+          <h2 className="font-display text-3xl md:text-4xl font-light text-navy-deep leading-tight">
             {testimonials.title}
           </h2>
         </div>
 
         <div className="grid md:grid-cols-3 gap-6">
-          {testimonials.items.map((testimonial, i) => (
+          {testimonials.items.map((t, i) => (
             <div
               key={i}
-              className="bg-[var(--color-light)] rounded-xl p-7 border border-gray-100"
+              className="bg-warm-light border border-card-border rounded-lg p-7"
             >
               {/* Stars */}
-              <div className="flex gap-0.5 mb-5">
-                {Array.from({ length: testimonial.rating }).map((_, j) => (
-                  <Icon
-                    key={j}
-                    name="star"
-                    className="w-4 h-4 text-[var(--color-accent)]"
-                  />
+              <div className="flex gap-1 mb-5">
+                {Array.from({ length: t.rating }).map((_, j) => (
+                  <svg key={j} className="w-4 h-4 text-brass" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+                  </svg>
                 ))}
               </div>
 
-              <blockquote className="text-gray-600 text-sm leading-relaxed mb-6">
-                &ldquo;{testimonial.quote}&rdquo;
+              <blockquote className="font-display text-[15px] text-charcoal leading-relaxed mb-6 italic">
+                &ldquo;{t.quote}&rdquo;
               </blockquote>
 
-              <div>
-                <div className="font-bold text-[var(--color-primary-dark)] text-sm">
-                  {testimonial.name}
-                </div>
-                <div className="text-xs text-gray-400 mt-0.5">
-                  {testimonial.role}
-                </div>
+              <div className="border-t border-card-border pt-4">
+                <p className="text-sm font-medium text-navy-deep">{t.name}</p>
+                <p className="text-xs text-slate mt-0.5">{t.role}</p>
               </div>
             </div>
           ))}

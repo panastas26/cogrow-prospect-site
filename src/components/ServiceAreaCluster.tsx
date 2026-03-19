@@ -1,24 +1,19 @@
 import type { SiteConfig } from "@/config/types";
 
-interface ServiceAreaProps {
-  config: SiteConfig;
-}
-
-export function ServiceAreaCluster({ config }: ServiceAreaProps) {
-  const { sections, trust, business } = config;
-  const { serviceArea } = sections;
+export function ServiceAreaCluster({ config }: { config: SiteConfig }) {
+  const { serviceArea } = config.sections;
+  const { trust, business } = config;
+  const state = business.geography.split(",")[1]?.trim() || "MA";
 
   return (
-    <section id="service-area" className="bg-[var(--color-light)] py-20 md:py-24">
-      <div className="max-w-6xl mx-auto px-5">
+    <section id="service-area" className="bg-warm-light py-20 md:py-28">
+      <div className="mx-auto max-w-6xl px-6">
         <div className="max-w-2xl mx-auto text-center mb-12">
-          <p className="text-xs font-bold tracking-[0.15em] uppercase text-[var(--color-accent)] mb-3">
-            {serviceArea.label}
-          </p>
-          <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary-dark)] leading-tight mb-4">
+          <p className="section-label mb-4">{serviceArea.label}</p>
+          <h2 className="font-display text-3xl md:text-4xl font-light text-navy-deep leading-tight mb-5">
             {serviceArea.title}
           </h2>
-          <p className="text-gray-500 leading-relaxed">
+          <p className="text-slate leading-relaxed">
             {serviceArea.subtitle}
           </p>
         </div>
@@ -27,9 +22,13 @@ export function ServiceAreaCluster({ config }: ServiceAreaProps) {
           {trust.serviceArea.map((area, i) => (
             <span
               key={i}
-              className="inline-flex items-center px-5 py-2.5 bg-white rounded-lg border border-gray-200 text-sm font-medium text-[var(--color-primary-dark)] shadow-sm"
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-card-border rounded text-sm text-navy-deep font-medium"
             >
-              {area}, {business.geography.split(",")[1]?.trim() || "MA"}
+              <svg className="w-3.5 h-3.5 text-brass" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
+                <path d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
+              </svg>
+              {area}, {state}
             </span>
           ))}
         </div>
