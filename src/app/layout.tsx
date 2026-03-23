@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Newsreader, Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
-import { simonCPAsConfig } from "@/config/simon-cpas";
+import { siteConfig } from "@/config";
 
 const newsreader = Newsreader({
   subsets: ["latin"],
@@ -18,12 +18,12 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: simonCPAsConfig.seo.title,
-  description: simonCPAsConfig.seo.description,
-  keywords: simonCPAsConfig.seo.primaryTerms.join(", "),
+  title: siteConfig.seo.title,
+  description: siteConfig.seo.description,
+  keywords: siteConfig.seo.primaryTerms.join(", "),
   openGraph: {
-    title: simonCPAsConfig.seo.title,
-    description: simonCPAsConfig.seo.description,
+    title: siteConfig.seo.title,
+    description: siteConfig.seo.description,
     locale: "en_US",
     type: "website",
   },
