@@ -1,4 +1,4 @@
-import { simonCPAsConfig } from "@/config/simon-cpas";
+import { siteConfig } from "@/config";
 import { Navbar } from "@/components/Navbar";
 import { HeroProfessionalServicesA } from "@/components/HeroProfessionalServicesA";
 import { TrustBarProfessional } from "@/components/TrustBarProfessional";
@@ -12,7 +12,7 @@ import { FinalCTABanner } from "@/components/FinalCTABanner";
 import { LocalBusinessFooter } from "@/components/LocalBusinessFooter";
 import { StickyMobileCTA } from "@/components/StickyMobileCTA";
 
-const config = simonCPAsConfig;
+const config = siteConfig;
 
 export default function Home() {
   return (
