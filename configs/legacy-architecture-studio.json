@@ -1,0 +1,110 @@
+{
+  "template": "professional-service",
+  "company_name": "Legacy Architecture Studio",
+  "tagline": "Designing Spaces That Stand the Test of Time",
+  "hero_subtitle": "Newton-based architecture studio delivering thoughtful residential, commercial, and institutional design across Greater Boston.",
+  "phone": "(617) 527-3300",
+  "email": "hello@legacyarchitecturestudio.com",
+  "address": "Newton, MA",
+  "city": "Newton, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Newton, Brookline, Wellesley, Needham, and the Greater Boston metro area.",
+  "years_in_business": 20,
+  "jobs_completed": 500,
+  "hero_image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=800&q=85",
+  "accent_color": "#475569",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Legacy Architecture Studio | Architecture Firm in Newton, MA",
+  "seo_description": "Legacy Architecture Studio in Newton, MA. Thoughtful residential, commercial, and institutional design for Greater Boston communities. Call (617) 527-3300.",
+  "about_heading": "Newton's Design-Forward Architecture Studio",
+  "services_subtitle": "From concept to completion, we bring vision, precision, and craft to every project.",
+  "reviews_heading": "Built on Trust and Craft",
+  "reviews_subtitle": "Homeowners, developers, and institutions across Greater Boston trust Legacy for projects that matter.",
+  "cta_heading": "Your vision deserves expert design.",
+  "cta_subtitle": "Schedule a free consultation. We'll discuss your project goals and outline a clear design path forward.",
+  "footer_description": "Newton-based architecture studio specializing in residential, commercial, and institutional design across Greater Boston.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Residential Architecture",
+      "description": "Custom homes, renovations, and additions designed with craft and attention to how you actually live. Every detail considered.",
+      "icon": "home",
+      "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Design",
+      "description": "Office spaces, retail environments, and mixed-use projects that balance aesthetics with functionality and code compliance.",
+      "icon": "store"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Institutional Projects",
+      "description": "Schools, libraries, and community buildings designed for durability, accessibility, and civic pride.",
+      "icon": "school",
+      "phone": "(617) 527-3300"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Historic Renovation",
+      "description": "Sensitive restoration and adaptive reuse of historic properties. Preserving character while meeting modern performance standards.",
+      "icon": "history_edu"
+    }
+  ],
+  "services_all": [
+    { "name": "Residential" },
+    { "name": "Commercial" },
+    { "name": "Institutional" },
+    { "name": "Historic Renovation" },
+    { "name": "Interior Design" },
+    { "name": "Master Planning" }
+  ],
+  "stats": [
+    { "value": "20+", "label": "Years Experience", "is_first": true },
+    { "value": "500+", "label": "Projects Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "architecture",
+      "title": "Design Excellence",
+      "description": "Every project receives the same level of care and creativity, whether it's a kitchen renovation or a new institutional building."
+    },
+    {
+      "icon": "location_on",
+      "title": "Newton Roots",
+      "description": "Locally based and deeply familiar with Greater Boston's building codes, historic districts, and architectural character."
+    },
+    {
+      "icon": "handshake",
+      "title": "Collaborative Process",
+      "description": "We work closely with clients from first sketch to final walkthrough. Your input drives the design at every stage."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Newton, MA",
+      "stars": 5,
+      "text": "Legacy transformed our 1920s colonial into a modern family home without losing any of its original charm. Their attention to detail is extraordinary."
+    },
+    {
+      "name": "Developer",
+      "location": "Brookline, MA",
+      "stars": 5,
+      "text": "Professional, responsive, and creative. They delivered construction documents on schedule and the project sailed through permitting."
+    },
+    {
+      "name": "School Administrator",
+      "location": "Wellesley, MA",
+      "stars": 5,
+      "text": "The renovation of our school building was handled with incredible sensitivity to the students and staff. The finished space is beautiful and functional."
+    }
+  ]
+}
