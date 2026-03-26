@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Commonwealth Restoration Team",
+  "tagline": "When Disaster Hits Medford, We Hit Back Harder",
+  "hero_subtitle": "24/7 emergency water, fire, and mold restoration serving Medford and Greater Boston. Fast response, certified technicians, and direct insurance billing so you can focus on your family — not the paperwork.",
+  "phone": "(781) 396-9000",
+  "email": "",
+  "address": "Medford, MA",
+  "city": "Medford, MA",
+  "service_area": "Greater Boston & North Shore",
+  "service_area_description": "Serving Medford, Somerville, Malden, Everett, Arlington, Winchester, Stoneham, and communities across Greater Boston.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=85",
+  "accent_color": "#ea580c",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Commonwealth Restoration Team | Water & Fire Restoration in Medford, MA",
+  "seo_description": "Commonwealth Restoration Team in Medford, MA. 24/7 emergency water damage, fire damage, and mold restoration. Fast response, certified technicians, direct insurance coordination.",
+  "about_heading": "Medford's Emergency Restoration Team",
+  "services_subtitle": "Water damage, fire damage, mold remediation, and storm damage — certified professionals responding 24/7 across Greater Boston.",
+  "reviews_heading": "Trusted by Medford Homeowners",
+  "reviews_subtitle": "Fast response, honest pricing, and restoration done right — every time.",
+  "cta_heading": "Flooded basement? Kitchen fire? Call now.",
+  "cta_subtitle": "24/7 emergency response across Greater Boston. We'll be on-site fast and handle your insurance claim start to finish.",
+  "footer_description": "Commonwealth Restoration Team — 24/7 emergency water, fire, and mold restoration in Medford, MA and Greater Boston. Fast response. Certified technicians. Direct insurance billing.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Water Damage Restoration",
+      "description": "Emergency water extraction, structural drying, and complete restoration. We respond fast to stop damage from spreading and work directly with your insurance company.",
+      "icon": "water_damage",
+      "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Fire & Smoke Restoration",
+      "description": "Full fire damage cleanup including soot removal, smoke odor elimination, content cleaning, and structural reconstruction to pre-loss condition.",
+      "icon": "local_fire_department"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "24/7 Emergency Response",
+      "description": "Disaster doesn't wait for business hours. Our crews are standing by around the clock — call now for immediate dispatch to your Medford-area property.",
+      "icon": "emergency",
+      "phone": "(781) 396-9000"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Mold Remediation",
+      "description": "Certified mold inspection, containment, and removal. We identify the moisture source, eliminate the mold, and restore healthy indoor air quality.",
+      "icon": "air"
+    }
+  ],
+  "services_all": [
+    { "name": "Water Damage" },
+    { "name": "Fire Damage" },
+    { "name": "Smoke & Soot Cleanup" },
+    { "name": "Mold Remediation" },
+    { "name": "Storm Damage" },
+    { "name": "Sewage Cleanup" },
+    { "name": "Board-Ups" },
+    { "name": "Reconstruction" }
+  ],
+  "stats": [
+    { "value": "24/7", "label": "Emergency Response", "is_first": true },
+    { "value": "5,000+", "label": "Jobs Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "speed",
+      "title": "Rapid Response, Any Hour",
+      "description": "When you call, we move. Our crews are dispatched immediately — day or night — to minimize damage and start restoration fast."
+    },
+    {
+      "icon": "verified_user",
+      "title": "IICRC Certified Technicians",
+      "description": "Our team holds certifications in water damage restoration, fire restoration, applied structural drying, and mold remediation."
+    },
+    {
+      "icon": "handshake",
+      "title": "Direct Insurance Billing",
+      "description": "We work directly with all major insurance carriers to handle your claim from start to finish. Less stress, faster resolution."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Medford, MA",
+      "stars": 5,
+      "text": "Pipe burst in our ceiling on a Sunday night. Commonwealth had a crew here within the hour. They extracted the water, dried everything out, and rebuilt our ceiling in under a week. Incredible response."
+    },
+    {
+      "name": "David R.",
+      "location": "Somerville, MA",
+      "stars": 5,
+      "text": "Kitchen fire damage was devastating. These guys handled everything — smoke cleanup, odor removal, full rebuild. They even dealt with our insurance company directly. Can't thank them enough."
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Arlington, MA",
+      "stars": 5,
+      "text": "Found mold in our basement after a long winter. Commonwealth tested it, contained the area, and had it completely remediated in four days. Professional and thorough."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Lombard Restoration & Cleanup",
+  "tagline": "Your Property Won't Wait. Neither Will We.",
+  "hero_subtitle": "24/7 emergency water, fire, and mold restoration in Lombard and DuPage County. Certified technicians on-site fast with direct insurance coordination — so you get your life back sooner.",
+  "phone": "630-627-8900",
+  "email": "",
+  "address": "Lombard, IL",
+  "city": "Lombard, IL",
+  "service_area": "DuPage County & Western Suburbs",
+  "service_area_description": "Serving Lombard, Addison, Villa Park, Glen Ellyn, Wheaton, Downers Grove, Elmhurst, and communities across DuPage County.",
+  "years_in_business": 18,
+  "jobs_completed": 6000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "accent_color": "#ea580c",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Lombard Restoration & Cleanup | Water & Fire Restoration in Lombard, IL",
+  "seo_description": "Lombard Restoration & Cleanup in Lombard, IL. 24/7 emergency water damage, fire damage, and mold restoration across DuPage County. Fast response, certified crews, insurance coordination.",
+  "about_heading": "DuPage County's Trusted Restoration Crew",
+  "services_subtitle": "Water damage, fire damage, mold remediation, and storm cleanup — certified professionals available 24/7 across DuPage County.",
+  "reviews_heading": "Why DuPage County Calls Us First",
+  "reviews_subtitle": "Fast dispatch, honest estimates, and restoration that lasts. See what our neighbors are saying.",
+  "cta_heading": "Flood in the basement? Smoke in the walls? Call now.",
+  "cta_subtitle": "24/7 emergency dispatch across DuPage County. We arrive fast, work with your insurance, and restore your property right.",
+  "footer_description": "Lombard Restoration & Cleanup — 24/7 emergency water, fire, and mold restoration serving Lombard, IL and DuPage County. Certified technicians. Direct insurance billing.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Water Damage Restoration",
+      "description": "Immediate water extraction, industrial drying, and full structural restoration. We stop the damage fast and handle your insurance claim so you don't have to.",
+      "icon": "water_damage",
+      "image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=90"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Fire & Smoke Restoration",
+      "description": "Complete fire damage recovery — soot and smoke removal, content cleaning, odor elimination, and full structural reconstruction.",
+      "icon": "local_fire_department"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "24/7 Emergency Dispatch",
+      "description": "Storms and disasters don't keep business hours. Our crews are ready around the clock — call now for immediate emergency response anywhere in DuPage County.",
+      "icon": "emergency",
+      "phone": "630-627-8900"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Mold Remediation",
+      "description": "Professional mold testing, containment, and removal. We trace the moisture source, eliminate the mold, and verify clean air quality before we leave.",
+      "icon": "air"
+    }
+  ],
+  "services_all": [
+    { "name": "Water Damage" },
+    { "name": "Fire Damage" },
+    { "name": "Smoke & Soot Cleanup" },
+    { "name": "Mold Remediation" },
+    { "name": "Storm & Wind Damage" },
+    { "name": "Sewage Cleanup" },
+    { "name": "Board-Ups & Tarping" },
+    { "name": "Reconstruction" }
+  ],
+  "stats": [
+    { "value": "24/7", "label": "Emergency Dispatch", "is_first": true },
+    { "value": "6,000+", "label": "Jobs Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "speed",
+      "title": "60-Minute Response Time",
+      "description": "When you call, our crews are dispatched immediately. We aim to be on-site within the hour — any time, any day, anywhere in DuPage County."
+    },
+    {
+      "icon": "verified_user",
+      "title": "IICRC Certified Crews",
+      "description": "Every technician is certified in water damage restoration, fire restoration, and mold remediation. Industry-standard work, guaranteed."
+    },
+    {
+      "icon": "handshake",
+      "title": "Insurance Claim Assistance",
+      "description": "We work directly with all major insurance carriers to document damage, file claims, and get your restoration approved fast."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Mike T.",
+      "location": "Lombard, IL",
+      "stars": 5,
+      "text": "Sump pump failed during a thunderstorm and flooded our entire basement. Lombard Restoration had a crew here at 1am and saved our finished basement. They handled the insurance claim too. Lifesavers."
+    },
+    {
+      "name": "Karen S.",
+      "location": "Glen Ellyn, IL",
+      "stars": 5,
+      "text": "Grease fire damaged our kitchen badly. They cleaned up the smoke, removed the odor from the whole house, and rebuilt the kitchen better than before. So grateful for their professionalism."
+    },
+    {
+      "name": "Tom W.",
+      "location": "Villa Park, IL",
+      "stars": 5,
+      "text": "Discovered black mold behind our bathroom wall during a remodel. They contained it immediately, removed everything safely, and had the area rebuilt in less than a week. Highly recommend."
+    }
+  ]
+}
