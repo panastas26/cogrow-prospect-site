@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Geneva Garage Door & Entry",
+  "tagline": "Your Garage Door Broke. Geneva Knows Who to Call.",
+  "hero_subtitle": "Professional garage door repair, installation, and maintenance serving Geneva, IL and the surrounding Fox Valley communities. Fast response, fair pricing, and work that lasts.",
+  "phone": "630-232-8480",
+  "email": "",
+  "address": "Geneva, IL",
+  "city": "Geneva, IL",
+  "service_area": "Geneva & the Fox Valley",
+  "service_area_description": "Serving Geneva, St. Charles, Batavia, South Elgin, West Chicago, and surrounding Kane County communities.",
+  "years_in_business": 15,
+  "jobs_completed": 6000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=85",
+  "accent_color": "#475569",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Geneva Garage Door & Entry | Garage Door Repair & Installation in Geneva, IL",
+  "seo_description": "Geneva Garage Door & Entry — professional garage door repair, installation, and maintenance in Geneva, IL. Fast response, fair pricing. Serving the Fox Valley for 15+ years.",
+  "about_heading": "Geneva's Go-To Garage Door Pros",
+  "services_subtitle": "From emergency spring repairs to brand-new installations — dependable garage door service backed by years of local experience.",
+  "reviews_heading": "Trusted by Geneva Homeowners",
+  "reviews_subtitle": "Our reputation is built on fast response, honest pricing, and garage doors that work flawlessly.",
+  "cta_heading": "Garage door off track? Spring snapped?",
+  "cta_subtitle": "Call now for fast, honest service or book a free estimate. We'll get it fixed right.",
+  "footer_description": "Professional garage door repair, installation, and maintenance serving Geneva and the Fox Valley. Fast response, fair pricing, and work guaranteed to last.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Garage Door Repair",
+      "description": "Broken springs, snapped cables, off-track doors, and damaged panels. We diagnose fast and repair right — often the same day you call.",
+      "icon": "build",
+      "image_url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "New Door Installation",
+      "description": "Upgrade your curb appeal and home security with a new garage door. We carry Clopay, Amarr, CHI, and more — expertly installed.",
+      "icon": "garage"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Opener Sales & Repair",
+      "description": "LiftMaster, Chamberlain, and Genie openers installed and serviced. Smart-home integrations and battery backup options available.",
+      "icon": "settings_remote",
+      "phone": "630-232-8480"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Entry Door Services",
+      "description": "Front entry doors, storm doors, and side entry installations. Enhance your home's security, insulation, and curb appeal all at once.",
+      "icon": "door_front"
+    }
+  ],
+  "services_all": [
+    {"name": "Spring Replacement"},
+    {"name": "Cable Repair"},
+    {"name": "Panel Replacement"},
+    {"name": "Opener Installation"},
+    {"name": "Track Realignment"},
+    {"name": "Entry Door Installation"},
+    {"name": "Storm Doors"},
+    {"name": "Preventive Maintenance"}
+  ],
+  "stats": [
+    {"value": "15+", "label": "Years in Business", "is_first": true},
+    {"value": "6,000+", "label": "Doors Serviced", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "Locally Owned & Operated",
+      "description": "We live and work in Geneva. When you call us, you're talking to a neighbor who takes pride in every job."
+    },
+    {
+      "icon": "request_quote",
+      "title": "Upfront, Honest Pricing",
+      "description": "No hidden fees or surprise charges. We give you a clear estimate before any work begins."
+    },
+    {
+      "icon": "speed",
+      "title": "Fast Response Times",
+      "description": "We know a stuck garage door can't wait. Our team responds quickly to get you back on track — often the same day."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Geneva, IL",
+      "stars": 5,
+      "text": "Called at midnight with a broken garage door and they had someone out within thirty minutes. Truly amazing service. Can't recommend them enough."
+    },
+    {
+      "name": "Homeowner",
+      "location": "St. Charles, IL",
+      "stars": 5,
+      "text": "Replaced a spring in 20 minutes and the price was the best compared to every other quote I got. Fast, fair, and professional."
+    },
+    {
+      "name": "Homeowner",
+      "location": "Batavia, IL",
+      "stars": 5,
+      "text": "Installed a beautiful new garage door that completely transformed our home's curb appeal. The team was punctual, clean, and did excellent work."
+    }
+  ]
+}

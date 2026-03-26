@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Garage Doors of Boston",
+  "tagline": "Same-Day Garage Door Repair. Cambridge to Boston. No Excuses.",
+  "hero_subtitle": "Over a decade of expert garage door repair, installation, and opener service across Greater Boston. Open 7 days a week with no extra charge for evenings or weekends.",
+  "phone": "(617) 500-2165",
+  "email": "",
+  "address": "46 Concord Ln #104, Cambridge, MA",
+  "city": "Cambridge, MA",
+  "service_area": "Boston & Greater Cambridge",
+  "service_area_description": "Serving Cambridge, Boston, Brookline, Malden, Somerville, and surrounding communities across Greater Boston.",
+  "years_in_business": 10,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
+  "logo_url": "https://bostongaragedoorsma.com/wp-content/uploads/2021/02/garage-doors-of-boston-logo.png",
+  "about_image_1": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=85",
+  "accent_color": "#475569",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Garage Doors of Boston | Same-Day Garage Door Repair in Cambridge, MA",
+  "seo_description": "Garage Doors of Boston — same-day garage door repair, installation, and opener service in Cambridge and Greater Boston. Open 7 days. No extra charge for evenings or weekends.",
+  "about_heading": "Cambridge's Trusted Garage Door Specialists",
+  "services_subtitle": "From broken springs to full replacements — quality garage door service 7 days a week, no evening or weekend surcharges.",
+  "reviews_heading": "Trusted by Thousands Across Boston",
+  "reviews_subtitle": "Over a decade of keeping Boston-area garages running smoothly and safely.",
+  "cta_heading": "Garage door won't open? Don't wait.",
+  "cta_subtitle": "Call us 7 days a week or book a free estimate. Same-day service, no surprise charges.",
+  "footer_description": "Expert garage door repair, installation, and opener service serving Cambridge and Greater Boston. Open 7 days a week. Over a decade of experience.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Garage Door Repair",
+      "description": "Same-day repair for broken springs, cables, panels, and openers. Our experienced technicians arrive fast and fix it right the first time.",
+      "icon": "build",
+      "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Automatic Door Installation",
+      "description": "Upgrade from manual to automatic with a professionally installed garage door opener. We work with top brands to ensure quiet, reliable operation.",
+      "icon": "garage"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Opener Replacement & Repair",
+      "description": "Garage door opener grinding, stalling, or dead? We repair and replace all major brands with same-day availability.",
+      "icon": "settings_remote",
+      "phone": "(617) 500-2165"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Garage Doors",
+      "description": "Roll-up doors, sectional doors, and high-speed commercial doors for businesses across Greater Boston. Installation, service, and emergency repair.",
+      "icon": "warehouse"
+    }
+  ],
+  "services_all": [
+    {"name": "Spring Replacement"},
+    {"name": "Cable Repair"},
+    {"name": "Opener Installation"},
+    {"name": "Automatic Conversion"},
+    {"name": "Panel Replacement"},
+    {"name": "Track Repair"},
+    {"name": "Commercial Doors"},
+    {"name": "Preventive Maintenance"}
+  ],
+  "stats": [
+    {"value": "10+", "label": "Years in Business", "is_first": true},
+    {"value": "5,000+", "label": "Doors Serviced", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "engineering",
+      "title": "Experienced Technicians",
+      "description": "Over a decade of hands-on expertise. Our team has mastered their craft serving thousands of happy customers across Boston."
+    },
+    {
+      "icon": "event_available",
+      "title": "7 Days a Week — No Surcharges",
+      "description": "Open Monday through Sunday. We never charge extra for evening or weekend appointments."
+    },
+    {
+      "icon": "verified",
+      "title": "Quality Brands Only",
+      "description": "We work exclusively with top-tier brands so every installation and repair lasts for years to come."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Called in the morning, technician was here by lunch. Replaced a broken spring and the door works perfectly. No pressure, fair price. Will use again."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "We manage several properties and use Garage Doors of Boston for all our garage door needs. Reliable, professional, and always on time."
+    },
+    {
+      "name": "Homeowner",
+      "location": "Brookline, MA",
+      "stars": 5,
+      "text": "Converted our manual garage door to automatic. The installation was clean, the opener is whisper-quiet, and the price was very reasonable."
+    }
+  ]
+}

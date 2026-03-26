@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Fox Valley Garage Door Solutions",
+  "tagline": "Broken Spring at Midnight? Aurora's Got One Number to Call.",
+  "hero_subtitle": "Expert garage door repair, installation, and maintenance serving Aurora, IL and the entire Fox Valley region. 24/7 emergency service, transparent pricing, and a 4.9-star reputation built on 950+ reviews.",
+  "phone": "630-851-4400",
+  "email": "",
+  "address": "Aurora, IL",
+  "city": "Aurora, IL",
+  "service_area": "Aurora & the Fox Valley",
+  "service_area_description": "Serving Aurora, North Aurora, Batavia, Geneva, Naperville, Oswego, Plainfield, and surrounding Kane and DuPage County communities.",
+  "years_in_business": 10,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=1200&q=90",
+  "logo_url": "https://foxvalleygaragedoorsolutions.com/wp-content/uploads/2024/12/Logo.png",
+  "about_image_1": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=85",
+  "accent_color": "#475569",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Fox Valley Garage Door Solutions | 24/7 Garage Door Repair in Aurora, IL",
+  "seo_description": "Fox Valley Garage Door Solutions — 24/7 garage door repair, installation, and maintenance in Aurora, IL. Licensed technicians, transparent pricing. 4.9-star rated with 950+ reviews.",
+  "about_heading": "Aurora's Trusted Garage Door Experts",
+  "services_subtitle": "From broken springs to full installations — fast, reliable garage door service when you need it most.",
+  "reviews_heading": "4.9 Stars from 950+ Reviews",
+  "reviews_subtitle": "Fox Valley homeowners trust us to keep their garage doors running safely — day and night.",
+  "cta_heading": "Garage door stuck or making noise?",
+  "cta_subtitle": "Call us 24/7 or book a free inspection. We'll diagnose it fast and give you an honest quote.",
+  "footer_description": "Expert garage door repair, installation, and maintenance serving Aurora and the Fox Valley. 24/7 emergency service. Licensed and insured.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Garage Door Repair",
+      "description": "Broken springs, snapped cables, off-track doors, dented panels — our technicians diagnose and fix it fast, often same-day. Available 24/7 for emergencies.",
+      "icon": "build",
+      "image_url": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Garage Door Installation",
+      "description": "New construction or replacement — we carry top brands like Clopay, Amarr, and Wayne Dalton. Expert fitting and a perfect finish, every time.",
+      "icon": "garage"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Garage Door Opener Service",
+      "description": "LiftMaster, Genie, and Chamberlain opener installation, repair, and programming. Smart-home compatible openers available.",
+      "icon": "settings_remote",
+      "phone": "630-851-4400"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Preventive Maintenance",
+      "description": "Annual tune-ups that catch small problems before they become expensive repairs. Lubrication, balance testing, safety checks, and hardware tightening.",
+      "icon": "handyman"
+    }
+  ],
+  "services_all": [
+    {"name": "Spring Replacement"},
+    {"name": "Cable Repair"},
+    {"name": "Panel Replacement"},
+    {"name": "Opener Installation"},
+    {"name": "Track Realignment"},
+    {"name": "Roller Replacement"},
+    {"name": "Garage Door Installation"},
+    {"name": "Annual Maintenance"}
+  ],
+  "stats": [
+    {"value": "4.9", "label": "Star Rating", "is_first": true},
+    {"value": "950+", "label": "5-Star Reviews", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "engineering",
+      "title": "Licensed & Experienced Technicians",
+      "description": "Every technician is fully trained in the latest safety protocols and carries 10+ years of hands-on garage door experience."
+    },
+    {
+      "icon": "schedule",
+      "title": "24/7 Emergency Response",
+      "description": "Garage door emergencies don't wait — neither do we. Call anytime for fast, reliable service day or night."
+    },
+    {
+      "icon": "request_quote",
+      "title": "Transparent, Honest Pricing",
+      "description": "Clear estimates before we start. No hidden fees, no surprise charges. Just fair pricing for quality work."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah T.",
+      "location": "Aurora, IL",
+      "stars": 5,
+      "text": "They fixed my garage door the same day I called! The technician was friendly, professional, and explained everything clearly. Highly recommend."
+    },
+    {
+      "name": "Mike P.",
+      "location": "Batavia, IL",
+      "stars": 5,
+      "text": "New garage door installation was seamless. The team helped us choose a design that matched our home perfectly. Fantastic service from start to finish."
+    },
+    {
+      "name": "Linda R.",
+      "location": "Naperville, IL",
+      "stars": 5,
+      "text": "Affordable maintenance service that caught small issues before they became big problems. These guys really know what they're doing."
+    }
+  ]
+}
