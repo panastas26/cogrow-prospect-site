@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Crown Electric",
+  "tagline": "Medford's Full-Service Electrical Contractor",
+  "hero_subtitle": "Licensed electrical contractor serving Greater Boston with residential, commercial, and industrial electrical services. Quality workmanship and responsive service.",
+  "phone": "(781) 391-2200",
+  "email": "",
+  "address": "Medford, MA",
+  "city": "Medford, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Medford, Somerville, Malden, Everett, Arlington, and the Greater Boston area.",
+  "years_in_business": 20,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#dc2626",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Crown Electric | Electricians in Medford, MA",
+  "seo_description": "Crown Electric in Medford, MA. Licensed residential, commercial, and industrial electrical services for Greater Boston. Call (781) 391-2200.",
+  "about_heading": "Medford's Trusted Electrical Experts",
+  "services_subtitle": "Complete residential, commercial, and industrial electrical services across Greater Boston.",
+  "reviews_heading": "Greater Boston's Reliable Electricians",
+  "reviews_subtitle": "Homeowners and businesses trust Crown Electric for quality work and honest pricing.",
+  "cta_heading": "Power your project the right way.",
+  "cta_subtitle": "Get a free estimate. Licensed electricians, honest quotes, and work done right the first time.",
+  "footer_description": "Licensed electrical contractor in Medford, MA. Residential, commercial, and industrial services across Greater Boston.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Residential Electrical",
+      "description": "Panel upgrades, rewiring, lighting installation, outlet repair, code compliance, and whole-home electrical inspections.",
+      "icon": "home",
+      "image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Tenant improvements, office buildouts, LED retrofits, and commercial electrical maintenance. Minimal disruption to your business.",
+      "icon": "store"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Emergency Service",
+      "description": "Electrical emergencies require immediate response. Call us for fast, safe repairs when you need them most.",
+      "icon": "warning",
+      "phone": "(781) 391-2200"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Industrial Electrical",
+      "description": "Industrial facility electrical services including power distribution, machinery wiring, and preventive maintenance.",
+      "icon": "factory"
+    }
+  ],
+  "services_all": [
+    { "name": "Residential" },
+    { "name": "Commercial" },
+    { "name": "Industrial" },
+    { "name": "Emergency Service" },
+    { "name": "Panel Upgrades" },
+    { "name": "LED Retrofits" }
+  ],
+  "stats": [
+    { "value": "20+", "label": "Years Experience", "is_first": true },
+    { "value": "8000+", "label": "Jobs Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "MA Licensed",
+      "description": "Fully licensed and insured Massachusetts electrical contractor. Every project meets state and local code."
+    },
+    {
+      "icon": "location_on",
+      "title": "Medford Based",
+      "description": "Locally owned and operated. We know Greater Boston's homes, buildings, and electrical requirements."
+    },
+    {
+      "icon": "thumb_up",
+      "title": "Quality Guaranteed",
+      "description": "We stand behind our work. Honest pricing, clean installations, and customer satisfaction on every job."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Medford, MA",
+      "stars": 5,
+      "text": "Crown Electric upgraded our panel and rewired our kitchen. Clean work, fair price, and they cleaned up after themselves."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Somerville, MA",
+      "stars": 5,
+      "text": "Professional and reliable. They handled our office LED retrofit with zero disruption during business hours."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Malden, MA",
+      "stars": 5,
+      "text": "We use Crown for all our properties. Always responsive, always pass inspection on the first try."
+    }
+  ]
+}
