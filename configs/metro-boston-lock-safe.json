@@ -1,0 +1,114 @@
+{
+  "template": "field-service",
+  "company_name": "Metro Boston Lock & Safe",
+  "tagline": "Cambridge's Lock & Safe Authority — Security You Can Trust",
+  "hero_subtitle": "Expert locksmith services and safe solutions for homes and businesses across Greater Boston. From emergency lockouts to high-security vault installation, we do it all.",
+  "phone": "(617) 354-5600",
+  "email": "",
+  "address": "Cambridge, MA",
+  "city": "Cambridge, MA",
+  "service_area": "Cambridge & Greater Boston",
+  "service_area_description": "Serving Cambridge, Somerville, Boston, Brookline, Watertown, Newton, and the entire Greater Boston metro area.",
+  "years_in_business": 25,
+  "jobs_completed": 10000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=85",
+  "accent_color": "#1e3a5f",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Metro Boston Lock & Safe | Locksmith & Safe Services in Cambridge, MA",
+  "seo_description": "Metro Boston Lock & Safe — professional locksmith and safe services in Cambridge, MA. Residential, commercial, emergency lockouts, and safe installation. Locally trusted.",
+  "about_heading": "Greater Boston's Lock & Safe Specialists",
+  "services_subtitle": "From emergency lockouts to fireproof safe installation — full-service security solutions for homes and businesses across the metro.",
+  "reviews_heading": "Trusted Across Greater Boston",
+  "reviews_subtitle": "Cambridge families and business owners rely on Metro Boston Lock & Safe for quality work and honest pricing.",
+  "cta_heading": "Locked out? Need a safe? Call the pros.",
+  "cta_subtitle": "Fast emergency response and expert safe consultation. One call covers all your security needs.",
+  "footer_description": "Professional locksmith and safe services in Cambridge and Greater Boston. Residential, commercial, automotive, and safe specialists. Locally owned and operated.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Emergency Lockout Service",
+      "description": "Locked out of your home, business, or car? Our mobile technicians respond fast across Greater Boston — 24/7, including holidays.",
+      "icon": "lock_open",
+      "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Residential Locksmith",
+      "description": "Lock installation, rekeying, deadbolt upgrades, smart lock setup, and complete home security assessments to protect your family.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Commercial Security Solutions",
+      "description": "Access control, master key systems, high-security locks, and commercial safe installation for offices, retail, and industrial facilities.",
+      "icon": "business",
+      "phone": "(617) 354-5600"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Safe Sales & Service",
+      "description": "Home safes, commercial vaults, fire-rated safes, gun safes, and deposit safes. Expert installation, combination changes, and safe cracking.",
+      "icon": "shield"
+    }
+  ],
+  "services_all": [
+    {"name": "Emergency Lockouts"},
+    {"name": "Lock Rekeying"},
+    {"name": "Deadbolt Installation"},
+    {"name": "Safe Installation"},
+    {"name": "Safe Cracking & Repair"},
+    {"name": "Access Control Systems"},
+    {"name": "Master Key Systems"},
+    {"name": "Automotive Locksmith"},
+    {"name": "High-Security Locks"},
+    {"name": "Smart Lock Installation"}
+  ],
+  "stats": [
+    {"value": "25+", "label": "Years in Business", "is_first": true},
+    {"value": "10,000+", "label": "Jobs Completed", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "security",
+      "title": "Lock & Safe Specialists",
+      "description": "Unlike general locksmiths, we combine deep lock expertise with professional safe services — one company for all your security needs."
+    },
+    {
+      "icon": "speed",
+      "title": "Fast Emergency Response",
+      "description": "Cambridge-based mobile technicians reach you quickly across Greater Boston for lockouts and urgent security needs."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & Insured",
+      "description": "Every technician is fully licensed and insured, with specialized training in both locksmith services and safe mechanics."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Metro Boston installed a fireproof safe in our basement and rekeyed every lock in the house. Thorough, professional, and reasonably priced. Couldn't ask for more."
+    },
+    {
+      "name": "Restaurant Owner",
+      "location": "Somerville, MA",
+      "stars": 5,
+      "text": "They set up our master key system and installed a commercial safe for our daily deposits. Fast, reliable, and they really know their stuff."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Brookline, MA",
+      "stars": 5,
+      "text": "I've used Metro Boston Lock & Safe for years across multiple properties. Always responsive, always fair pricing, always quality work. Highly recommend."
+    }
+  ]
+}

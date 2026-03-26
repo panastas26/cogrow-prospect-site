@@ -1,0 +1,114 @@
+{
+  "template": "field-service",
+  "company_name": "East Coast Lock & Door",
+  "tagline": "Malden's Lock & Door Specialists — Fast, Reliable, Done Right",
+  "hero_subtitle": "Full-service locksmith and door hardware experts serving Malden and the North Shore. Residential, commercial, and emergency services you can count on.",
+  "phone": "(781) 324-7000",
+  "email": "",
+  "address": "Malden, MA",
+  "city": "Malden, MA",
+  "service_area": "Malden & North Shore",
+  "service_area_description": "Serving Malden, Medford, Everett, Melrose, Revere, Saugus, and surrounding North Shore communities.",
+  "years_in_business": 20,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "accent_color": "#1e3a5f",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "East Coast Lock & Door | Locksmith & Door Services in Malden, MA",
+  "seo_description": "East Coast Lock & Door — residential, commercial, and emergency locksmith and door services in Malden, MA. Fast response, fair pricing, trusted locally.",
+  "about_heading": "Malden's Trusted Lock & Door Professionals",
+  "services_subtitle": "From emergency lockouts to commercial door installation — expert lock and door services when you need them most.",
+  "reviews_heading": "Trusted by Malden Homes & Businesses",
+  "reviews_subtitle": "Our customers count on us for fast response, quality workmanship, and fair prices — every time.",
+  "cta_heading": "Need a locksmith or door repair — now?",
+  "cta_subtitle": "Call us for fast service across Malden and the North Shore. Emergency and same-day appointments available.",
+  "footer_description": "Full-service locksmith and door specialists serving Malden, MA and the North Shore. Residential, commercial, and emergency services. Locally owned and operated.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Emergency Lockout Service",
+      "description": "Locked out of your home, office, or vehicle? Our technicians respond fast with the tools and expertise to get you back inside — without damage.",
+      "icon": "lock_open",
+      "image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Residential Lock & Door Service",
+      "description": "Deadbolt installation, lock rekeying, door repairs, weather stripping, and home security upgrades to keep your family safe.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Commercial Lock & Door Systems",
+      "description": "Master key systems, access control, commercial door installation and repair, panic hardware, and door closers for offices and storefronts.",
+      "icon": "business",
+      "phone": "(781) 324-7000"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Door Installation & Repair",
+      "description": "Interior and exterior door installation, frame repair, hinge replacement, and storm door fitting for residential and commercial properties.",
+      "icon": "meeting_room"
+    }
+  ],
+  "services_all": [
+    {"name": "Emergency Lockouts"},
+    {"name": "Deadbolt Installation"},
+    {"name": "Lock Rekeying"},
+    {"name": "Door Installation"},
+    {"name": "Door Frame Repair"},
+    {"name": "Commercial Door Hardware"},
+    {"name": "Access Control Systems"},
+    {"name": "Master Key Systems"},
+    {"name": "Panic Bar Installation"},
+    {"name": "Break-In Repair"}
+  ],
+  "stats": [
+    {"value": "20+", "label": "Years of Experience", "is_first": true},
+    {"value": "8,000+", "label": "Jobs Completed", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "handyman",
+      "title": "Lock & Door Experts",
+      "description": "We specialize in both locksmith services and door hardware — a rare combination that means one call handles everything."
+    },
+    {
+      "icon": "speed",
+      "title": "Fast Local Response",
+      "description": "Based in Malden and serving the entire North Shore, we arrive quickly for emergencies and scheduled appointments alike."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed and insured technicians who treat your property with care and stand behind every job."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Malden, MA",
+      "stars": 5,
+      "text": "Called East Coast after a break-in damaged our front door. They replaced the door and locks the same day. Professional, fast, and fairly priced."
+    },
+    {
+      "name": "Office Manager",
+      "location": "Medford, MA",
+      "stars": 5,
+      "text": "They installed a master key system for our entire office building. Clean work, great communication, and everything works perfectly."
+    },
+    {
+      "name": "Landlord",
+      "location": "Everett, MA",
+      "stars": 5,
+      "text": "I use East Coast Lock & Door for all my rental properties. Quick rekeying between tenants and they always give me a fair price. Highly recommend."
+    }
+  ]
+}

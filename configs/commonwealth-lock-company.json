@@ -1,0 +1,114 @@
+{
+  "template": "field-service",
+  "company_name": "Commonwealth Lock Company",
+  "tagline": "90 Years of Lock & Security Expertise — Cambridge Trusts Commonwealth",
+  "hero_subtitle": "Family-owned since 1936, Commonwealth Lock Company is a nationally recognized wholesale distributor of locksmith supplies, door hardware, and safes. Visit our Cambridge showroom or order from anywhere in the U.S.",
+  "phone": "617-876-3301",
+  "email": "",
+  "address": "1853 Massachusetts Ave, Cambridge, MA 02140",
+  "city": "Cambridge, MA",
+  "service_area": "Cambridge & Greater Boston",
+  "service_area_description": "Serving Cambridge, Somerville, Boston, Arlington, Watertown, and customers nationwide through wholesale distribution.",
+  "years_in_business": 90,
+  "jobs_completed": 50000,
+  "hero_image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=85",
+  "accent_color": "#1e3a5f",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Commonwealth Lock Company | Locksmith Supply & Door Hardware in Cambridge, MA",
+  "seo_description": "Commonwealth Lock Company — family-owned since 1936. National wholesale distributor of locksmith supplies, door hardware, and safes in Cambridge, MA. BBB A+ rated.",
+  "about_heading": "Cambridge's Longest-Running Lock & Hardware Supplier",
+  "services_subtitle": "From premium lock hardware to high-security safes — wholesale pricing and expert product knowledge since 1936.",
+  "reviews_heading": "A+ BBB Rating — Trusted Since 1936",
+  "reviews_subtitle": "Locksmiths and contractors across the country rely on Commonwealth Lock for quality products and dependable service.",
+  "cta_heading": "Need lock hardware, safes, or expert advice?",
+  "cta_subtitle": "Visit our Cambridge showroom on Mass Ave or call us for wholesale pricing and fast nationwide shipping.",
+  "footer_description": "Family-owned wholesale distributor of locksmith supplies, door hardware, and safes since 1936. BBB A+ accredited. Located at 1853 Mass Ave, Cambridge, MA.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Locksmith Supply Distribution",
+      "description": "National wholesale distributor of lock cylinders, key blanks, locksmith tools, and professional-grade hardware from every major manufacturer.",
+      "icon": "lock_open",
+      "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Door Hardware Sales",
+      "description": "Commercial and residential door hardware including lever sets, deadbolts, closers, hinges, and exit devices from top brands.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Safe Sales & Consultation",
+      "description": "Residential, commercial, and high-security safes for every application — from fire-rated home safes to jeweler-grade vaults. Expert guidance included.",
+      "icon": "business",
+      "phone": "617-876-3301"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Special Orders & Nationwide Shipping",
+      "description": "Can't find what you need? We source specialty lock and hardware products from our extensive manufacturer network and ship anywhere in the U.S.",
+      "icon": "local_shipping"
+    }
+  ],
+  "services_all": [
+    {"name": "Lock Cylinders & Key Blanks"},
+    {"name": "Deadbolts & Lever Sets"},
+    {"name": "Door Closers & Hinges"},
+    {"name": "Exit Devices & Panic Bars"},
+    {"name": "Residential & Commercial Safes"},
+    {"name": "Access Control Hardware"},
+    {"name": "Locksmith Tools & Picks"},
+    {"name": "Cabinet & Furniture Locks"},
+    {"name": "Padlocks & Key Systems"},
+    {"name": "Special Orders & Sourcing"}
+  ],
+  "stats": [
+    {"value": "90", "label": "Years in Business", "is_first": true},
+    {"value": "A+", "label": "BBB Rating", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "family_restroom",
+      "title": "Family-Owned Since 1936",
+      "description": "Three generations of lock and hardware expertise. Commonwealth Lock is one of the oldest continuously operating locksmith suppliers in the country."
+    },
+    {
+      "icon": "verified_user",
+      "title": "BBB A+ Accredited",
+      "description": "Accredited by the Better Business Bureau since 1990 with an A+ rating — a testament to decades of trust and fair dealing."
+    },
+    {
+      "icon": "local_shipping",
+      "title": "National Wholesale Distribution",
+      "description": "We ship locksmith supplies, door hardware, and safes to professionals and businesses across the entire United States."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Professional Locksmith",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Been buying from Commonwealth Lock for over 20 years. They always have what I need in stock, and their product knowledge is unmatched. Best supplier in New England."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Somerville, MA",
+      "stars": 5,
+      "text": "Great selection of commercial hardware and very competitive wholesale pricing. Their staff helped me spec out an entire building rekey — saved me time and money."
+    },
+    {
+      "name": "Security Contractor",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "Commonwealth Lock is my go-to for specialty hardware. If they don't have it on the shelf, they'll source it fast. Family-run business that treats you right."
+    }
+  ]
+}
