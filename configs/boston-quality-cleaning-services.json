@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Boston Quality Cleaning Services",
+  "tagline": "20 Years of Spotless Results, Guaranteed",
+  "hero_subtitle": "BBB-accredited commercial cleaning company serving offices, medical facilities, restaurants, and commercial buildings across Greater Boston since 2002.",
+  "phone": "(781) 395-0900",
+  "email": "info@officecleaningboston.com",
+  "address": "Medford, MA",
+  "city": "Medford, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Medford, Somerville, Cambridge, Boston, and the entire Greater Boston metro area.",
+  "years_in_business": 22,
+  "jobs_completed": 2000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "https://www.officecleaningboston.com/wp-content/uploads/2025/04/Boston-Quality-Cleaning-Services-1024x293.webp",
+  "about_image_1": "https://www.officecleaningboston.com/wp-content/uploads/2025/04/Boston-Quality-1-980x1024.webp",
+  "about_image_2": "https://www.officecleaningboston.com/wp-content/uploads/2025/04/Boston-Quality-3.webp",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Boston Quality Cleaning Services | Commercial Cleaning in Medford, MA",
+  "seo_description": "Boston Quality Cleaning Services in Medford, MA. BBB-accredited office and commercial cleaning since 2002. 100+ clients served. Call (781) 395-0900.",
+  "about_heading": "Trusted by Greater Boston Since 2002",
+  "services_subtitle": "Complete janitorial and commercial cleaning for every type of facility — offices, medical, restaurants, and more.",
+  "reviews_heading": "BBB Accredited, Client Approved",
+  "reviews_subtitle": "20+ years of consistent quality and 100+ satisfied commercial clients across Greater Boston.",
+  "cta_heading": "See the quality difference for yourself.",
+  "cta_subtitle": "Schedule a free estimate. We'll walk your facility and build a custom cleaning plan.",
+  "footer_description": "BBB-accredited commercial cleaning company in Medford, MA. Office, medical, restaurant, and facility cleaning since 2002.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Office Cleaning",
+      "description": "Daily, weekly, or monthly office cleaning programs. Desks, floors, restrooms, kitchens, and conference rooms kept pristine.",
+      "icon": "cleaning_services",
+      "image_url": "https://www.officecleaningboston.com/wp-content/uploads/2025/04/Office-Buildings.webp"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Medical & Dental Facility Cleaning",
+      "description": "Specialized cleaning protocols for healthcare environments. Sterilization, biohazard compliance, and OSHA standards met.",
+      "icon": "local_hospital"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Restaurant Cleaning",
+      "description": "Kitchen deep cleaning, dining area maintenance, and health code compliance. Keep your restaurant inspection-ready.",
+      "icon": "restaurant",
+      "phone": "(781) 395-0900"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Building Cleaning",
+      "description": "Full-building janitorial for lobbies, elevators, stairwells, and common areas. Professional results at scale.",
+      "icon": "apartment"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Medical Facilities" },
+    { "name": "Restaurants" },
+    { "name": "Car Dealerships" },
+    { "name": "Hotels" },
+    { "name": "Day Care Centers" }
+  ],
+  "stats": [
+    { "value": "20+", "label": "Years Experience", "is_first": true },
+    { "value": "2000+", "label": "Projects Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "workspace_premium",
+      "title": "BBB Accredited",
+      "description": "BBB A+ rated business. Our commitment to ethical, trustworthy practices is verified and recognized."
+    },
+    {
+      "icon": "groups",
+      "title": "100+ Active Clients",
+      "description": "Offices, medical practices, restaurants, and commercial buildings trust us with their cleaning needs daily."
+    },
+    {
+      "icon": "eco",
+      "title": "Green Cleaning Available",
+      "description": "Eco-friendly products and methods for environmentally conscious businesses. Safe for staff and visitors."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Office Manager",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "We've used Boston Quality for over five years. They're the most consistent cleaning company we've ever had. BBB accredited for good reason."
+    },
+    {
+      "name": "Restaurant Owner",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Our kitchen and dining areas have never looked better. They understand food service cleaning requirements and always pass inspection."
+    },
+    {
+      "name": "Dental Office Director",
+      "location": "Medford, MA",
+      "stars": 5,
+      "text": "Healthcare cleaning requires attention to detail that most companies can't deliver. Boston Quality gets it right every time."
+    }
+  ]
+}
