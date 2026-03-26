@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "MetroWest Commercial Cleaning",
+  "tagline": "Framingham's Trusted Commercial Cleaning Pros",
+  "hero_subtitle": "Professional commercial cleaning and janitorial services for offices, medical facilities, and commercial buildings across MetroWest Boston.",
+  "phone": "(508) 872-7773",
+  "email": "",
+  "address": "Framingham, MA",
+  "city": "Framingham, MA",
+  "service_area": "MetroWest Boston",
+  "service_area_description": "Serving Framingham, Natick, Ashland, Sudbury, Wellesley, and the MetroWest region.",
+  "years_in_business": 15,
+  "jobs_completed": 4000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "MetroWest Commercial Cleaning | Commercial Cleaning in Framingham, MA",
+  "seo_description": "MetroWest Commercial Cleaning in Framingham, MA. Professional office and janitorial services for MetroWest businesses. Call (508) 872-7773 for a free estimate.",
+  "about_heading": "MetroWest's Commercial Cleaning Experts",
+  "services_subtitle": "Complete commercial cleaning and janitorial services for offices, medical facilities, and retail across MetroWest.",
+  "reviews_heading": "MetroWest Businesses Choose Us",
+  "reviews_subtitle": "Offices, medical practices, and commercial buildings across MetroWest rely on our quality.",
+  "cta_heading": "Your MetroWest facility deserves better.",
+  "cta_subtitle": "Schedule a free walkthrough and customized cleaning quote. No contracts, no hassle.",
+  "footer_description": "Professional commercial cleaning and janitorial services for MetroWest businesses. Locally owned in Framingham, MA.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Office Cleaning",
+      "description": "Professional office cleaning on your schedule. Workstations, restrooms, kitchens, and conference rooms maintained to a high standard.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Medical Facility Cleaning",
+      "description": "Specialized cleaning for medical and dental offices. OSHA-compliant disinfection and sterilization protocols.",
+      "icon": "local_hospital"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Floor & Carpet Care",
+      "description": "Carpet extraction, tile stripping, waxing, and hardwood floor care. Protect and maintain your flooring.",
+      "icon": "layers",
+      "phone": "(508) 872-7773"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Building Janitorial",
+      "description": "Full-building janitorial programs for lobbies, elevators, stairwells, and common areas. Consistent results at scale.",
+      "icon": "apartment"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Medical Facilities" },
+    { "name": "Floor Care" },
+    { "name": "Janitorial" },
+    { "name": "Window Cleaning" },
+    { "name": "Deep Cleaning" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Business", "is_first": true },
+    { "value": "4000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "MetroWest Based",
+      "description": "Locally owned in Framingham. We serve MetroWest with the responsiveness and care of a neighbor."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Your facility is in safe, professional hands."
+    },
+    {
+      "icon": "schedule",
+      "title": "Flexible Scheduling",
+      "description": "Day, evening, and weekend cleaning. We work around your business hours, not the other way around."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Office Manager",
+      "location": "Framingham, MA",
+      "stars": 5,
+      "text": "MetroWest Commercial Cleaning has been our go-to for years. Always reliable, always thorough. Highly recommend."
+    },
+    {
+      "name": "Dental Office Director",
+      "location": "Natick, MA",
+      "stars": 5,
+      "text": "We need a higher standard of clean for our practice. They deliver every time and understand healthcare requirements."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Wellesley, MA",
+      "stars": 5,
+      "text": "Professional crew, fair pricing, and consistent quality. They handle all our MetroWest commercial properties."
+    }
+  ]
+}
