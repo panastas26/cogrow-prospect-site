@@ -1,0 +1,123 @@
+{
+  "template": "professional-service",
+  "company_name": "Glenview Insurance Partners",
+  "tagline": "Stop Overpaying for Coverage You Don't Understand",
+  "hero_subtitle": "Glenview Insurance Partners delivers personalized insurance solutions for families and businesses across the North Shore. Local expertise, independent options, and real people who pick up the phone.",
+  "phone": "847-724-8800",
+  "email": "",
+  "address": "Glenview, IL 60025",
+  "city": "Glenview, IL",
+  "service_area": "Chicago North Shore",
+  "service_area_description": "Serving Glenview, Northbrook, Wilmette, Winnetka, and the greater North Shore area.",
+  "years_in_business": 15,
+  "jobs_completed": 3000,
+  "hero_image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=85",
+  "accent_color": "#0ea5e9",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Glenview Insurance Partners | Insurance Agency in Glenview, IL",
+  "seo_description": "Glenview Insurance Partners provides personalized home, auto, business, and life insurance solutions for families and businesses across the North Shore.",
+  "about_heading": "Independent Insurance Built on Local Trust",
+  "services_subtitle": "Full-service insurance coverage for every stage of life and business.",
+  "reviews_heading": "Our Clients Say It Best",
+  "reviews_subtitle": "Families and businesses across Glenview trust us to protect what matters most.",
+  "cta_heading": "Get a free insurance review. See what you're missing.",
+  "cta_subtitle": "Book a no-pressure consultation and we'll audit your current coverage for gaps and savings.",
+  "footer_description": "Independent insurance agency serving Glenview and the North Shore with personalized coverage solutions.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Home Insurance",
+      "description": "Protect your most valuable asset with comprehensive homeowners coverage tailored to North Shore properties.",
+      "icon": "home",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=85"
+    },
+    {
+      "name": "Business Insurance",
+      "description": "Custom commercial packages that protect your livelihood — from general liability to workers' comp and beyond.",
+      "icon": "business",
+      "image_url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Auto Insurance",
+      "description": "Competitive rates from multiple carriers so you get the right coverage without the sticker shock.",
+      "icon": "directions_car"
+    },
+    {
+      "name": "Life Insurance",
+      "description": "Term and whole life policies that give your family a financial safety net when it matters most.",
+      "icon": "favorite"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Umbrella Insurance",
+      "description": "Extra liability protection that kicks in when your other policies max out. Essential for high-value households.",
+      "icon": "umbrella",
+      "phone": "847-724-8800"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Property Insurance",
+      "description": "Safeguard your business location, equipment, and inventory against fire, theft, and natural disasters.",
+      "icon": "apartment"
+    }
+  ],
+  "services_all": [
+    { "name": "Home Insurance" },
+    { "name": "Auto Insurance" },
+    { "name": "Business Insurance" },
+    { "name": "Life Insurance" },
+    { "name": "Umbrella Insurance" },
+    { "name": "Commercial Property Insurance" },
+    { "name": "Workers' Compensation" },
+    { "name": "Renters Insurance" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Glenview", "is_first": true },
+    { "value": "3,000+", "label": "Policies Managed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "Independent & Unbiased",
+      "description": "We shop dozens of carriers to find you the best coverage at the best price — no corporate quotas."
+    },
+    {
+      "icon": "location_on",
+      "title": "Locally Rooted",
+      "description": "Based in Glenview and serving the North Shore community with real, face-to-face relationships."
+    },
+    {
+      "icon": "support_agent",
+      "title": "Claims Advocacy",
+      "description": "When you file a claim, we fight for you — not the insurance company. That's the independent advantage."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jennifer R.",
+      "location": "Glenview, IL",
+      "stars": 5,
+      "text": "They saved us over $1,200 a year by shopping our home and auto together. Should have switched years ago."
+    },
+    {
+      "name": "Mark & Lisa T.",
+      "location": "Northbrook, IL",
+      "stars": 5,
+      "text": "When a pipe burst in our basement, they walked us through every step of the claim. True advocates."
+    },
+    {
+      "name": "Steve D.",
+      "location": "Wilmette, IL",
+      "stars": 5,
+      "text": "Finally an insurance agent who explains things in plain English and actually returns phone calls."
+    }
+  ]
+}

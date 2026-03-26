@@ -1,0 +1,130 @@
+{
+  "template": "professional-service",
+  "company_name": "KSD Insurance Agency",
+  "tagline": "Your Policy Should Work as Hard as You Do",
+  "hero_subtitle": "Since 1991, Kevin Dougherty and Marcella Grunert have delivered no-nonsense insurance for Illinois families and businesses. Independent agents, dozens of carriers, one goal — your best rate.",
+  "phone": "630-575-0800",
+  "email": "info@ksdinsurance.com",
+  "address": "1000 Jorie Blvd., Suite 109, Oak Brook, IL 60523",
+  "city": "Oak Brook, IL",
+  "service_area": "Chicagoland & Tri-State",
+  "service_area_description": "Serving clients across Illinois, Wisconsin, and Indiana from our Oak Brook office.",
+  "years_in_business": 35,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=90",
+  "logo_url": "https://insurewithkevin.com/wp-content/uploads/2016/11/ksd-logo-black.png",
+  "about_image_1": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=85",
+  "accent_color": "#0ea5e9",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "KSD Insurance Agency | Independent Insurance in Oak Brook, IL",
+  "seo_description": "KSD Insurance Agency has provided independent home, auto, business, and life insurance in Oak Brook, IL since 1991. Get competitive rates from dozens of carriers.",
+  "about_heading": "35 Years of Putting Policyholders First",
+  "services_subtitle": "Personal and commercial insurance from an independent agency that shops the market for you.",
+  "reviews_heading": "Why Clients Stay for Decades",
+  "reviews_subtitle": "Same owners since 1991. Same commitment to finding you better coverage at better rates.",
+  "cta_heading": "Get a free policy audit. Most clients save money.",
+  "cta_subtitle": "Book a no-obligation review. We'll compare your current coverage against dozens of carriers.",
+  "footer_description": "Independent insurance agency in Oak Brook serving Illinois, Wisconsin, and Indiana since 1991.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Home Insurance",
+      "description": "Guaranteed replacement cost, sewer backup, earthquake, jewelry, and fine arts coverage — customized for Chicagoland homeowners.",
+      "icon": "home",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=85"
+    },
+    {
+      "name": "Business Insurance",
+      "description": "Custom commercial packages for restaurants, contractors, manufacturers, retailers, and mixed-use buildings of every size.",
+      "icon": "business",
+      "image_url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Auto Insurance",
+      "description": "Competitive auto rates from multiple carriers including Erie, Progressive, and The Hartford.",
+      "icon": "directions_car"
+    },
+    {
+      "name": "Life Insurance",
+      "description": "Term and whole life policies for income replacement, debt payoff, education funding, and estate planning.",
+      "icon": "favorite"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Workers' Compensation",
+      "description": "Mandatory coverage for job-related injuries and illnesses. We find the right policy for businesses of every size.",
+      "icon": "health_and_safety",
+      "phone": "630-575-0800"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Auto Insurance",
+      "description": "Protect your fleet and business vehicles from accidents, vandalism, and uninsured motorists.",
+      "icon": "local_shipping"
+    }
+  ],
+  "services_all": [
+    { "name": "Home Insurance" },
+    { "name": "Auto Insurance" },
+    { "name": "Business Insurance" },
+    { "name": "Life Insurance" },
+    { "name": "Workers' Compensation" },
+    { "name": "Commercial Auto Insurance" },
+    { "name": "Umbrella Insurance" },
+    { "name": "Renters Insurance" },
+    { "name": "Condo Insurance" },
+    { "name": "Motorcycle Insurance" },
+    { "name": "Boat Insurance" },
+    { "name": "Business Crime Insurance" },
+    { "name": "Business Interruption Insurance" },
+    { "name": "Liability Insurance" },
+    { "name": "Property Insurance" }
+  ],
+  "stats": [
+    { "value": "35+", "label": "Years in Business", "is_first": true },
+    { "value": "3", "label": "States Served", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "Trusted Choice Agency",
+      "description": "Certified Trusted Choice member — independent agents bound by a code of ethics and consumer advocacy."
+    },
+    {
+      "icon": "handshake",
+      "title": "Same Owners Since 1991",
+      "description": "Kevin and Marcella have been here from day one. You'll speak with the same people who built this agency."
+    },
+    {
+      "icon": "compare_arrows",
+      "title": "Dozens of Carriers",
+      "description": "We represent Erie, Progressive, The Hartford, CNA, AmTrust, and many more — so you get the best rate, period."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Patricia M.",
+      "location": "Oak Brook, IL",
+      "stars": 5,
+      "text": "Kevin has handled our home and auto for over 15 years. Every renewal, he shops it again to make sure we're getting the best deal."
+    },
+    {
+      "name": "James & Donna K.",
+      "location": "Naperville, IL",
+      "stars": 5,
+      "text": "Marcella helped us bundle our business and personal policies. Saved us a fortune and the coverage is actually better."
+    },
+    {
+      "name": "Tony R.",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "When I had a fender bender, they handled the entire claim for me. I barely had to lift a finger. This is what insurance should be."
+    }
+  ]
+}
