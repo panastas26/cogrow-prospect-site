@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "C. Acitelli Heating & Piping Contractors",
+  "tagline": "Chicagoland's HVAC Experts Since 1949",
+  "hero_subtitle": "Commercial and industrial HVAC contractors serving the Chicago metro area since 1949. Heating, piping, and mechanical services with 90%+ repeat and referral business.",
+  "phone": "630-832-4645",
+  "email": "",
+  "address": "Villa Park, IL",
+  "city": "Villa Park, IL",
+  "service_area": "Chicagoland",
+  "service_area_description": "Serving Villa Park, Elmhurst, Lombard, Oak Brook, and the greater Chicagoland area.",
+  "years_in_business": 77,
+  "jobs_completed": 15000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#0369a1",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "C. Acitelli Heating & Piping | HVAC Contractors in Villa Park, IL",
+  "seo_description": "C. Acitelli Heating & Piping Contractors in Villa Park, IL. Commercial and industrial HVAC since 1949. Union tradesmen. Call 630-832-4645.",
+  "about_heading": "77 Years of Heating & Piping Excellence",
+  "services_subtitle": "Commercial, industrial, and institutional HVAC services delivered by union tradesmen since 1949.",
+  "reviews_heading": "90% Repeat & Referral Business",
+  "reviews_subtitle": "Our reputation speaks for itself. Nearly all our work comes from repeat clients and referrals.",
+  "cta_heading": "HVAC expertise built over 77 years.",
+  "cta_subtitle": "Schedule a consultation. We'll assess your heating and piping needs and deliver a clear, honest estimate.",
+  "footer_description": "Commercial and industrial HVAC contractors in Villa Park, IL since 1949. Union tradesmen, 90%+ repeat business.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Commercial HVAC",
+      "description": "Complete heating, ventilation, and air conditioning for commercial buildings. Design, installation, and service.",
+      "icon": "ac_unit",
+      "image_url": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Industrial HVAC",
+      "description": "Heavy-duty HVAC systems for manufacturing, warehousing, and industrial facilities. Built to handle demanding environments.",
+      "icon": "factory"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Piping & Mechanical",
+      "description": "Process piping, steam systems, hydronic heating, and mechanical installations for commercial and industrial clients.",
+      "icon": "plumbing",
+      "phone": "630-832-4645"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Service & Maintenance",
+      "description": "Preventive maintenance programs and emergency service to keep your HVAC systems running efficiently year-round.",
+      "icon": "build"
+    }
+  ],
+  "services_all": [
+    { "name": "Commercial HVAC" },
+    { "name": "Industrial HVAC" },
+    { "name": "Piping" },
+    { "name": "Service & Maintenance" },
+    { "name": "Institutional" },
+    { "name": "Specialty HVAC" }
+  ],
+  "stats": [
+    { "value": "77", "label": "Years in Business", "is_first": true },
+    { "value": "90%+", "label": "Repeat & Referral", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "groups",
+      "title": "Union Tradesmen Only",
+      "description": "Every job is performed by skilled union tradesmen. Quality craftsmanship and professional standards on every project."
+    },
+    {
+      "icon": "history",
+      "title": "Founded in 1949",
+      "description": "Founded by Charles Acitelli Sr. and Anthony Acitelli. Three generations of HVAC expertise serving Chicagoland."
+    },
+    {
+      "icon": "thumb_up",
+      "title": "90%+ Repeat Business",
+      "description": "Our clients come back because we deliver. Nearly all our work comes from repeat customers and referrals."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Facility Manager",
+      "location": "Villa Park, IL",
+      "stars": 5,
+      "text": "Acitelli has maintained our HVAC systems for over a decade. Union quality work, reliable service, and fair pricing."
+    },
+    {
+      "name": "School District Director",
+      "location": "Elmhurst, IL",
+      "stars": 5,
+      "text": "They handle all the heating and piping for our school buildings. Professional, thorough, and they work around our schedule."
+    },
+    {
+      "name": "Industrial Plant Manager",
+      "location": "Lombard, IL",
+      "stars": 5,
+      "text": "77 years in business for a reason. Acitelli's team knows industrial HVAC better than anyone in Chicagoland."
+    }
+  ]
+}
