@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Naperville Office Cleaning Group",
+  "tagline": "Naperville Offices Deserve Premium Clean",
+  "hero_subtitle": "Professional office cleaning and janitorial services for businesses across Naperville, Aurora, and the western suburbs of Chicago.",
+  "phone": "630-355-9900",
+  "email": "",
+  "address": "Naperville, IL",
+  "city": "Naperville, IL",
+  "service_area": "Western Suburbs of Chicago",
+  "service_area_description": "Serving Naperville, Aurora, Lisle, Bolingbrook, Wheaton, and the western suburbs.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Naperville Office Cleaning Group | Office Cleaning in Naperville, IL",
+  "seo_description": "Naperville Office Cleaning Group in Naperville, IL. Professional office and commercial cleaning for the western suburbs. Call 630-355-9900 for a free estimate.",
+  "about_heading": "Naperville's Office Cleaning Specialists",
+  "services_subtitle": "Dedicated office cleaning and commercial janitorial services for Naperville and the western suburbs.",
+  "reviews_heading": "Naperville Businesses Trust Us",
+  "reviews_subtitle": "Offices, medical practices, and commercial buildings across the western suburbs rely on our team.",
+  "cta_heading": "Your office deserves a premium clean.",
+  "cta_subtitle": "Schedule a free estimate. We'll customize a cleaning plan for your space and budget.",
+  "footer_description": "Professional office cleaning and janitorial services in Naperville and the western suburbs of Chicago.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Office Cleaning",
+      "description": "Complete office cleaning programs: desks, restrooms, kitchens, conference rooms, and common areas. Daily, weekly, or custom schedule.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Janitorial",
+      "description": "Full-building janitorial services for office parks, medical buildings, and retail centers. Dedicated crews and quality you can count on.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Carpet & Floor Care",
+      "description": "Professional carpet cleaning, tile stripping, waxing, and floor maintenance. Keep your floors looking new.",
+      "icon": "layers",
+      "phone": "630-355-9900"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Deep Cleaning & Sanitization",
+      "description": "Comprehensive deep cleaning for offices and commercial spaces. Sanitization and disinfection protocols available.",
+      "icon": "health_and_safety"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Janitorial" },
+    { "name": "Carpet Cleaning" },
+    { "name": "Floor Care" },
+    { "name": "Deep Cleaning" },
+    { "name": "Sanitization" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Business", "is_first": true },
+    { "value": "5000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "Naperville Based",
+      "description": "Locally owned and operated. Proudly serving Naperville and the western suburbs of Chicago."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Background-checked staff for your peace of mind."
+    },
+    {
+      "icon": "schedule",
+      "title": "After-Hours Cleaning",
+      "description": "Evening and weekend service available. We clean when your office is empty so there's zero disruption."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Office Manager",
+      "location": "Naperville, IL",
+      "stars": 5,
+      "text": "They've been cleaning our office for three years and the quality has never dropped. Professional, punctual, and thorough."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Aurora, IL",
+      "stars": 5,
+      "text": "We tried several cleaning companies before finding Naperville Office Cleaning Group. Finally, consistent quality we can rely on."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Lisle, IL",
+      "stars": 5,
+      "text": "They manage cleaning for our entire office park. Great communication and the tenants are always happy."
+    }
+  ]
+}
