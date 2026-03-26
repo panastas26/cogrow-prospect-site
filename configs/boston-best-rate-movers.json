@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Boston Best Rate Movers",
+  "tagline": "33,000+ Moves Since 2002 — No Hidden Fees, Ever",
+  "hero_subtitle": "Professional local & long-distance movers serving Greater Boston since 2002. Transparent hourly pricing, full-time crews, and 797+ five-star reviews.",
+  "phone": "(617) 787-3528",
+  "email": "info@bostonbestrate.com",
+  "address": "252R Calvary Street, Waltham, MA 02453",
+  "city": "Boston, MA",
+  "service_area": "Greater Boston & East Coast",
+  "service_area_description": "Serving 290+ communities across Massachusetts — Boston, Cambridge, Brookline, Newton, Somerville, and interstate moves along the East Coast.",
+  "years_in_business": 24,
+  "jobs_completed": 33158,
+  "hero_image_url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=90",
+  "logo_url": "https://www.bostonbestrate.com/images/logos/logo-trans-2x.webp",
+  "about_image_1": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85",
+  "accent_color": "#f59e0b",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Boston Best Rate Movers | Trusted Moving Company in Boston, MA",
+  "seo_description": "Boston Best Rate Movers: 24 years, 33,000+ moves, transparent hourly pricing. Professional local and long-distance moving in Greater Boston.",
+  "about_heading": "Boston's Most Reviewed Moving Company",
+  "services_subtitle": "Full-service moving — local, long-distance, packing, storage, and commercial relocations with transparent hourly pricing.",
+  "reviews_heading": "797+ Five-Star Reviews Can't Be Wrong",
+  "reviews_subtitle": "Full-time professional crews, on-time guarantees, and zero hidden fees on every move.",
+  "cta_heading": "Stop overpaying. Get Boston's best rate.",
+  "cta_subtitle": "Get a free moving estimate with transparent hourly pricing. No hidden fees, no surprises — just professional movers who show up on time.",
+  "footer_description": "Professional moving company serving Greater Boston and the East Coast since 2002.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Local Moving",
+      "description": "Same-day and scheduled local moves across 290+ Massachusetts communities. Starting at $149/hr.",
+      "icon": "local_shipping",
+      "image_url": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Long Distance Moving",
+      "description": "Interstate moves along the East Coast — NY, NJ, CT, PA, DC, VA, and FL. Licensed and insured.",
+      "icon": "rv_hookup"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Packing & Unpacking",
+      "description": "Professional packers handle everything — wrapping, boxing, and protecting your belongings with care.",
+      "icon": "inventory_2",
+      "phone": "(617) 787-3528"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Storage & Commercial Moving",
+      "description": "Short-term and long-term storage solutions plus seamless office and commercial relocations.",
+      "icon": "warehouse"
+    }
+  ],
+  "services_all": [
+    { "name": "Local Moving" },
+    { "name": "Long Distance Moving" },
+    { "name": "Residential Moving" },
+    { "name": "Commercial Moving" },
+    { "name": "Packing & Unpacking" },
+    { "name": "Storage Solutions" }
+  ],
+  "stats": [
+    { "value": "24+", "label": "Years Moving Boston", "is_first": true },
+    { "value": "33,000+", "label": "Moves Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "Full-Time Professional Crews",
+      "description": "Every mover is a trained, full-time employee — no day laborers or temp workers."
+    },
+    {
+      "icon": "attach_money",
+      "title": "Transparent Hourly Pricing",
+      "description": "Billed in 15-minute increments with no hidden fees. What you see is what you pay."
+    },
+    {
+      "icon": "star",
+      "title": "797+ Five-Star Reviews",
+      "description": "BBB accredited and AMSA ProMover certified with a 4.7-star Google rating."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Brookline to Newton",
+      "stars": 5,
+      "text": "The crew arrived right on time and handled everything with care. Moving our 3-bedroom home was completely stress-free."
+    },
+    {
+      "name": "David K.",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "I've used Boston Best Rate three times now. They're professional, fast, and careful every single time."
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "They relocated our entire office over a weekend. Zero damage, minimal downtime. Couldn't ask for more."
+    }
+  ]
+}

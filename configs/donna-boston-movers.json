@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Boston Movers",
+  "tagline": "Affordable Moves, Premium Service — Every Time",
+  "hero_subtitle": "Professional, affordable moving services in Dedham and Greater Boston. Local and long distance moves, packing, storage, and commercial relocations.",
+  "phone": "(617) 937-9635",
+  "email": "info.usbostonmovers@gmail.com",
+  "address": "181 Washington Street, Suite 1, Dedham, MA 02026",
+  "city": "Dedham, MA",
+  "service_area": "Greater Boston & Beyond",
+  "service_area_description": "Serving Boston, Cambridge, Brookline, Dedham, Somerville, and all of Massachusetts.",
+  "years_in_business": 10,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
+  "logo_url": "https://www.boston-movers.us/wp-content/uploads/2020/10/logo-first-min.png",
+  "about_image_1": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85",
+  "accent_color": "#f59e0b",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Boston Movers | Cheap & Affordable Moving Company in Dedham, MA",
+  "seo_description": "Boston Movers: affordable, professional moving services in Dedham and Greater Boston. Local and long distance moves, packing, storage, and cleaning.",
+  "about_heading": "Dedham's Go-To Moving Crew",
+  "services_subtitle": "Full-service moving company — from packing your boxes to settling you into your new space. Open 7 days a week.",
+  "reviews_heading": "Why Families Trust Boston Movers",
+  "reviews_subtitle": "Affordable rates, professional staff, and premium service on every move.",
+  "cta_heading": "Your next move shouldn't break the bank.",
+  "cta_subtitle": "Get a free moving estimate today. We'll plan your move, pack your belongings, and handle every detail.",
+  "footer_description": "Affordable moving company serving Dedham, Boston, and all of Massachusetts.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Local Moving",
+      "description": "Same-day and scheduled local moves across Greater Boston and surrounding communities.",
+      "icon": "local_shipping",
+      "image_url": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Long Distance Moving",
+      "description": "Moving across Massachusetts or across the country? We handle it all.",
+      "icon": "rv_hookup"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Packing Services",
+      "description": "Professional packers wrap, box, and protect everything so you don't have to.",
+      "icon": "inventory_2",
+      "phone": "(617) 937-9635"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Storage & Commercial Moving",
+      "description": "Short-term and long-term storage plus commercial relocations for businesses of any size.",
+      "icon": "warehouse"
+    }
+  ],
+  "services_all": [
+    { "name": "Local Moving" },
+    { "name": "Long Distance Moving" },
+    { "name": "Packing Services" },
+    { "name": "Storage Services" },
+    { "name": "Commercial Moving" },
+    { "name": "Cleaning Services" }
+  ],
+  "stats": [
+    { "value": "10+", "label": "Years Moving Boston", "is_first": true },
+    { "value": "5,000+", "label": "Moves Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "attach_money",
+      "title": "Affordable Rates",
+      "description": "Competitive pricing with no hidden fees — moving shouldn't empty your wallet."
+    },
+    {
+      "icon": "groups",
+      "title": "Professional Crews",
+      "description": "Trained, uniformed movers who handle your belongings with care."
+    },
+    {
+      "icon": "schedule",
+      "title": "Open 7 Days a Week",
+      "description": "We work on your schedule — weekdays, weekends, and holidays."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Apartment Renter",
+      "location": "Back Bay, Boston",
+      "stars": 5,
+      "text": "Moved my 2-bedroom on September 1st — the craziest moving day in Boston. They showed up on time and got it done fast."
+    },
+    {
+      "name": "Young Family",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Boston Movers packed and moved our entire house in one day. Professional crew, affordable price."
+    },
+    {
+      "name": "Office Manager",
+      "location": "Dedham, MA",
+      "stars": 5,
+      "text": "They relocated our 20-person office over a weekend. Zero disruption to our Monday operations."
+    }
+  ]
+}

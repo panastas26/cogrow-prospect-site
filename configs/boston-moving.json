@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Boston Moving Services",
+  "tagline": "60+ Years of Moving Done Right — No Deposits, No Contractors",
+  "hero_subtitle": "Boston's most experienced moving company. Local, long-distance, and international moves with company employees — never contractors. Free on-site estimates.",
+  "phone": "(617) 804-1899",
+  "email": "info@bostonmoving.com",
+  "address": "101 Federal Street Suite 1900 #9396, Boston, MA 02110",
+  "city": "Boston, MA",
+  "service_area": "Boston, New England & Nationwide",
+  "service_area_description": "Serving Boston, Massachusetts, New Hampshire, Rhode Island, and nationwide — plus international destinations.",
+  "years_in_business": 60,
+  "jobs_completed": 50000,
+  "hero_image_url": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=1200&q=90",
+  "logo_url": "https://bostonmoving.com/wp-content/uploads/2022/09/logome-1-2.png",
+  "about_image_1": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85",
+  "accent_color": "#f59e0b",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Boston Moving Services | 60+ Years Experience | Boston, MA Movers",
+  "seo_description": "Boston Moving Services: 60+ years of professional moving. Local, long-distance, international, and lab equipment moves. No deposits, company employees only.",
+  "about_heading": "60 Years of Trusted Boston Moves",
+  "services_subtitle": "Full-service moving company — residential, commercial, lab equipment, and international. All crew are company employees, never contractors.",
+  "reviews_heading": "What Our Customers Say",
+  "reviews_subtitle": "Six decades of experience, thousands of happy customers, and a reputation built on doing things right.",
+  "cta_heading": "60 years in the game. Zero deposits required.",
+  "cta_subtitle": "Get a free on-site estimate — fully guaranteed. No deposit, no contractors, just Boston's most experienced moving crew.",
+  "footer_description": "Boston's most experienced moving company — local, long-distance, and international moves since the 1960s.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Local Moving",
+      "description": "Residential and apartment moves across Boston, MA, NH, and RI with company-employed crews.",
+      "icon": "local_shipping",
+      "image_url": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Long Distance & International Moving",
+      "description": "Nationwide and international relocations with guaranteed on-site estimates and no deposits required.",
+      "icon": "rv_hookup"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Laboratory Equipment Moving",
+      "description": "Specialized lab and medical equipment moving with custom techniques and climate-controlled storage.",
+      "icon": "science",
+      "phone": "(617) 804-1899"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Storage & Commercial Moving",
+      "description": "Storage for furniture, vehicles, and personal property plus full commercial office relocations.",
+      "icon": "warehouse"
+    }
+  ],
+  "services_all": [
+    { "name": "Local Moving" },
+    { "name": "Long Distance Moving" },
+    { "name": "International Moving" },
+    { "name": "Lab Equipment Moving" },
+    { "name": "Commercial Moving" },
+    { "name": "Storage Services" }
+  ],
+  "stats": [
+    { "value": "60+", "label": "Years in Business", "is_first": true },
+    { "value": "50,000+", "label": "Moves Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "badge",
+      "title": "Company Employees Only",
+      "description": "Every driver and crew member is a company employee — no contractors, no temps, no surprises."
+    },
+    {
+      "icon": "attach_money",
+      "title": "No Deposits Required",
+      "description": "Payment collected on delivery morning. Free on-site estimates that are fully guaranteed."
+    },
+    {
+      "icon": "precision_manufacturing",
+      "title": "Lab & Medical Specialists",
+      "description": "Specialized equipment and techniques for laboratory and medical facility relocations."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Kirk Wynn",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "These guys helped us move last minute. Boston Moving was straight forward from the beginning — honest and professional."
+    },
+    {
+      "name": "Sammantha Jones",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "Overall a great experience. The pricing was fair and the staff was informative and stayed in contact throughout the whole process."
+    },
+    {
+      "name": "Research Director",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "They moved our entire lab — sensitive equipment and all — without a single issue. 60 years of experience shows."
+    }
+  ]
+}
