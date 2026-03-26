@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Urban Facility Cleaning",
+  "tagline": "Somerville's Premium Facility Cleaning Crew",
+  "hero_subtitle": "Professional facility cleaning and janitorial services for offices, schools, and commercial buildings across Greater Boston.",
+  "phone": "(617) 629-1188",
+  "email": "",
+  "address": "Somerville, MA",
+  "city": "Somerville, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Somerville, Cambridge, Medford, Arlington, and the Greater Boston area.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Urban Facility Cleaning | Facility Cleaning in Somerville, MA",
+  "seo_description": "Urban Facility Cleaning in Somerville, MA. Professional janitorial and facility cleaning for offices, schools, and commercial buildings across Greater Boston.",
+  "about_heading": "Somerville's Facility Cleaning Experts",
+  "services_subtitle": "Comprehensive facility cleaning programs for offices, schools, and commercial buildings across Greater Boston.",
+  "reviews_heading": "Greater Boston Facilities Trust Urban",
+  "reviews_subtitle": "Schools, offices, and commercial buildings count on our consistent, professional cleaning.",
+  "cta_heading": "Your facility deserves Urban quality.",
+  "cta_subtitle": "Get a free walkthrough and customized cleaning quote. No long-term contracts required.",
+  "footer_description": "Professional facility cleaning and janitorial services in Somerville and Greater Boston.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Facility Cleaning",
+      "description": "Complete facility cleaning programs for offices, schools, and commercial buildings. Dedicated crews and consistent results.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Office Cleaning",
+      "description": "Professional office cleaning tailored to your schedule. Workstations, restrooms, break rooms, and common areas.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "School & Institutional",
+      "description": "Specialized cleaning for schools, universities, and public facilities. Disinfection protocols and flexible scheduling.",
+      "icon": "school",
+      "phone": "(617) 629-1188"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Floor & Carpet Care",
+      "description": "Carpet extraction, tile stripping, waxing, and hardwood care. Professional maintenance that extends the life of your floors.",
+      "icon": "layers"
+    }
+  ],
+  "services_all": [
+    { "name": "Facility Cleaning" },
+    { "name": "Office Cleaning" },
+    { "name": "School Cleaning" },
+    { "name": "Floor Care" },
+    { "name": "Window Cleaning" },
+    { "name": "Deep Cleaning" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Business", "is_first": true },
+    { "value": "5000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "groups",
+      "title": "Dedicated Crews",
+      "description": "The same trained team cleans your facility every visit. Consistency builds quality and trust."
+    },
+    {
+      "icon": "location_on",
+      "title": "Somerville Based",
+      "description": "Locally owned and operated. We serve Greater Boston with the care and responsiveness of a neighbor."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Background-checked staff for your facility's security."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Facility Manager",
+      "location": "Somerville, MA",
+      "stars": 5,
+      "text": "Urban Facility Cleaning has been our partner for years. Reliable, thorough, and they understand the unique needs of our building."
+    },
+    {
+      "name": "Office Manager",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "We switched to Urban and the quality difference was immediate. Our staff loves coming to a clean office every morning."
+    },
+    {
+      "name": "School Administrator",
+      "location": "Medford, MA",
+      "stars": 5,
+      "text": "They clean our school building every evening. Always professional and always thorough. The students and teachers notice the difference."
+    }
+  ]
+}
