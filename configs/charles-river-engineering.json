@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Charles River Engineering Services",
+  "tagline": "Watertown's Full-Service Engineering Experts",
+  "hero_subtitle": "Professional engineering services for commercial, industrial, and municipal clients across Greater Boston. Design, consulting, and project management.",
+  "phone": "(617) 926-5100",
+  "email": "",
+  "address": "Watertown, MA",
+  "city": "Watertown, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Watertown, Waltham, Cambridge, Newton, and the Greater Boston area.",
+  "years_in_business": 25,
+  "jobs_completed": 2000,
+  "hero_image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#1e40af",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Charles River Engineering Services | Engineering in Watertown, MA",
+  "seo_description": "Charles River Engineering Services in Watertown, MA. Professional engineering, design, and consulting for commercial and municipal clients across Greater Boston.",
+  "about_heading": "Watertown's Engineering Professionals",
+  "services_subtitle": "Comprehensive engineering services from design through construction management for commercial and municipal projects.",
+  "reviews_heading": "Trusted Engineering Across Greater Boston",
+  "reviews_subtitle": "Commercial, industrial, and municipal clients trust Charles River for reliable engineering solutions.",
+  "cta_heading": "Engineering expertise, one call away.",
+  "cta_subtitle": "Schedule a consultation. We'll assess your project needs and deliver a clear engineering plan.",
+  "footer_description": "Professional engineering services in Watertown, MA. Design, consulting, and project management for Greater Boston.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Engineering Design",
+      "description": "Complete engineering design services for commercial, industrial, and municipal projects. From concept through construction documents.",
+      "icon": "engineering",
+      "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Consulting Services",
+      "description": "Expert engineering consulting for existing systems, feasibility studies, and infrastructure assessments.",
+      "icon": "assessment"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Project Management",
+      "description": "Full-service project management from planning through commissioning. On time, on budget, on spec.",
+      "icon": "manage_accounts",
+      "phone": "(617) 926-5100"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Municipal & Infrastructure",
+      "description": "Water, sewer, stormwater, and civil engineering for municipalities and public agencies across Massachusetts.",
+      "icon": "water_drop"
+    }
+  ],
+  "services_all": [
+    { "name": "Engineering Design" },
+    { "name": "Consulting" },
+    { "name": "Project Management" },
+    { "name": "Municipal" },
+    { "name": "Infrastructure" },
+    { "name": "Inspections" }
+  ],
+  "stats": [
+    { "value": "25+", "label": "Years Experience", "is_first": true },
+    { "value": "2000+", "label": "Projects Delivered", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "engineering",
+      "title": "Licensed Engineers",
+      "description": "Professional engineers licensed in Massachusetts. Every project meets or exceeds engineering standards and code."
+    },
+    {
+      "icon": "location_on",
+      "title": "Watertown Based",
+      "description": "Locally owned and operated. We know Greater Boston's infrastructure, codes, and project requirements."
+    },
+    {
+      "icon": "handshake",
+      "title": "Client-Focused",
+      "description": "We work as an extension of your team. Clear communication, transparent pricing, and dedicated project managers."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Facility Manager",
+      "location": "Watertown, MA",
+      "stars": 5,
+      "text": "Charles River Engineering delivered our facility upgrade on time and within budget. Their design work was thorough and construction went smoothly."
+    },
+    {
+      "name": "Municipal Director",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Professional, responsive, and deeply knowledgeable. They managed our infrastructure project from start to finish."
+    },
+    {
+      "name": "Building Owner",
+      "location": "Newton, MA",
+      "stars": 5,
+      "text": "Outstanding engineering consulting. They identified issues we didn't know existed and provided clear, actionable solutions."
+    }
+  ]
+}
