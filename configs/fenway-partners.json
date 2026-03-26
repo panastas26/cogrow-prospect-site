@@ -1,0 +1,111 @@
+{
+  "template": "professional-service",
+  "company_name": "Fenway Partners",
+  "slug": "fenway-partners",
+  "niche": "professional-service",
+  "tagline": "We Partner With Management To Build A Stronger, More Valuable Business",
+  "hero_subtitle": "A middle-market private equity firm focused on US-based businesses in Branded Consumer Products and Specialty Distribution and Logistics. Typical investment sizes range from $15 to $50 million.",
+  "phone": "(212) 698-9400",
+  "email": "info@fenwaypartners.com",
+  "address": "108 Airport Rd., Suite 103, Westerly, RI 02891",
+  "city": "Westerly, RI",
+  "service_area": "United States",
+  "service_area_description": "Investing in middle-market companies headquartered across the United States.",
+  "years_in_business": "30+",
+  "jobs_completed": "9",
+  "hero_image_url": "https://fenwaypartners.com/wp-content/uploads/2021/10/investment-philosophy-home.jpg",
+  "about_image_1": "https://fenwaypartners.com/wp-content/uploads/2021/08/about-intro.jpg",
+  "about_image_2": "https://fenwaypartners.com/wp-content/uploads/2021/08/selected-investments-intro.jpg",
+  "accent_color": "#1d4ed8",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "about_heading": "Engaged and Supportive Partners Since 1994",
+  "services_subtitle": "We invest in two core sectors — Branded Consumer Products and Specialty Distribution and Logistics — partnering with management teams to build market-leading businesses.",
+  "reviews_heading": "Portfolio Companies",
+  "reviews_subtitle": "Fenway Partners has invested in some of the most recognized brands in middle-market America.",
+  "cta_heading": "Ready to explore a partnership?",
+  "cta_subtitle": "We work with management teams in Branded Consumer Products and Specialty Distribution. Reach out to start the conversation.",
+  "footer_description": "Middle-market private equity firm founded in New York in 1994. Focused on Branded Consumer Products and Specialty Distribution and Logistics.",
+  "year": "2024",
+
+  "services_featured": [
+    {
+      "name": "Branded Consumer Products",
+      "description": "We invest in companies with strong national or regional brand equity — businesses with loyal customers, defensible positioning, and room to grow.",
+      "icon": "local_mall",
+      "image_url": "https://fenwaypartners.com/wp-content/uploads/2021/08/about-intro.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Specialty Distribution",
+      "description": "We back logistics and distribution businesses with differentiated service models and scalable infrastructure — built for the modern supply chain.",
+      "icon": "local_shipping"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Investment Size: $15M-$50M",
+      "description": "We write equity checks between $15 million and $50 million. We move decisively, close efficiently, and bring long-term commitment to every partnership.",
+      "icon": "account_balance",
+      "phone": "(212) 698-9400"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Strategic Add-On Acquisitions",
+      "description": "We actively support our portfolio companies in identifying and executing bolt-on acquisitions to accelerate growth and expand market reach.",
+      "icon": "add_business"
+    }
+  ],
+  "services_all": [
+    { "name": "Branded Consumer Products" },
+    { "name": "Specialty Distribution & Logistics" },
+    { "name": "Equity: $15M-$50M Checks" },
+    { "name": "Strategic Add-On Acquisitions" }
+  ],
+
+  "stats": [
+    { "value": "30+", "label": "Years in Private Equity", "is_first": true },
+    { "value": "9", "label": "Portfolio Companies", "is_second": true }
+  ],
+
+  "about_features": [
+    {
+      "icon": "handshake",
+      "title": "Peter Lamm — Co-Founder & Managing Partner",
+      "description": "40 years in private equity. BA from Boston University, MBA from Columbia. Chairman of the Board, U.S. Fund for UNICEF since 2005."
+    },
+    {
+      "icon": "trending_up",
+      "title": "Gregg Smart — Managing Director",
+      "description": "Joined Fenway in 1999. Former investment banker at Merrill Lynch. BA in Economics from Davidson College, MBA from The Wharton School."
+    },
+    {
+      "icon": "verified",
+      "title": "Walter Wiacek — VP & CFO",
+      "description": "Joined Fenway in 2007. Responsible for all accounting, financial, investor, and tax reporting. CPA member, Bryant University alumnus."
+    }
+  ],
+
+  "reviews": [
+    {
+      "name": "Riddell / BRG Sports",
+      "location": "Branded Consumer Products",
+      "stars": 5,
+      "text": "The #1 national brand in football helmets. Fenway partnered with BRG Sports to build on a foundation of safety, technological innovation, and unparalleled customer service."
+    },
+    {
+      "name": "1-800-Contacts",
+      "location": "Direct-to-Consumer",
+      "stars": 5,
+      "text": "The undisputed national leader in direct-to-consumer delivery of prescription contact lenses. Fenway helped 1-800-Contacts scale its operational model and expand nationally."
+    },
+    {
+      "name": "Preferred Freezer Services",
+      "location": "Specialty Distribution",
+      "stars": 5,
+      "text": "A market leader in frozen food storage with state-of-the-art, port-centric facilities. Fenway supported Preferred Freezer through a period of significant network expansion."
+    }
+  ]
+}

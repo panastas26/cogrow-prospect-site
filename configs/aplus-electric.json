@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "A+ Electrical Services",
+  "tagline": "Chicago's Most Trusted Licensed Electricians",
+  "hero_subtitle": "Family-owned Chicago electrical contractor. Licensed electricians who are neat, clean, and communicate every step of the way. Residential and commercial.",
+  "phone": "(773) 297-7177",
+  "email": "info@apluselectricalservices.com",
+  "address": "Chicago, IL",
+  "city": "Chicago, IL",
+  "service_area": "Chicagoland",
+  "service_area_description": "Serving Chicago, Evanston, Oak Park, Skokie & all Chicagoland communities.",
+  "years_in_business": 20,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#dc2626",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "A+ Electrical Services | Licensed Electrician in Chicago, IL",
+  "seo_description": "A+ Electrical Services: family-owned Chicago electrician. Licensed, neat, and clean. Repairs, upgrades, lighting, intercoms, and more. Call (773) 297-7177.",
+  "about_heading": "Family-Owned Chicago Electricians",
+  "services_subtitle": "Complete electrical services for homes and businesses across Chicagoland \u2014 done right the first time.",
+  "reviews_heading": "Why Chicago Chooses A+",
+  "reviews_subtitle": "Licensed, insured, and committed to leaving your home cleaner than we found it.",
+  "cta_heading": "Need an electrician you can trust?",
+  "cta_subtitle": "Get a free estimate. We'll diagnose the issue, explain your options, and give you an honest price.",
+  "footer_description": "Family-owned Chicago electrical contractor. Licensed electricians specializing in repairs, upgrades, lighting, intercoms, and safety systems.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Electrical Repairs & Upgrades",
+      "description": "Panel upgrades, rewiring, outlet repair, and troubleshooting. We fix problems fast and make your home safer.",
+      "icon": "electrical_services",
+      "image_url": "https://apluselectricalservices.com/images/reparing_outlet.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Indoor & Outdoor Lighting",
+      "description": "Transform your home with expert lighting design. Recessed, landscape, accent, and decorative lighting installed by pros.",
+      "icon": "lightbulb"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Intercom & Buzzer Systems",
+      "description": "Chicago building intercoms installed, repaired, and upgraded. We know the city's multi-unit buildings inside and out.",
+      "icon": "doorbell",
+      "phone": "(773) 297-7177"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Safety & Smoke Detection",
+      "description": "Smoke alarms, CO detectors, surge protection, and GFCI outlets. Keep your family safe with code-compliant installations.",
+      "icon": "health_and_safety"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Electrical Repairs"
+    },
+    {
+      "name": "Lighting Installation"
+    },
+    {
+      "name": "Intercom Systems"
+    },
+    {
+      "name": "Ceiling Fans"
+    },
+    {
+      "name": "Safety Devices"
+    },
+    {
+      "name": "Appliance Wiring"
+    }
+  ],
+  "stats": [
+    {
+      "value": "20+",
+      "label": "Years Experience",
+      "is_first": true
+    },
+    {
+      "value": "5000+",
+      "label": "Jobs Completed",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "family_restroom",
+      "title": "Family-Owned & Operated",
+      "description": "We treat your home like our own. Our electricians are neat, clean, and respectful of your space."
+    },
+    {
+      "icon": "verified",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed Chicago electricians. Every job meets or exceeds city code requirements."
+    },
+    {
+      "icon": "schedule",
+      "title": "Flexible Scheduling",
+      "description": "We work around your schedule. Evening and weekend appointments available for your convenience."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Lincoln Park, Chicago",
+      "stars": 5,
+      "text": "A+ replaced our entire panel and rewired the kitchen. They were incredibly neat and explained everything. Best electrician in Chicago."
+    },
+    {
+      "name": "Condo Owner",
+      "location": "Lakeview, Chicago",
+      "stars": 5,
+      "text": "They fixed our building's intercom system when three other companies couldn't. Professional, on time, and fair pricing."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Evanston, IL",
+      "stars": 5,
+      "text": "We use A+ for all our multi-unit properties. Responsive, reliable, and their work always passes inspection on the first try."
+    }
+  ]
+}

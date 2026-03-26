@@ -1,0 +1,104 @@
+{
+  "template": "field-service",
+  "company_name": "Chicago Plumbing Pros",
+  "tagline": "24/7 Emergency Plumbing Service",
+  "hero_subtitle": "From burst pipes to full renovations, we handle every plumbing need with speed and expertise.",
+  "phone": "(773) 555-0789",
+  "email": "dispatch@chicagoplumbingpros.com",
+  "address": "2847 N Clybourn Ave, Chicago, IL 60614",
+  "city": "Chicago, IL",
+  "service_area": "Chicago & Suburbs",
+  "service_area_description": "Serving Chicago, Evanston, Oak Park, Skokie & surrounding areas.",
+  "years_in_business": 12,
+  "jobs_completed": 3200,
+  "hero_image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80",
+  "about_image_1": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=600&q=80",
+  "about_image_2": "https://images.unsplash.com/photo-1577720643272-265f434c3fa4?w=600&q=80",
+  "accent_color": "#0066cc",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "about_heading": "Chicago's Most Trusted Plumbers",
+  "services_subtitle": "Comprehensive plumbing solutions for residential and commercial properties.",
+  "reviews_heading": "What Our Customers Say",
+  "reviews_subtitle": "Trusted by homeowners and businesses across the Chicago area.",
+  "cta_heading": "Need a plumber right now?",
+  "cta_subtitle": "Call for immediate service or book an appointment. We're available 24/7.",
+  "footer_description": "Licensed and insured plumbing contractors serving Chicago since 2012. Emergency service available.",
+  "year": "2024",
+  "services_featured": [
+    {
+      "name": "Emergency Repairs",
+      "description": "24/7 rapid response for burst pipes, leaks, and flooding. Get help within an hour.",
+      "icon": "plumbing",
+      "image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Drain Cleaning",
+      "description": "Hydro-jetting and drain rodding to clear clogs and restore flow.",
+      "icon": "water"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Water Heater Service",
+      "description": "Emergency repairs and same-day replacements for gas and electric water heaters.",
+      "icon": "local_fire_department",
+      "phone": "(773) 555-0789"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Remodel & Installation",
+      "description": "Full bathroom and kitchen plumbing remodels, new fixtures, and system upgrades.",
+      "icon": "construction"
+    }
+  ],
+  "services_all": [
+    { "name": "Emergency Repairs" },
+    { "name": "Drain Cleaning" },
+    { "name": "Water Heater Service" },
+    { "name": "Remodel & Installation" }
+  ],
+  "stats": [
+    { "value": "12+", "label": "Years Experience", "is_first": true },
+    { "value": "3.2k+", "label": "Homes Served", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "schedule",
+      "title": "24/7 Available",
+      "description": "Emergency plumbing doesn't follow business hours. We're available whenever you need us."
+    },
+    {
+      "icon": "verified",
+      "title": "Licensed & Insured",
+      "description": "City of Chicago licensed plumbers with full liability and workers' compensation insurance."
+    },
+    {
+      "icon": "local_shipping",
+      "title": "Upfront Pricing",
+      "description": "No surprises. You know the cost before we start work. Transparent estimates every time."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Maria G.",
+      "location": "Lincoln Park, Chicago",
+      "stars": 5,
+      "text": "Burst pipe at 2am and they were here in 45 minutes. Professional, fast, and the price was exactly what they quoted."
+    },
+    {
+      "name": "Robert H.",
+      "location": "Oak Park, IL",
+      "stars": 5,
+      "text": "Renovated our entire bathroom plumbing. Clean work, stayed on budget, and they cleaned up after themselves."
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Chicago, IL",
+      "stars": 5,
+      "text": "Called them for a clogged drain. They came same-day and had it fixed in 30 minutes. Will definitely call them again."
+    }
+  ]
+}

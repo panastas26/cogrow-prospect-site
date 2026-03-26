@@ -1,0 +1,179 @@
+================================================================================
+COGROW PROSPECT SITE TEMPLATE ENGINE - QUICKSTART
+================================================================================
+
+The engine is ready. To build a new prospect site in under 5 minutes:
+
+1. CHOOSE A TEMPLATE TYPE
+   - field-service: Tree care, plumbing, HVAC, electrical, garage doors
+   - professional-service: Law firms, accountants, consultants, architects
+
+2. CREATE A CONFIG FILE
+   cp configs/county-tree.json configs/your-business-name.json
+   # Or copy example-law-firm.json if professional services
+
+3. EDIT THE CONFIG
+   Fill in these key fields:
+   - company_name: The business name
+   - phone, email, address: Contact info
+   - hero_image_url: Main hero image URL (Unsplash or client-provided)
+   - accent_color: Brand color (e.g., "#00a852" for green)
+   - services_*: 4 service categories (featured, secondary, accent, wide)
+   - reviews: 3+ customer testimonials with stars
+   - stats: Key numbers (years in business, jobs completed)
+
+4. GENERATE THE SITE
+   ./generate.sh configs/your-business-name.json
+
+5. PREVIEW
+   open output/your-business-name/index.html
+
+6. DEPLOY
+   ./deploy.sh your-business-name
+   Follow instructions to set up domain at Cloudflare Pages
+
+================================================================================
+TEMPLATE COMPARISON
+================================================================================
+
+FIELD-SERVICE (Green/Lime)
+- Primary: #00190d (dark green)
+- Accent: Configurable (default #00a852)
+- Best for: Tree care, plumbing, electrical, HVAC, garage doors
+- Hero: Nature/field work imagery
+- Example: configs/county-tree.json
+
+PROFESSIONAL-SERVICE (Navy/Blue)
+- Primary: #1a2332 (dark navy)
+- Accent: Configurable (default #3b82f6 blue)
+- Best for: Law firms, accounting, insurance, architecture
+- Hero: Professional/office imagery
+- Example: configs/example-law-firm.json
+
+================================================================================
+CONFIG FIELDS REFERENCE
+================================================================================
+
+REQUIRED:
+  template: "field-service" or "professional-service"
+  company_name: String
+  phone: String (format: "(XXX) XXX-XXXX")
+  email: String
+  address: String
+  city: String
+  service_area: String
+  hero_image_url: URL
+  cal_booking_slug: e.g. "cogrowai/freeaudit"
+
+OPTIONAL:
+  accent_color: Hex code (default: green for field-service, blue for professional)
+  years_in_business: Number
+  jobs_completed: Number
+  services_featured: Array (with image_url)
+  services_secondary: Array
+  services_accent: Array
+  services_wide: Array
+  reviews: Array ({name, location, stars, text})
+  stats: Array ({value, label})
+  about_features: Array ({icon, title, description})
+
+ICONS: Use Material Symbols names (e.g., "park", "verified", "eco")
+
+================================================================================
+EXAMPLE: Generate a new plumber site
+================================================================================
+
+1. Copy config:
+   cp configs/county-tree.json configs/chicago-plumbing.json
+
+2. Edit it:
+   - company_name: "Chicago Plumbing Pros"
+   - phone: "(773) 555-0789"
+   - accent_color: "#0066cc" (blue)
+   - hero_image_url: "https://images.unsplash.com/photo-[plumbing image]"
+   - services_*: Add plumbing services
+   - reviews: Add customer reviews
+
+3. Generate:
+   ./generate.sh configs/chicago-plumbing.json
+
+4. Deploy:
+   ./deploy.sh chicago-plumbing
+
+5. Live at:
+   chicago-plumbing.cogrow.ai
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+Q: "Generated: [missing path]"
+A: Check that template type in config matches template directory name.
+
+Q: "404 on generated site"
+A: Config JSON may have syntax error. Validate with: jq empty configs/your-config.json
+
+Q: "Unrendered {{placeholders}} in output"
+A: Missing fields in config. Check all required fields above.
+
+Q: "Images not loading"
+A: Ensure image URLs are HTTPS and publicly accessible.
+
+Q: "Deploy fails"
+A: Run: ./deploy.sh your-slug (after generate.sh succeeds)
+   Follow wrangler instructions for Cloudflare Pages auth.
+
+================================================================================
+SUPPORTED RENDER ENGINES (auto-detection in generate.sh)
+================================================================================
+
+1. mustache (Ruby gem) - if installed
+2. mustache (npm) - if installed globally
+3. chevron (Python) - if installed
+4. Python fallback - always available (built-in)
+
+If generate.sh stalls, try:
+  - gem install mustache
+  - npm install -g mustache
+  - pip3 install chevron
+
+================================================================================
+QUALITY CHECKS
+================================================================================
+
+All generated sites include:
+✓ Material Design 3 color system
+✓ Responsive layout (mobile, tablet, desktop)
+✓ Smooth scroll navigation
+✓ Cal.com inline booking section
+✓ Service cards with Material Symbols icons
+✓ Customer review cards with stars
+✓ About/credibility section
+✓ Final CTA banner
+✓ Footer with links
+
+Zero dependencies: Single HTML file, CDN-hosted fonts/icons/Tailwind.
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. For each of your 5 prospects:
+   - Gather: company name, phone, address, service area, hero image URL
+   - Create config from example (county-tree or example-law-firm)
+   - Run generate.sh
+   - Review output in browser
+
+2. Deploy to Cloudflare:
+   - Run deploy.sh [slug]
+   - Set up DNS: [slug].cogrow.ai -> Cloudflare Pages
+
+3. Send prospect the live URL:
+   - Preview their proof-of-concept site
+   - If approved: update with real contact details, deploy production
+
+Ready? Start with:
+  cp configs/county-tree.json configs/prospect-name.json && nano configs/prospect-name.json
+  ./generate.sh configs/prospect-name.json && open output/prospect-name/index.html
+
+================================================================================

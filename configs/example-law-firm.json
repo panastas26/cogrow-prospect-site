@@ -1,0 +1,108 @@
+{
+  "template": "professional-service",
+  "company_name": "Hartwell & Associates",
+  "tagline": "Trusted Legal Counsel for Business & Beyond",
+  "hero_subtitle": "Strategic, results-driven legal representation for businesses and individuals. We combine deep expertise with a client-first approach to protect what matters most.",
+  "phone": "(312) 555-0456",
+  "email": "intake@hartwelllaw.com",
+  "address": "233 S Wacker Dr, Suite 4200, Chicago, IL 60606",
+  "city": "Chicago, IL",
+  "service_area": "Greater Chicagoland",
+  "service_area_description": "Serving Chicago, Evanston, Oak Brook, Naperville & surrounding areas.",
+  "years_in_business": 20,
+  "jobs_completed": 500,
+  "hero_image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+  "about_image_1": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&q=80",
+  "about_image_2": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+  "accent_color": "#3b82f6",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "about_heading": "Chicago's Trusted Legal Partners",
+  "services_subtitle": "Comprehensive legal services for businesses and individuals across all major practice areas.",
+  "reviews_heading": "Client Testimonials",
+  "reviews_subtitle": "Trusted by businesses and individuals across the greater Chicago area.",
+  "cta_heading": "Ready to protect what matters?",
+  "cta_subtitle": "Schedule a free consultation. We'll review your case and outline a clear path forward.",
+  "footer_description": "Experienced legal counsel serving Chicago's business community. Committed to integrity, excellence, and client success.",
+  "year": "2024",
+
+  "services_featured": [
+    {
+      "name": "Corporate Law",
+      "description": "Full-service corporate counsel for formations, governance, M&A, and regulatory compliance.",
+      "icon": "corporate_fare",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Contract Law",
+      "description": "Drafting, reviewing, and negotiating contracts that protect your interests and minimize risk.",
+      "icon": "description"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Urgent Legal Matters",
+      "description": "Time-sensitive injunctions, restraining orders, and emergency court filings when you need them most.",
+      "icon": "gavel",
+      "phone": "(312) 555-0456"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Civil Litigation",
+      "description": "Aggressive, strategic representation in commercial disputes, employment matters, and complex litigation.",
+      "icon": "balance"
+    }
+  ],
+  "services_all": [
+    { "name": "Corporate Law" },
+    { "name": "Contract Law" },
+    { "name": "Civil Litigation" },
+    { "name": "Urgent Legal Matters" }
+  ],
+
+  "stats": [
+    { "value": "20+", "label": "Years in Practice", "is_first": true },
+    { "value": "500+", "label": "Successful Cases", "is_second": true }
+  ],
+
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "Chicago Roots",
+      "description": "Based in the heart of Chicago's legal district. We understand the local courts, regulations, and business landscape inside and out."
+    },
+    {
+      "icon": "verified",
+      "title": "Proven Track Record",
+      "description": "Over two decades of successful outcomes. Our attorneys are recognized by Super Lawyers, Martindale-Hubbell, and Best Lawyers in America."
+    },
+    {
+      "icon": "handshake",
+      "title": "Client-First Approach",
+      "description": "Every case gets a dedicated team. We provide transparent billing, regular updates, and strategic counsel tailored to your specific goals."
+    }
+  ],
+
+  "reviews": [
+    {
+      "name": "Michael T.",
+      "location": "Chicago, IL",
+      "stars": 5,
+      "text": "Hartwell & Associates guided our startup through a complex Series A financing. Their attention to detail saved us from several costly pitfalls."
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Evanston, IL",
+      "stars": 5,
+      "text": "When our business faced a breach of contract dispute, they assembled a strategy that resolved it favorably in under 90 days. Exceptional work."
+    },
+    {
+      "name": "Robert S.",
+      "location": "Oak Brook, IL",
+      "stars": 5,
+      "text": "Professional, responsive, and genuinely invested in our success. They've been our go-to firm for five years and counting."
+    }
+  ]
+}

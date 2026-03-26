@@ -1,0 +1,130 @@
+{
+  "template": "professional-service",
+  "company_name": "Kolnicki, Peterson & Wirth",
+  "tagline": "Your Business Deserves a CPA That Delivers",
+  "hero_subtitle": "Downers Grove CPA firm serving over 2,000 clients since 1974. Audit, tax, and business advisory services for privately-owned businesses and public sector organizations.",
+  "phone": "630-390-1140",
+  "email": "info@kpwcpa.com",
+  "address": "1400 Opus Place, Downers Grove, IL 60515",
+  "city": "Downers Grove, IL",
+  "service_area": "DuPage County & Chicagoland",
+  "service_area_description": "Serving Downers Grove, Naperville, Oak Brook, Lombard & surrounding areas.",
+  "years_in_business": 50,
+  "jobs_completed": 2000,
+  "hero_image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=85",
+  "accent_color": "#374151",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "KPW CPA | Accounting & Tax Services in Downers Grove, IL",
+  "seo_description": "Kolnicki, Peterson & Wirth CPA firm in Downers Grove, IL. 50 years of audit, tax, and business advisory services for privately-owned businesses.",
+  "about_heading": "50 Years Serving Downers Grove Businesses",
+  "services_subtitle": "Audit, tax, and business advisory services tailored for privately-owned businesses and public sector organizations.",
+  "reviews_heading": "Trusted Since 1974",
+  "reviews_subtitle": "Over 2,000 clients trust KPW with their most critical financial decisions.",
+  "cta_heading": "Get a CPA firm that actually knows your business.",
+  "cta_subtitle": "Schedule a free consultation. We'll review your situation and show you how we can help.",
+  "footer_description": "Downers Grove CPA firm providing quality audit, tax, and advisory services since 1974. AICPA and Illinois CPA Society members.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Audit & Assurance",
+      "description": "Independent, thorough financial audits that give stakeholders confidence. Public and private sector expertise.",
+      "icon": "fact_check",
+      "image_url": "https://le-cdn.website-editor.net/s/c1b939b2a8614047b5e9fc4bf21a630c/dms3rep/multi/opt/f1459e9a11de174bfec2a946bad788a0e906bcad5bd04541e21386d444142b45-654w.jpeg?Expires=1776175336&Signature=FchxZA1rlIHJj141j8mIRnVzywfOB3Z~azUiKBvRPKT2aNw~eKR8MFkSQkddSZh-bREqJHbxZHsInH4BOF4qbdW4wnOrL1PUDf~rMYEv5hHh5UJWeFcxokTU8PKB2jdUVgJZ-tt0~h~KsKnqI2GBi42zFIHehWm~iCVd6xvWV8V1obYeDPY7KaKie~nSi04AxI6mhVRjEdTVnHtH8t88lCaVRvRky8-flrjk1olHy0MEM-nF1AIkXQ5x~ElEY~iegi0W4weO8zQDgu0W8dLgc86m2xTZv7D5ChgqsyM1adE5N7~2RJxdsSMYYYmoK1Cihi1QCv-EqBe2Ub0SrqZSFA__&Key-Pair-Id=K2NXBXLF010TJW"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Tax Planning & Preparation",
+      "description": "Proactive tax strategies that minimize your liability. Individual and business returns prepared with precision.",
+      "icon": "calculate"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Estate Planning",
+      "description": "Protect your legacy with smart estate and succession planning. We help business owners transition with confidence.",
+      "icon": "family_restroom",
+      "phone": "630-390-1140"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Business Valuation & Advisory",
+      "description": "Know what your business is worth. Valuation services for M&A, succession, litigation support, and strategic planning.",
+      "icon": "assessment"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Audit & Assurance"
+    },
+    {
+      "name": "Tax Planning & Preparation"
+    },
+    {
+      "name": "Estate Planning"
+    },
+    {
+      "name": "Business Valuation"
+    },
+    {
+      "name": "Financial Consulting"
+    },
+    {
+      "name": "Business Advisory"
+    }
+  ],
+  "stats": [
+    {
+      "value": "50+",
+      "label": "Years in Practice",
+      "is_first": true
+    },
+    {
+      "value": "2000+",
+      "label": "Clients Served",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "person",
+      "title": "Kenneth J. Kolnicki, CPA",
+      "description": "Founding partner since 1974. University of Illinois graduate with deep expertise in privately-owned business accounting and tax strategy."
+    },
+    {
+      "icon": "verified",
+      "title": "AICPA & Illinois CPA Society",
+      "description": "All partners hold active memberships in the American Institute of CPAs and Illinois CPA Society."
+    },
+    {
+      "icon": "trending_up",
+      "title": "Consistent Growth",
+      "description": "Over 10% annual fee growth driven by client referrals and quality service \u2014 not aggressive sales tactics."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Business Owner",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "KPW has handled our company's books for over 15 years. They're proactive, responsive, and always find ways to save us money on taxes."
+    },
+    {
+      "name": "Nonprofit Director",
+      "location": "Naperville, IL",
+      "stars": 5,
+      "text": "Their audit work is thorough and professional. They understand the unique requirements of public sector organizations and nonprofits."
+    },
+    {
+      "name": "Restaurant Owner",
+      "location": "Oak Brook, IL",
+      "stars": 5,
+      "text": "Switching to KPW was the best financial decision we made. They found deductions our previous CPA missed and their advisory services are top-notch."
+    }
+  ],
+  "logo_url": "https://le-cdn.website-editor.net/s/c1b939b2a8614047b5e9fc4bf21a630c/dms3rep/multi/opt/KPW-photo-362h.jpg?Expires=1776438776&Signature=GPnxolTF8rwtZEojvNAhhqccJk22zTqVnPm-XWYx7Wu3uqmzaB7Q-ZvTa-VS1~jQzzIOUqg0n6Ax5YwysL-XSeWAMiQgJNqbTLrZCGGOePvvC9Yd4MOaljy7TzjsNENmQdptWt5bpCPEGJp-pa6dIfaNaC-C3cbVntIqbrDbYQfyseAjqNVFpZxqaeZTH70ig9E1jRyVAmWcL8SYAo3hWwfimyl6LnnFOvighIb1rQY6wMS2uF9f1RZKBX1Xzb0o3HQlqd5J13D9z4PWt6z3PN1-g~734AKhV9ic2K2bRa3mlcLHz2R7YXPMv7G4gFt04VFHiO91CzY~AId90rkvuw__&Key-Pair-Id=K2NXBXLF010TJW"
+}

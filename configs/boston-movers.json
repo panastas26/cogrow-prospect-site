@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "Boston Movers",
+  "tagline": "Boston's Best Movers \u2014 Affordable, Fast, Done Right",
+  "hero_subtitle": "Professional, affordable moving services in Boston, MA. Local and long distance moves, packing, storage, and commercial relocations. Premium service at honest prices.",
+  "phone": "(617) 937-9635",
+  "email": "info.usbostonmovers@gmail.com",
+  "address": "181 Washington Street, Suite 1, Dedham, MA 02026",
+  "city": "Boston, MA",
+  "service_area": "Greater Boston & Beyond",
+  "service_area_description": "Serving Boston, Cambridge, Brookline, Dedham, Somerville & all of Massachusetts for local and long distance moves.",
+  "years_in_business": 10,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
+  "logo_url": "https://www.boston-movers.us/wp-content/uploads/2020/10/logo-first-min.png",
+  "about_image_1": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85",
+  "accent_color": "#f59e0b",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Boston Movers | Affordable Moving Company in Boston, MA",
+  "seo_description": "Boston Movers: affordable, professional moving services in Boston, MA. Local, long distance, packing, storage, and commercial moving. Call (617) 937-9635.",
+  "about_heading": "Boston's Most Trusted Moving Team",
+  "services_subtitle": "Full-service moving company \u2014 from packing your boxes to settling you into your new space.",
+  "reviews_heading": "Why Boston Chooses Us",
+  "reviews_subtitle": "Professional staff, affordable rates, and premium service on every move.",
+  "cta_heading": "Ready to move? We make it easy.",
+  "cta_subtitle": "Get a free moving estimate. We'll plan your move, pack your stuff, and handle the heavy lifting.",
+  "footer_description": "Professional moving company serving Boston and Massachusetts. Local, long distance, packing, storage, and commercial moving services.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Local Moving",
+      "description": "Same-day and scheduled local moves across Greater Boston. Professional crews, padded trucks, and careful handling of your belongings.",
+      "icon": "local_shipping",
+      "image_url": "https://www.boston-movers.us/wp-content/uploads/2020/10/mover-middle-map-w2.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Long Distance Moving",
+      "description": "Moving across Massachusetts or across the country? We handle logistics, timing, and delivery with precision.",
+      "icon": "rv_hookup"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Packing Services",
+      "description": "Don't lift a finger. Our professional packers wrap, box, and protect everything \u2014 from fine china to flat screens.",
+      "icon": "inventory_2",
+      "phone": "(617) 937-9635"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Storage & Commercial Moving",
+      "description": "Short-term and long-term storage solutions plus full commercial and office relocations with minimal downtime.",
+      "icon": "warehouse"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Local Moving"
+    },
+    {
+      "name": "Long Distance"
+    },
+    {
+      "name": "Packing Services"
+    },
+    {
+      "name": "Storage"
+    },
+    {
+      "name": "Commercial Moving"
+    },
+    {
+      "name": "Cleaning Services"
+    }
+  ],
+  "stats": [
+    {
+      "value": "10+",
+      "label": "Years Moving Boston",
+      "is_first": true
+    },
+    {
+      "value": "5000+",
+      "label": "Moves Completed",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "attach_money",
+      "title": "Affordable Rates",
+      "description": "Competitive pricing with no hidden fees. Get an honest quote upfront and know exactly what you'll pay."
+    },
+    {
+      "icon": "groups",
+      "title": "Professional Crews",
+      "description": "Trained, uniformed movers who handle your belongings with care. Every crew member is background-checked and insured."
+    },
+    {
+      "icon": "schedule",
+      "title": "Open 7 Days a Week",
+      "description": "Monday through Sunday, 9am-6pm. We work on your schedule because moving doesn't wait for business hours."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Apartment Renter",
+      "location": "Back Bay, Boston",
+      "stars": 5,
+      "text": "Moved my 2-bedroom on September 1st \u2014 the craziest moving day in Boston. They were on time, fast, and incredibly careful with everything."
+    },
+    {
+      "name": "Family",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Boston Movers packed and moved our entire house in one day. Not a single scratch. The price was half what the other companies quoted."
+    },
+    {
+      "name": "Office Manager",
+      "location": "Dedham, MA",
+      "stars": 5,
+      "text": "They relocated our 20-person office over a weekend. Monday morning everything was set up and ready to go. Seamless."
+    }
+  ]
+}

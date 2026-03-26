@@ -1,0 +1,130 @@
+{
+  "template": "professional-service",
+  "company_name": "KSD Insurance Agency",
+  "tagline": "Insurance That Puts Your Interests First. Always.",
+  "hero_subtitle": "Independent insurance agency in Oak Brook, IL since 1991. Unparalleled service and competitive quotes for auto, home, business, life, and health insurance across Illinois, Wisconsin, and Indiana.",
+  "phone": "630-575-0800",
+  "email": "info@ksdinsurance.com",
+  "address": "1000 Jorie Blvd. Suite 109, Oak Brook, IL 60523",
+  "city": "Oak Brook, IL",
+  "service_area": "IL, WI & IN",
+  "service_area_description": "Serving Oak Brook, Elmhurst, Downers Grove, Lombard & clients across Illinois, Wisconsin, and Indiana.",
+  "years_in_business": 33,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=90",
+  "logo_url": "https://insurewithkevin.com/wp-content/uploads/2016/11/ksd-logo-black.png",
+  "about_image_1": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=85",
+  "accent_color": "#0ea5e9",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "KSD Insurance | Auto, Home & Business Insurance in Oak Brook, IL",
+  "seo_description": "KSD Insurance Agency in Oak Brook, IL. Independent broker since 1991. Best coverage and lowest rates for auto, home, business, life, and health insurance.",
+  "about_heading": "Your Insurance Advocate Since 1991",
+  "services_subtitle": "Independent agency representing multiple carriers to find you the best coverage at the lowest rate.",
+  "reviews_heading": "Why Clients Stay for 25+ Years",
+  "reviews_subtitle": "Same representatives, same integrity, same commitment \u2014 since day one.",
+  "cta_heading": "You deserve insurance that works for you.",
+  "cta_subtitle": "Get a free, no-obligation quote. We'll compare carriers and find you the best coverage at the best price.",
+  "footer_description": "Independent insurance agency since 1991. Certified Trusted Choice member. Auto, home, business, life, and health insurance across IL, WI, and IN.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Business Insurance",
+      "description": "Customized commercial coverage for startups to multi-location operations. General liability, property, workers comp, and professional liability.",
+      "icon": "business",
+      "image_url": "https://insurewithkevin.com/wp-content/uploads/2016/02/home-about-us.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Home & Auto Insurance",
+      "description": "Protect your biggest assets with the right coverage at the right price. We shop multiple carriers so you don't have to.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Life & Health Insurance",
+      "description": "Protect your family's future and your health. We help determine the right type and amount of coverage for your situation.",
+      "icon": "favorite",
+      "phone": "630-575-0800"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Umbrella & Specialty Coverage",
+      "description": "Extra liability protection beyond standard policies. Umbrella, disability, and group coverage for individuals and businesses.",
+      "icon": "umbrella"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Business Insurance"
+    },
+    {
+      "name": "Home Insurance"
+    },
+    {
+      "name": "Auto Insurance"
+    },
+    {
+      "name": "Life Insurance"
+    },
+    {
+      "name": "Health Insurance"
+    },
+    {
+      "name": "Umbrella Coverage"
+    }
+  ],
+  "stats": [
+    {
+      "value": "33+",
+      "label": "Years in Business",
+      "is_first": true
+    },
+    {
+      "value": "3",
+      "label": "States Covered",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "person",
+      "title": "Kevin Dougherty, Principal",
+      "description": "Founded KSD in 1991 with the belief that insurance should be a social service, not a sales operation. Same representative for 33+ years."
+    },
+    {
+      "icon": "person",
+      "title": "Marcella Grunert, Broker",
+      "description": "Co-founder and insurance broker. Dedicated to finding the right coverage for every client with honesty and integrity."
+    },
+    {
+      "icon": "verified",
+      "title": "Trusted Choice Certified",
+      "description": "Certified member of the Trusted Choice network \u2014 independent agents committed to putting policyholders first."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Business Owner",
+      "location": "Oak Brook, IL",
+      "stars": 5,
+      "text": "Kevin has handled our business insurance for over 20 years. He always finds us better coverage at lower rates than the big national agencies."
+    },
+    {
+      "name": "Homeowner",
+      "location": "Elmhurst, IL",
+      "stars": 5,
+      "text": "When we had a claim, KSD handled everything. They advocated for us with the carrier and got us a fair settlement fast."
+    },
+    {
+      "name": "Long-Time Client",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "I've been with KSD since the 90s. Same people, same integrity. You always talk to Kevin or Marcella \u2014 never a call center."
+    }
+  ]
+}

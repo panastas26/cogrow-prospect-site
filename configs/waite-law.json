@@ -1,0 +1,124 @@
+{
+  "template": "professional-service",
+  "company_name": "Waite Law Firm",
+  "tagline": "Your First Step to Financial Freedom Starts Here",
+  "hero_subtitle": "Chicago real estate and bankruptcy attorney with 10+ years of experience. We help families save their homes, eliminate debt, and build a brighter financial future.",
+  "phone": "773-680-0610",
+  "email": "ryan@waitelaw.net",
+  "address": "Downers Grove, IL",
+  "city": "Chicago, IL",
+  "service_area": "Chicago & Chicagoland Suburbs",
+  "service_area_description": "Serving Chicago, Downers Grove, Naperville, and surrounding Chicagoland suburbs.",
+  "years_in_business": 10,
+  "jobs_completed": 500,
+  "hero_image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=85",
+  "accent_color": "#1e3a5f",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Waite Law Firm | Real Estate & Bankruptcy Attorney in Chicago, IL",
+  "seo_description": "Waite Law Firm in Chicago, IL. 10+ years of experience in real estate, bankruptcy, foreclosure, and loan modification. Free consultation available.",
+  "about_heading": "Chicago's Trusted Financial Law Attorney",
+  "services_subtitle": "Real estate, bankruptcy, foreclosure, and loan modification \u2014 handled with care and expertise.",
+  "reviews_heading": "What Our Clients Say",
+  "reviews_subtitle": "Real results from real people across Chicago and the suburbs.",
+  "cta_heading": "Facing foreclosure or drowning in debt?",
+  "cta_subtitle": "Get a free, no-obligation consultation. We'll map out your options and help you take the first step.",
+  "footer_description": "Chicago-based real estate and bankruptcy law firm helping families protect their homes and build financial freedom.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Real Estate Law",
+      "description": "Buy, sell, or refinance with confidence. We handle closings, title issues, and disputes to protect your biggest investment.",
+      "icon": "home",
+      "image_url": "https://static.wixstatic.com/media/14ac48_648bf1b344de4ecb942c4bf977e79d8a~mv2.jpg/v1/fill/w_980,h_660,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/14ac48_648bf1b344de4ecb942c4bf977e79d8a~mv2.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Bankruptcy",
+      "description": "Chapter 7 or Chapter 13 \u2014 we determine the best path to eliminate debt and give you a fresh financial start.",
+      "icon": "restart_alt"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Foreclosure Defense",
+      "description": "Don't lose your home. We fight foreclosure proceedings and explore every option to keep you in your house.",
+      "icon": "gavel",
+      "phone": "773-680-0610"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Loan Modification",
+      "description": "Our proven system makes getting legal help affordable. We negotiate with lenders to reduce your payments and save your home.",
+      "icon": "edit_note"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Real Estate"
+    },
+    {
+      "name": "Bankruptcy"
+    },
+    {
+      "name": "Foreclosure Defense"
+    },
+    {
+      "name": "Loan Modification"
+    }
+  ],
+  "stats": [
+    {
+      "value": "10+",
+      "label": "Years Experience",
+      "is_first": true
+    },
+    {
+      "value": "500+",
+      "label": "Cases Handled",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "person",
+      "title": "Attorney Ryan Waite",
+      "description": "Founder and lead attorney. Member of Chicago Bar Association, Illinois Bar Association, DuPage County Bar Association, and American Bar Association."
+    },
+    {
+      "icon": "attach_money",
+      "title": "Affordable & Transparent",
+      "description": "Reasonable rates, honest services, no hidden fees, no games. We developed a system to make legal help affordable for everyone."
+    },
+    {
+      "icon": "forum",
+      "title": "Constant Communication",
+      "description": "We keep you informed every step of the way. Phone, text, or email \u2014 you'll always know the status of your case."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Balkrishna B.",
+      "location": "Naperville, IL",
+      "stars": 5,
+      "text": "Ryan always talks with me respectfully and friendly. He responds as soon as possible by phone, text, or email. He did all my requirements in one place and saved my home with affordable fees."
+    },
+    {
+      "name": "Manny G.",
+      "location": "Chicago, IL",
+      "stars": 5,
+      "text": "Attorney Ryan Waite did an excellent job in my bankruptcy case. His advice not only prevented incarceration on another issue, but it also helped save lots of money!"
+    },
+    {
+      "name": "Satisfied Client",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "The Waite Law Firm handled our real estate closing with professionalism and attention to detail. They made the entire process stress-free and affordable."
+    }
+  ],
+  "logo_url": "https://static.wixstatic.com/media/b19309_005eda78353f44ff81d5f3dd7242469d~mv2.png/v1/fill/w_192,h_192,lg_1,usm_0.66_1.00_0.01/b19309_005eda78353f44ff81d5f3dd7242469d~mv2.png"
+}

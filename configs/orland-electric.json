@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "Orland Electric Co.",
+  "tagline": "All Your Electrical Needs \u2014 One Call, Done Right",
+  "hero_subtitle": "Family-owned, full-service electrical company in Orland Park, IL. Installation, repair, and 24/7 emergency service with a money-back guarantee. Cook County certified electricians.",
+  "phone": "708-247-5600",
+  "email": "Assessment@OrlandElectricCo.com",
+  "address": "8803 W 143rd St, Orland Park, IL 60462",
+  "city": "Orland Park, IL",
+  "service_area": "Cook County, IL",
+  "service_area_description": "Serving Orland Park, Tinley Park, Oak Lawn, Palos Heights & all of Cook County.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#ef4444",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Orland Electric Co. | Electricians in Orland Park, IL",
+  "seo_description": "Orland Electric Co. in Orland Park, IL. Full-service electrical installation and repair with money-back guarantee. 24/7 emergency service. Cook County.",
+  "about_heading": "Orland Park's Full-Service Electricians",
+  "services_subtitle": "Residential and commercial electrical services \u2014 from basic outlet repair to EV charging station installation.",
+  "reviews_heading": "Guaranteed Satisfaction",
+  "reviews_subtitle": "Money-back guarantee on every job. Professional, timely, and courteous certified electricians.",
+  "cta_heading": "Need an electrician? We're available 24/7.",
+  "cta_subtitle": "Get a free assessment. Same-day service available for residential and commercial projects.",
+  "footer_description": "Family-owned electrical company in Orland Park, IL. Full-service installation and repair with money-back guarantee. 24/7 emergency service across Cook County.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Residential Electrical",
+      "description": "From outlet repair to whole-home rewiring. Same-day service available. Every job backed by our money-back guarantee.",
+      "icon": "home",
+      "image_url": "https://orlandelectricco.com/img/2.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Keep your business powered. Same-day commercial service, facility upgrades, and code-compliant installations.",
+      "icon": "store"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "EV Charging Stations",
+      "description": "Future-proof your home or business with professional EV charger installation. All major brands supported.",
+      "icon": "ev_station",
+      "phone": "708-247-5600"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "24/7 Emergency Service",
+      "description": "Electrical emergency? We're available around the clock. Fast response times across Cook County when you need us most.",
+      "icon": "emergency"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Residential"
+    },
+    {
+      "name": "Commercial"
+    },
+    {
+      "name": "EV Charging"
+    },
+    {
+      "name": "Emergency Service"
+    },
+    {
+      "name": "Outlet Repair"
+    },
+    {
+      "name": "Installation"
+    }
+  ],
+  "stats": [
+    {
+      "value": "24/7",
+      "label": "Emergency Service",
+      "is_first": true
+    },
+    {
+      "value": "100%",
+      "label": "Money-Back Guarantee",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "family_restroom",
+      "title": "Family-Owned",
+      "description": "Not a franchise \u2014 a local family business that takes pride in every job and stands behind our work with a money-back guarantee."
+    },
+    {
+      "icon": "speed",
+      "title": "Same-Day Service",
+      "description": "Residential and commercial same-day service available. We know electrical problems can't wait."
+    },
+    {
+      "icon": "verified",
+      "title": "Certified Electricians",
+      "description": "Professional, courteous, certified electricians who complete projects efficiently and to the highest standards."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Orland Park, IL",
+      "stars": 5,
+      "text": "Called at 8am with a dead outlet, they were here by noon. Fixed the issue fast and the price was fair. Love the money-back guarantee."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Tinley Park, IL",
+      "stars": 5,
+      "text": "Orland Electric installed EV chargers at our business. Professional, clean, and they handled all the permitting. First-rate service."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Oak Lawn, IL",
+      "stars": 5,
+      "text": "We use them for all our commercial properties. Their 24/7 availability and same-day service has saved us multiple times."
+    }
+  ],
+  "logo_url": ""
+}

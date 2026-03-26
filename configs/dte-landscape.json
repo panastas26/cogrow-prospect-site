@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "Down To Earth Landscaping",
+  "tagline": "Full-Service Landscaping Since 1979. Barrington Trusts Us.",
+  "hero_subtitle": "Over 45 years of lawn maintenance, landscaping, and landscape materials for residential and commercial properties in the Barrington area.",
+  "phone": "847-426-1150",
+  "email": "info@dtelandscape.org",
+  "address": "15N365 Old Sutton Rd., Barrington, IL 60010",
+  "city": "Barrington, IL",
+  "service_area": "Barrington & Northwest Suburbs",
+  "service_area_description": "Serving Barrington, Lake Barrington, Deer Park, Hoffman Estates & surrounding northwest suburbs.",
+  "years_in_business": 45,
+  "jobs_completed": 10000,
+  "hero_image_url": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&q=90",
+  "logo_url": "https://www.dtelandscape.org/wp-content/uploads/2022/08/main-logo-1.png",
+  "about_image_1": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Down To Earth Landscaping | Landscaping & Materials in Barrington, IL",
+  "seo_description": "Down To Earth Landscaping in Barrington, IL. 45+ years of lawn maintenance, landscaping, mulch, soil, aggregates, and snow removal services.",
+  "about_heading": "Barrington's Landscape Experts Since 1979",
+  "services_subtitle": "From lawn maintenance to bulk materials \u2014 everything your property needs, delivered and installed.",
+  "reviews_heading": "Trusted for Over 45 Years",
+  "reviews_subtitle": "Barrington families and businesses rely on Down To Earth for quality and consistency.",
+  "cta_heading": "Ready to transform your property?",
+  "cta_subtitle": "Get a free estimate. We'll visit your site, assess your needs, and deliver a detailed proposal.",
+  "footer_description": "Full-service landscaping and landscape materials since 1979. Mulch, soil, aggregates, nursery products, and complete maintenance programs.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Lawn Maintenance & Landscaping",
+      "description": "Complete maintenance programs that keep your property pristine year-round. Mowing, aeration, overseeding, and full landscape design.",
+      "icon": "yard",
+      "image_url": "https://www.dtelandscape.org/wp-content/uploads/2022/08/home-feature-residential.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Mulch, Soil & Aggregates",
+      "description": "Premium bulk materials manufactured on-site. Mulch, topsoil, sand, stone, and gravel for retail and wholesale \u2014 delivered to your door.",
+      "icon": "local_shipping"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Snow Removal",
+      "description": "Reliable commercial and residential snow plowing and salt application to keep your property safe all winter.",
+      "icon": "ac_unit",
+      "phone": "847-426-1150"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Nursery & Firewood",
+      "description": "Quality nursery products for your landscape projects plus seasoned firewood for your home. Yard waste disposal available.",
+      "icon": "park"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Lawn Maintenance"
+    },
+    {
+      "name": "Landscaping"
+    },
+    {
+      "name": "Mulch Sales & Delivery"
+    },
+    {
+      "name": "Soil & Aggregates"
+    },
+    {
+      "name": "Snow Removal"
+    },
+    {
+      "name": "Nursery & Firewood"
+    }
+  ],
+  "stats": [
+    {
+      "value": "45+",
+      "label": "Years in Business",
+      "is_first": true
+    },
+    {
+      "value": "10K+",
+      "label": "Projects Completed",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "Barrington Since 1979",
+      "description": "Started as a lawn maintenance company and grew into a full-service landscape firm with materials manufacturing and supply."
+    },
+    {
+      "icon": "local_shipping",
+      "title": "Materials Manufacturing",
+      "description": "We don't just install \u2014 we manufacture and supply mulch, soil, and aggregates for retail and wholesale markets."
+    },
+    {
+      "icon": "eco",
+      "title": "Complete Property Solutions",
+      "description": "From spring aeration to winter snow removal, we keep your property looking its best year-round."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Barrington, IL",
+      "stars": 5,
+      "text": "We've used Down To Earth for over 10 years. Their maintenance program keeps our lawn looking like a golf course. Delivery is always on time."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Lake Barrington, IL",
+      "stars": 5,
+      "text": "Their snow removal service is the most reliable we've found. They show up early and the lot is always clear before our tenants arrive."
+    },
+    {
+      "name": "Landscaper",
+      "location": "Hoffman Estates, IL",
+      "stars": 5,
+      "text": "Best mulch and soil supplier in the area. We buy wholesale for all our projects. Quality is consistent and prices are fair."
+    }
+  ]
+}

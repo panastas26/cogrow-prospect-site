@@ -1,0 +1,108 @@
+{
+  "template": "field-service",
+  "company_name": "County Tree Service",
+  "tagline": "Expert Tree Services for the Chicago Area",
+  "hero_subtitle": "Sophisticated stewardship for your landscape. We blend arboricultural expertise with precision care to maintain the health and beauty of your property.",
+  "phone": "(708) 555-0123",
+  "email": "info@countytreeservice.com",
+  "address": "Stickney, IL 60402",
+  "city": "Stickney, IL",
+  "service_area": "Chicago Area",
+  "service_area_description": "Serving Berwyn, Riverside, Oak Park & the Chicago Area.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+  "about_image_1": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=600&q=80",
+  "about_image_2": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+  "accent_color": "#00a852",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "about_heading": "Stickney's Local Experts",
+  "services_subtitle": "Comprehensive care for your urban forest, from meticulous pruning to hazardous removals.",
+  "reviews_heading": "Voice of the Canopy",
+  "reviews_subtitle": "Trusted by homeowners and businesses across the Chicago area.",
+  "cta_heading": "Ready to transform your landscape?",
+  "cta_subtitle": "Get a transparent, itemized quote for your project within 24 hours.",
+  "footer_description": "Arboricultural stewards for Chicago's western suburbs. Committed to safety, health, and the local ecosystem.",
+  "year": "2024",
+
+  "services_featured": [
+    {
+      "name": "Tree Removal",
+      "description": "Precision removal for hazardous, dead, or encroaching trees in tight urban spaces.",
+      "icon": "park",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Stump Grinding",
+      "description": "Deep-root grinding to reclaim your landscape and prepare for new growth.",
+      "icon": "landscape"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Emergency Service",
+      "description": "24/7 rapid response for storm damage and dangerous limb failure.",
+      "icon": "warning",
+      "phone": "(708) 555-0123"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Artistic Pruning",
+      "description": "Maintenance that promotes structural integrity and aesthetic silhouette.",
+      "icon": "content_cut"
+    }
+  ],
+  "services_all": [
+    { "name": "Tree Removal" },
+    { "name": "Stump Grinding" },
+    { "name": "Pruning" },
+    { "name": "Emergency Service" }
+  ],
+
+  "stats": [
+    { "value": "15+", "label": "Years Experience", "is_first": true },
+    { "value": "5k+", "label": "Trees Cared For", "is_second": true }
+  ],
+
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "Stickney Roots",
+      "description": "Deeply integrated in the Stickney, IL community. We know the local soil, common tree diseases, and regional growth patterns."
+    },
+    {
+      "icon": "verified",
+      "title": "Safety First Culture",
+      "description": "Fully insured and licensed professionals. We utilize industrial-grade rigging and modern climbing technology to ensure zero property damage."
+    },
+    {
+      "icon": "eco",
+      "title": "Sustainable Disposal",
+      "description": "We don't just clear; we recycle. Removed materials are processed into premium mulch or repurposed for urban timber projects."
+    }
+  ],
+
+  "reviews": [
+    {
+      "name": "David R.",
+      "location": "Riverside, IL",
+      "stars": 5,
+      "text": "The most professional tree service I've ever used. They removed a 50ft dying elm between my house and the neighbor's with surgical precision."
+    },
+    {
+      "name": "Sarah M.",
+      "location": "Stickney, IL",
+      "stars": 5,
+      "text": "County Tree Service cleared our storm damage in record time. Their cleanup was so thorough, you couldn't even tell they had been there."
+    },
+    {
+      "name": "James L.",
+      "location": "Berwyn, IL",
+      "stars": 5,
+      "text": "They are more like artists than tree cutters. Our old maple looks rejuvenated and healthy thanks to their structural pruning."
+    }
+  ]
+}

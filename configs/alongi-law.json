@@ -1,0 +1,130 @@
+{
+  "template": "professional-service",
+  "company_name": "Law Offices of Allan C. Alongi",
+  "tagline": "Protecting Families and Businesses Since 1989",
+  "hero_subtitle": "Over 25 years of experience in real estate, estate planning, guardianships, probate, trusts, municipal law, and business & corporate law. Clarendon Hills, Illinois.",
+  "phone": "630-920-0300",
+  "email": "inquiry@alongilawoffice.com",
+  "address": "3 Golf Avenue, Clarendon Hills, IL 60514",
+  "city": "Clarendon Hills, IL",
+  "service_area": "DuPage County & Western Suburbs",
+  "service_area_description": "Serving Clarendon Hills, Hinsdale, Westmont, Downers Grove, Oak Brook & surrounding DuPage County suburbs.",
+  "years_in_business": 35,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=85",
+  "accent_color": "#7c3aed",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Alongi Law Office | Estate Planning & Real Estate Attorney in Clarendon Hills, IL",
+  "seo_description": "Law Offices of Allan C. Alongi in Clarendon Hills, IL. 35+ years of real estate, estate planning, probate, trusts, and corporate law for DuPage County families.",
+  "about_heading": "Clarendon Hills' Trusted Legal Partners",
+  "services_subtitle": "Comprehensive legal services for families and businesses across DuPage County and the western suburbs.",
+  "reviews_heading": "Built on Referrals Since 1989",
+  "reviews_subtitle": "Our valued clients refer family, friends, and associates \u2014 the highest compliment a law firm can receive.",
+  "cta_heading": "Protect what you've built. Start today.",
+  "cta_subtitle": "Schedule a free consultation. We'll review your situation and outline a clear path forward.",
+  "footer_description": "Clarendon Hills law firm providing estate planning, real estate, probate, and corporate legal services since 1989.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Estate Planning & Trusts",
+      "description": "Protect your family's future with wills, trusts, and comprehensive estate plans tailored to your specific needs and goals.",
+      "icon": "volunteer_activism",
+      "image_url": "https://static.wixstatic.com/media/4ebd86b408624341912c9560e5c4cc87.jpg/v1/fill/w_980,h_653,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ebd86b408624341912c9560e5c4cc87.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Real Estate Law",
+      "description": "Residential and commercial closings, title review, contract negotiation, and dispute resolution handled with precision.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Guardianships",
+      "description": "Compassionate legal guidance when a loved one needs protection. We handle adult and minor guardianship proceedings.",
+      "icon": "family_restroom",
+      "phone": "630-920-0300"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Business & Corporate Law",
+      "description": "Entity formation, contracts, governance, and succession planning for businesses of all sizes across Illinois.",
+      "icon": "corporate_fare"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Estate Planning"
+    },
+    {
+      "name": "Real Estate"
+    },
+    {
+      "name": "Guardianships"
+    },
+    {
+      "name": "Business & Corporate Law"
+    },
+    {
+      "name": "Probate & Estate Administration"
+    },
+    {
+      "name": "Municipal Law"
+    }
+  ],
+  "stats": [
+    {
+      "value": "35+",
+      "label": "Years in Practice",
+      "is_first": true
+    },
+    {
+      "value": "5000+",
+      "label": "Clients Served",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "person",
+      "title": "Allan C. Alongi, Attorney",
+      "description": "Founding attorney since 1989. Dedicated to providing the highest quality legal services with a focus on effective advocacy and integrity."
+    },
+    {
+      "icon": "handshake",
+      "title": "Referral Network",
+      "description": "Strong relationships with title companies, real estate firms, CPAs, and financial professionals to deliver complete client services."
+    },
+    {
+      "icon": "location_on",
+      "title": "Clarendon Hills Office",
+      "description": "Conveniently located at 3 Golf Avenue. Serving Clarendon Hills, Hinsdale, Westmont, Downers Grove, and Oak Brook families."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Long-Time Client",
+      "location": "Hinsdale, IL",
+      "stars": 5,
+      "text": "Allan has handled our family's estate planning and real estate closings for over 20 years. His attention to detail and integrity are unmatched."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "The Alongi firm helped us structure our business and plan for succession. They treat every client like family and always go above and beyond."
+    },
+    {
+      "name": "Referred Client",
+      "location": "Westmont, IL",
+      "stars": 5,
+      "text": "Was referred by my CPA and now I understand why. Allan made the guardianship process manageable and kept us informed every step of the way."
+    }
+  ],
+  "logo_url": "https://static.wixstatic.com/media/2f3130_1224b6b400094d3cb9d24e675f7bfc43~mv2.png/v1/fill/w_192,h_192,lg_1,usm_0.66_1.00_0.01/2f3130_1224b6b400094d3cb9d24e675f7bfc43~mv2.png"
+}

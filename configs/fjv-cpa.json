@@ -1,0 +1,130 @@
+{
+  "template": "professional-service",
+  "company_name": "FJV CPA LLC",
+  "tagline": "Winning Tax Strategies That Save You Millions",
+  "hero_subtitle": "Over 25 years helping U.S. and international businesses \u2014 from startups to Fortune 500 \u2014 with strategic tax planning, compliance, and consulting that protects your bottom line.",
+  "phone": "(617) 770-7286",
+  "email": "info@fjvcpa.com",
+  "address": "888 Worcester Street, Suite 217, Wellesley, MA 02482",
+  "city": "Wellesley, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Wellesley, Boston, Newton, Needham & businesses nationwide.",
+  "years_in_business": 25,
+  "jobs_completed": 1000,
+  "hero_image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=90",
+  "logo_url": "https://www.fjvcpa.com/site_images/fran-vari.png",
+  "about_image_1": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=85",
+  "accent_color": "#1e40af",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "FJV CPA LLC | Tax & Business Consulting in Wellesley, MA",
+  "seo_description": "FJV CPA LLC provides strategic tax planning, international tax, and business consulting for startups to Fortune 500 companies in Wellesley, MA and beyond.",
+  "about_heading": "25+ Years of Strategic Tax Expertise",
+  "services_subtitle": "Comprehensive tax, accounting, and consulting services for domestic and international businesses.",
+  "reviews_heading": "Trusted by Businesses Nationwide",
+  "reviews_subtitle": "From startups to Fortune 500 \u2014 our clients trust us with their most complex tax challenges.",
+  "cta_heading": "Stop overpaying on taxes. Start here.",
+  "cta_subtitle": "Schedule a free consultation. We'll review your tax position and find savings you're missing.",
+  "footer_description": "Expert CPA firm specializing in strategic tax planning, international tax, and business consulting for over 25 years.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Strategic Tax Planning",
+      "description": "Cut your tax bill with proactive planning \u2014 not just compliance. We find deductions and structures most firms miss.",
+      "icon": "savings",
+      "image_url": "https://www.fjvcpa.com/site_images/home-tax.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "International Tax",
+      "description": "Navigate cross-border complexity with confidence. Transfer pricing, structuring, and compliance for global operations.",
+      "icon": "public"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Tax Audit Defense",
+      "description": "Facing an IRS audit? We handle controversies and appeals so you can focus on running your business.",
+      "icon": "shield",
+      "phone": "(617) 770-7286"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Mergers & Acquisitions",
+      "description": "Tax-efficient deal structuring for buyers and sellers. Due diligence, compliance, and post-deal integration.",
+      "icon": "handshake"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Strategic Tax Planning"
+    },
+    {
+      "name": "International Tax"
+    },
+    {
+      "name": "Tax Audit Defense"
+    },
+    {
+      "name": "Mergers & Acquisitions"
+    },
+    {
+      "name": "Business Consulting"
+    },
+    {
+      "name": "Tax Preparation & Compliance"
+    }
+  ],
+  "stats": [
+    {
+      "value": "25+",
+      "label": "Years Experience",
+      "is_first": true
+    },
+    {
+      "value": "1000+",
+      "label": "Clients Served",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "AICPA & MSCPA Member",
+      "description": "Credentialed professionals holding memberships in the American Institute of CPAs and Massachusetts Society of CPAs."
+    },
+    {
+      "icon": "public",
+      "title": "Global Tax Expertise",
+      "description": "Specialized in international tax planning, transfer pricing, and cross-border structuring for multinational businesses."
+    },
+    {
+      "icon": "trending_up",
+      "title": "Startup to Fortune 500",
+      "description": "We scale with your business. From new venture formation to complex corporate tax strategy for the largest companies."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Tech Startup CEO",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "FJV restructured our entity and saved us over six figures in our first year. Their international tax knowledge is unmatched in the Boston area."
+    },
+    {
+      "name": "Manufacturing CFO",
+      "location": "Wellesley, MA",
+      "stars": 5,
+      "text": "We switched to FJV after our old firm missed key deductions. They found savings we didn't know existed and are incredibly responsive."
+    },
+    {
+      "name": "Private Equity Partner",
+      "location": "Newton, MA",
+      "stars": 5,
+      "text": "FJV handles our fund's tax compliance and M&A due diligence flawlessly. Their strategic approach goes far beyond basic accounting."
+    }
+  ]
+}

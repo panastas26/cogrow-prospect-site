@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "ABS Electric Inc.",
+  "tagline": "DuPage County's Trusted Electricians for 30+ Years",
+  "hero_subtitle": "Family-owned, full-service electrical contractor serving DuPage and Suburban Cook County. Over 30 years of residential, commercial, generator, and EV charger expertise.",
+  "phone": "630-515-8696",
+  "email": "abs@abselectric1.com",
+  "address": "6328 Fairmount Ave, Downers Grove, IL",
+  "city": "Downers Grove, IL",
+  "service_area": "DuPage & Cook County",
+  "service_area_description": "Serving Downers Grove, Naperville, Wheaton, Hinsdale, Oak Brook & suburban Cook County.",
+  "years_in_business": 30,
+  "jobs_completed": 10000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "https://images.squarespace-cdn.com/content/v1/5fef42c696a9ec7fa13ac7e9/1611760502087-XILGF23ZUIYUELZEOPKY/ABSElectricInc_HorzLogo-01.png",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#dc2626",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "ABS Electric Inc. | Electricians & Generac Dealers in Downers Grove, IL",
+  "seo_description": "ABS Electric Inc. in Downers Grove, IL. 30+ years of residential, commercial electrical, Generac generators, and EV charger installation in DuPage County.",
+  "about_heading": "30+ Years Powering DuPage County",
+  "services_subtitle": "Full-service electrical contractor specializing in residential, commercial, generators, and EV charger installations.",
+  "reviews_heading": "DuPage County's Electrical Experts",
+  "reviews_subtitle": "Family-owned, full-service, and trusted by homeowners and businesses for over 30 years.",
+  "cta_heading": "Power your home or business with confidence.",
+  "cta_subtitle": "Get a free estimate. We handle everything from outlet repair to whole-home generator installation.",
+  "footer_description": "Family-owned electrical contractor in Downers Grove, IL. Residential, commercial, Generac generators, and EV charger installation for DuPage and Cook County.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Generac Generator Installation",
+      "description": "Never lose power again. Authorized Generac dealer providing whole-home and commercial standby generator sales, installation, and service.",
+      "icon": "bolt",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5fef42c696a9ec7fa13ac7e9/1613697646157-FQQGN7YDOCSIAAE8GRE3/ABS_Services.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Residential Electrical",
+      "description": "Complete home electrical services \u2014 panel upgrades, rewiring, lighting, outlets, and code compliance inspections.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "EV Charger Installation",
+      "description": "Level 2 home and commercial EV charger installation. Future-proof your property for the electric vehicle revolution.",
+      "icon": "ev_station",
+      "phone": "630-515-8696"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Office, retail, and industrial electrical services. New construction, tenant buildouts, and facility upgrades.",
+      "icon": "store"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Generac Generators"
+    },
+    {
+      "name": "Residential"
+    },
+    {
+      "name": "Commercial"
+    },
+    {
+      "name": "EV Chargers"
+    },
+    {
+      "name": "Panel Upgrades"
+    },
+    {
+      "name": "Lighting"
+    }
+  ],
+  "stats": [
+    {
+      "value": "30+",
+      "label": "Years Experience",
+      "is_first": true
+    },
+    {
+      "value": "10K+",
+      "label": "Jobs Completed",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "family_restroom",
+      "title": "Family-Owned Since Day One",
+      "description": "Three decades of family ownership means accountability, pride in our work, and a reputation we protect on every job."
+    },
+    {
+      "icon": "bolt",
+      "title": "Authorized Generac Dealer",
+      "description": "Factory-trained and authorized to sell, install, and service Generac standby generators for homes and businesses."
+    },
+    {
+      "icon": "location_on",
+      "title": "Downers Grove Based",
+      "description": "Headquartered in Downers Grove, serving all of DuPage and Suburban Cook County. We know the local codes and requirements."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "ABS installed our Generac generator and it's been flawless. When the neighborhood lost power for 8 hours, we didn't even notice."
+    },
+    {
+      "name": "EV Owner",
+      "location": "Naperville, IL",
+      "stars": 5,
+      "text": "Had them install a Level 2 charger in our garage. Clean installation, fair price, and they handled the permit. Charges our Tesla perfectly."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Wheaton, IL",
+      "stars": 5,
+      "text": "We've used ABS for our commercial electrical needs for years. Reliable, knowledgeable, and always deliver quality work on schedule."
+    }
+  ]
+}
