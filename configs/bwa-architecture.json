@@ -1,0 +1,110 @@
+{
+  "template": "professional-service",
+  "company_name": "BWA Architecture",
+  "tagline": "Transforming Neighborhoods Through Thoughtful Design",
+  "hero_subtitle": "Award-winning Boston architecture firm specializing in affordable senior housing, multifamily residential, transportation, and civic projects since 1993.",
+  "phone": "(617) 350-7420",
+  "email": "info@bwaboston.com",
+  "address": "132 Lincoln Street, 4R, Boston, MA 02111",
+  "city": "Boston, MA",
+  "service_area": "New England",
+  "service_area_description": "Serving Boston, Cambridge, Brookline, and communities across Massachusetts, Maine, Connecticut, New York, and DC.",
+  "years_in_business": 30,
+  "jobs_completed": 500,
+  "hero_image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=90",
+  "logo_url": "https://static.wixstatic.com/media/02360c_7734f92b3c5d465caf2110b1b722f126~mv2.png/v1/fill/w_160,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BWA-Logo-White.png",
+  "about_image_1": "https://static.wixstatic.com/media/02360c_8de6c9ea5fa44df4be1233679aa04d07~mv2.jpg/v1/fill/w_416,h_312,q_90,enc_avif,quality_auto/02360c_8de6c9ea5fa44df4be1233679aa04d07~mv2.jpg",
+  "about_image_2": "https://static.wixstatic.com/media/02360c_f1ef9bf7b3034625a242f340d9e8565e~mv2.jpg/v1/fill/w_416,h_312,q_90,enc_avif,quality_auto/02360c_f1ef9bf7b3034625a242f340d9e8565e~mv2.jpg",
+  "accent_color": "#475569",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "BWA Architecture | Architecture Firm in Boston, MA",
+  "seo_description": "BWA Architecture in Boston, MA. 30+ years designing affordable housing, multifamily residential, transportation, and civic projects across New England.",
+  "about_heading": "Creating Spaces That Change Lives Since 1993",
+  "services_subtitle": "Full-service architecture from initial assessments through construction completion for public agencies and private entities.",
+  "reviews_heading": "Designs That Build Community",
+  "reviews_subtitle": "Trusted by housing authorities, transit agencies, and municipalities across the Northeast.",
+  "cta_heading": "Let's design something that matters.",
+  "cta_subtitle": "Schedule a consultation to discuss your next project. We bring 30 years of collaborative design expertise.",
+  "footer_description": "Boston-based architecture firm specializing in affordable housing, transportation, and civic design since 1993. Registered in MA, ME, CT, DC, NC, and NY.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Affordable & Senior Housing",
+      "description": "Dignified, sustainable residential communities that honor residents and transform neighborhoods. LEED and PHIUS certified designs.",
+      "icon": "apartment",
+      "image_url": "https://static.wixstatic.com/media/02360c_3979163365c94b2a9ddf37b22e374dca~mv2.jpg/v1/crop/x_121,y_9,w_1750,h_892/fill/w_956,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/02360c_3979163365c94b2a9ddf37b22e374dca~mv2.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Multifamily Residential",
+      "description": "Thoughtful multi-unit design that builds community, maximizes livability, and meets the diverse needs of modern residents.",
+      "icon": "home_work"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Transportation & Transit",
+      "description": "Station design and transit infrastructure that improves urban mobility. MBTA Green Line stations and commuter rail projects.",
+      "icon": "directions_transit",
+      "phone": "(617) 350-7420"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Civic & Academic",
+      "description": "Public buildings, academic spaces, and community facilities designed with sensitivity to accessibility, sustainability, and pride of place.",
+      "icon": "account_balance"
+    }
+  ],
+  "services_all": [
+    { "name": "Senior Housing" },
+    { "name": "Multifamily" },
+    { "name": "Transportation" },
+    { "name": "Civic" },
+    { "name": "Academic" },
+    { "name": "Sustainability" }
+  ],
+  "stats": [
+    { "value": "30+", "label": "Years Experience", "is_first": true },
+    { "value": "20+", "label": "Architects & Designers", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "diversity_3",
+      "title": "Human Touch",
+      "description": "Deep sensitivity to non-discrimination, comfort, affordability, and community pride in every project we design."
+    },
+    {
+      "icon": "location_city",
+      "title": "Urban Focus",
+      "description": "Adaptive re-use and thoughtful restoration of urban assets and historic structures across New England."
+    },
+    {
+      "icon": "eco",
+      "title": "Lasting Benefit",
+      "description": "Commitment to climate and resource protection. LEED accredited and PHIUS certified design team."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Cambridge Housing Authority",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "BWA delivered the Truman Senior Apartments project on time and on budget. Their sensitivity to resident needs and sustainable design made this a model for affordable senior housing."
+    },
+    {
+      "name": "MBTA Project Manager",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "The Green Line station designs at BU demonstrate BWA's ability to balance functionality, aesthetics, and accessibility in complex transit environments."
+    },
+    {
+      "name": "Brookline Housing Authority",
+      "location": "Brookline, MA",
+      "stars": 5,
+      "text": "Their collaborative approach made us feel like true partners throughout the design process. The finished building exceeded our expectations and the community's."
+    }
+  ]
+}
