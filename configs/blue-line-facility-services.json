@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Blue Line Facility Services",
+  "tagline": "Commercial Cleaning That Never Cuts Corners",
+  "hero_subtitle": "Full-service facility cleaning and janitorial services for offices, schools, and commercial buildings across Greater Boston.",
+  "phone": "(781) 286-6500",
+  "email": "",
+  "address": "Revere, MA",
+  "city": "Revere, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Revere, Chelsea, Everett, Malden, and the Greater Boston area.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Blue Line Facility Services | Commercial Cleaning in Revere, MA",
+  "seo_description": "Blue Line Facility Services in Revere, MA. Professional janitorial and facility cleaning for offices, schools, and commercial buildings across Greater Boston.",
+  "about_heading": "Revere's Full-Service Cleaning Professionals",
+  "services_subtitle": "Comprehensive facility cleaning programs that keep your building healthy, safe, and presentable.",
+  "reviews_heading": "Facilities Trust Blue Line",
+  "reviews_subtitle": "Schools, offices, and commercial buildings across Greater Boston rely on our consistent quality.",
+  "cta_heading": "Your facility deserves better cleaning.",
+  "cta_subtitle": "Get a free walkthrough and custom cleaning proposal. We'll show you the Blue Line difference.",
+  "footer_description": "Full-service facility cleaning and janitorial services in Revere and Greater Boston. Professional, reliable, insured.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Janitorial Services",
+      "description": "Daily, nightly, and weekend janitorial programs for commercial buildings. Consistent quality from a dedicated crew.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Office Cleaning",
+      "description": "Professional office cleaning that keeps your workspace healthy and productive. Desks, restrooms, kitchens, and common areas.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "School & Institutional Cleaning",
+      "description": "Specialized cleaning for schools, universities, and public buildings. Disinfection protocols and flexible scheduling.",
+      "icon": "school",
+      "phone": "(781) 286-6500"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Floor & Carpet Care",
+      "description": "Carpet extraction, tile stripping and waxing, and hardwood floor maintenance. Keep your floors looking new.",
+      "icon": "layers"
+    }
+  ],
+  "services_all": [
+    { "name": "Janitorial" },
+    { "name": "Office Cleaning" },
+    { "name": "School Cleaning" },
+    { "name": "Floor Care" },
+    { "name": "Window Cleaning" },
+    { "name": "Deep Cleaning" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years Experience", "is_first": true },
+    { "value": "5000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "groups",
+      "title": "Dedicated Crews",
+      "description": "The same trained team cleans your building every visit. Consistency builds trust and quality."
+    },
+    {
+      "icon": "location_on",
+      "title": "Based in Revere",
+      "description": "Locally owned and operated. We serve Greater Boston with the responsiveness of a neighbor."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Background-checked staff for your peace of mind."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "School Principal",
+      "location": "Chelsea, MA",
+      "stars": 5,
+      "text": "Blue Line keeps our school spotless. Their team is respectful, thorough, and always accommodates our event schedule."
+    },
+    {
+      "name": "Office Manager",
+      "location": "Revere, MA",
+      "stars": 5,
+      "text": "We switched to Blue Line a year ago and the difference is night and day. Consistent, reliable, and great communication."
+    },
+    {
+      "name": "Building Owner",
+      "location": "Malden, MA",
+      "stars": 5,
+      "text": "They manage cleaning for all three of my commercial properties. Professional team and fair pricing."
+    }
+  ]
+}
