@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Down To Earth Landscaping Inc.",
+  "tagline": "Barrington's Landscaping Experts Since 1979",
+  "hero_subtitle": "Full-service lawn maintenance, landscaping, and landscape materials for residential and commercial properties across the Barrington area. Trusted for over 45 years.",
+  "phone": "847-426-1150",
+  "email": "info@dtelandscape.org",
+  "address": "15N365 Old Sutton Rd., Barrington, IL 60010",
+  "city": "Barrington, IL",
+  "service_area": "Barrington & Northwest Suburbs",
+  "service_area_description": "Serving Barrington, Barrington Hills, South Barrington, Lake Barrington, Inverness, and the surrounding northwest suburban communities.",
+  "years_in_business": 47,
+  "jobs_completed": 20000,
+  "hero_image_url": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&q=90",
+  "logo_url": "https://www.dtelandscape.org/wp-content/uploads/2022/08/main-logo-1.png",
+  "about_image_1": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Down To Earth Landscaping | Lawn Care & Landscaping in Barrington, IL",
+  "seo_description": "Down To Earth Landscaping in Barrington, IL. Full-service lawn maintenance, landscaping, snow removal, and landscape materials since 1979. Call 847-426-1150.",
+  "about_heading": "Barrington's Trusted Landscapers Since 1979",
+  "services_subtitle": "From weekly lawn care to bulk landscape materials, we deliver the full package for homeowners and contractors across the northwest suburbs.",
+  "reviews_heading": "45+ Years of Happy Customers",
+  "reviews_subtitle": "Barrington homeowners and businesses trust Down To Earth for reliable, quality landscaping year-round.",
+  "cta_heading": "Ready to transform your property?",
+  "cta_subtitle": "Get a free estimate from Barrington's most experienced landscaping team. No pressure, just honest advice.",
+  "footer_description": "Full-service landscaping and lawn maintenance since 1979. Landscape materials manufacturer and supplier. Serving Barrington and the northwest suburbs of Chicago.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Lawn Maintenance",
+      "description": "Complete lawn care programs including mowing, edging, fertilization, and seasonal cleanups to keep your property looking pristine all year long.",
+      "icon": "grass",
+      "image_url": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Landscape Design & Installation",
+      "description": "Custom landscape design, planting, hardscaping, and complete property transformations from concept to completion by our experienced crew.",
+      "icon": "park"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Snow Removal",
+      "description": "Reliable commercial and residential snow removal and ice management to keep your property safe through every Illinois winter.",
+      "icon": "ac_unit",
+      "phone": "847-426-1150"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Landscape Materials & Supply",
+      "description": "Wholesale and retail mulch, soil, sand, stone, gravel, firewood, and nursery plants. We manufacture our own materials — pickup or delivery available.",
+      "icon": "local_shipping"
+    }
+  ],
+  "services_all": [
+    {"name": "Lawn Mowing & Edging"},
+    {"name": "Lawn Aeration & Overseeding"},
+    {"name": "Landscape Design"},
+    {"name": "Snow Removal"},
+    {"name": "Mulch & Soil Supply"},
+    {"name": "Sand, Stone & Gravel"},
+    {"name": "Yard Waste Disposal"},
+    {"name": "Nursery Plants & Firewood"}
+  ],
+  "stats": [
+    {"value": "47+", "label": "Years in Business", "is_first": true},
+    {"value": "20K+", "label": "Properties Maintained", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "history",
+      "title": "Family-Owned Since 1979",
+      "description": "What started as a small lawn maintenance company has grown into a full-service landscaping and materials supplier trusted by the Barrington community for over four decades."
+    },
+    {
+      "icon": "factory",
+      "title": "We Manufacture Our Materials",
+      "description": "Unlike other landscapers, we produce our own mulch, soil, and aggregates — meaning better quality and better prices for every project."
+    },
+    {
+      "icon": "eco",
+      "title": "Full-Service Year-Round",
+      "description": "From spring cleanups to summer maintenance to winter snow removal, we keep your property looking its best in every season."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Karen M.",
+      "location": "Barrington, IL",
+      "stars": 5,
+      "text": "We've used Down To Earth for over 10 years. They keep our lawn looking amazing and the fall cleanup is always thorough. Wouldn't trust anyone else."
+    },
+    {
+      "name": "David R.",
+      "location": "Barrington Hills, IL",
+      "stars": 5,
+      "text": "Great landscaping work and their material yard is fantastic. Picked up mulch and topsoil for a weekend project — fair prices and helpful staff."
+    },
+    {
+      "name": "Linda S.",
+      "location": "South Barrington, IL",
+      "stars": 5,
+      "text": "Reliable snow removal all winter long. They're always out early and our driveway and walkways are cleared before we leave for work. Highly recommend."
+    }
+  ]
+}

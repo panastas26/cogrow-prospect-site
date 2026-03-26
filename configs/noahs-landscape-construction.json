@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Noah's Landscape & Construction",
+  "tagline": "Streamwood's Go-To Crew for Landscaping & Hardscaping",
+  "hero_subtitle": "Professional landscaping, hardscaping, and outdoor construction for homes and businesses across Streamwood and the northwest Chicago suburbs. Quality craftsmanship you can see.",
+  "phone": "847-361-5006",
+  "email": "",
+  "address": "Streamwood, IL",
+  "city": "Streamwood, IL",
+  "service_area": "Streamwood & Northwest Suburbs",
+  "service_area_description": "Serving Streamwood, Hanover Park, Bartlett, Schaumburg, Elgin, and the surrounding northwest suburban communities.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Noah's Landscape & Construction | Landscaping in Streamwood, IL",
+  "seo_description": "Noah's Landscape & Construction in Streamwood, IL. Professional landscaping, hardscaping, patios, retaining walls, and lawn care. Call 847-361-5006 for a free estimate.",
+  "about_heading": "Streamwood's Landscaping & Hardscaping Pros",
+  "services_subtitle": "From lawn care to custom patios and retaining walls, we handle every aspect of your outdoor space with precision and pride.",
+  "reviews_heading": "5-Star Work Across the Northwest Suburbs",
+  "reviews_subtitle": "Streamwood homeowners trust Noah's for honest pricing, clean work, and results that last.",
+  "cta_heading": "Ready to transform your outdoor space?",
+  "cta_subtitle": "Get a free estimate today. We'll walk your property and give you an honest plan — no pressure, no surprises.",
+  "footer_description": "Professional landscaping and hardscaping contractor serving Streamwood and the northwest Chicago suburbs. Patios, retaining walls, lawn care, and complete outdoor transformations.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Landscape Design & Installation",
+      "description": "Custom landscape plans brought to life with expert planting, grading, and design. We transform ordinary yards into outdoor spaces you'll love coming home to.",
+      "icon": "park",
+      "image_url": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Patios & Hardscaping",
+      "description": "Brick and stone patios, walkways, fire pits, and outdoor living areas built to last. We handle design and construction from start to finish.",
+      "icon": "deck"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Retaining Walls & Grading",
+      "description": "Structural and decorative retaining walls that solve drainage problems and add curb appeal. Engineered for Illinois soil and weather conditions.",
+      "icon": "layers",
+      "phone": "847-361-5006"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Lawn Care & Maintenance",
+      "description": "Weekly mowing, seasonal cleanups, fertilization, and aeration programs that keep your lawn thick, green, and healthy all season long.",
+      "icon": "grass"
+    }
+  ],
+  "services_all": [
+    {"name": "Landscape Design"},
+    {"name": "Patios & Walkways"},
+    {"name": "Retaining Walls"},
+    {"name": "Lawn Maintenance"},
+    {"name": "Sod Installation"},
+    {"name": "Grading & Drainage"},
+    {"name": "Outdoor Lighting"},
+    {"name": "Snow Removal"}
+  ],
+  "stats": [
+    {"value": "15+", "label": "Years of Experience", "is_first": true},
+    {"value": "5K+", "label": "Projects Completed", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "engineering",
+      "title": "Built by Craftsmen",
+      "description": "Our crew specializes in hardscaping and outdoor construction — we don't just mow lawns, we build outdoor spaces that add real value to your home."
+    },
+    {
+      "icon": "handshake",
+      "title": "Honest Estimates, No Surprises",
+      "description": "We walk your property, explain the scope, and give you a fair price upfront. The price we quote is the price you pay."
+    },
+    {
+      "icon": "verified",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed and insured for landscaping and construction work across Illinois. Your property is protected from start to finish."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Mike T.",
+      "location": "Streamwood, IL",
+      "stars": 5,
+      "text": "Noah's crew built a beautiful paver patio and fire pit in our backyard. The work was clean, on time, and the price was exactly what they quoted. We love it."
+    },
+    {
+      "name": "Sarah K.",
+      "location": "Hanover Park, IL",
+      "stars": 5,
+      "text": "They installed a retaining wall and completely regraded our side yard that was flooding. Problem solved and it looks great. Very professional team."
+    },
+    {
+      "name": "Tom B.",
+      "location": "Bartlett, IL",
+      "stars": 5,
+      "text": "We've used Noah's for lawn care and landscaping for three seasons now. Always reliable, always looks great. Best landscaper we've had."
+    }
+  ]
+}
