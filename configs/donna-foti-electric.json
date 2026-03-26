@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "Foti Electric Co.",
+  "tagline": "Waltham's Trusted Electricians Since 1992",
+  "hero_subtitle": "30+ years of residential, commercial, and industrial electrical services for the Greater Boston region. We're not finished until our customers are satisfied.",
+  "phone": "781-891-4119",
+  "email": "fotielectric@aol.com",
+  "address": "196 Temple Rd., Waltham, MA 02452",
+  "city": "Waltham, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Waltham, Newton, Watertown, Lexington, Arlington & the entire Greater Boston region.",
+  "years_in_business": 30,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "https://www.fotielectric.com/images/header-logo.png",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#1e40af",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Foti Electric Co. | Electricians in Waltham, MA Since 1992",
+  "seo_description": "Foti Electric Co. in Waltham, MA. 30+ years of residential, commercial, and industrial electrical services. Licensed MA Lic #A12670. Call 781-891-4119.",
+  "about_heading": "30+ Years Powering Greater Boston",
+  "services_subtitle": "Residential, commercial, and industrial electrical services \u2014 from panel upgrades to solar installations.",
+  "reviews_heading": "Greater Boston's Go-To Electrician",
+  "reviews_subtitle": "Licensed, experienced, and committed to 100% customer satisfaction since 1992.",
+  "cta_heading": "Power your project with the pros.",
+  "cta_subtitle": "Get a free estimate. We'll assess your electrical needs and deliver a detailed, honest quote.",
+  "footer_description": "Full-service electrical contractor since 1992. MA Lic #A12670. Residential, commercial, and industrial services across Greater Boston.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Residential Electrical",
+      "description": "Panel upgrades, rewiring, aluminum wiring replacement, safety inspections, lighting, and repairs. Your home's electrical system in expert hands.",
+      "icon": "home",
+      "image_url": "https://www.fotielectric.com/images/residential.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Tenant improvements, LED retrofits, parking lot lighting, remodels, and facility upgrades for businesses of all sizes.",
+      "icon": "store"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Solar Installation",
+      "description": "Go green and cut your energy bills. Expert solar panel installation for residential and commercial properties.",
+      "icon": "solar_power",
+      "phone": "781-891-4119"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Industrial Electrical",
+      "description": "Design/build, installation, repair, and maintenance for industrial facilities. We keep your operations running.",
+      "icon": "factory"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "Residential"
+    },
+    {
+      "name": "Commercial"
+    },
+    {
+      "name": "Industrial"
+    },
+    {
+      "name": "Solar"
+    },
+    {
+      "name": "LED Retrofits"
+    },
+    {
+      "name": "Panel Upgrades"
+    }
+  ],
+  "stats": [
+    {
+      "value": "30+",
+      "label": "Years Experience",
+      "is_first": true
+    },
+    {
+      "value": "8000+",
+      "label": "Projects Completed",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "MA Licensed #A12670",
+      "description": "Fully licensed and insured Massachusetts electrical contractor. Every project meets or exceeds state code."
+    },
+    {
+      "icon": "location_on",
+      "title": "Waltham Since 1992",
+      "description": "Locally owned and operated from Waltham. We know the Greater Boston area's homes, buildings, and electrical infrastructure."
+    },
+    {
+      "icon": "thumb_up",
+      "title": "100% Satisfaction Guarantee",
+      "description": "We're not finished until our customers are satisfied. That's been our promise for over 30 years."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Waltham, MA",
+      "stars": 5,
+      "text": "Foti Electric rewired our entire 1920s colonial. Clean, professional, and the price was exactly what they quoted. Highly recommend."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Newton, MA",
+      "stars": 5,
+      "text": "They converted our entire office to LED lighting and the energy savings have been incredible. Fast work with zero disruption to our business."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Watertown, MA",
+      "stars": 5,
+      "text": "We use Foti for all our commercial properties. Reliable, licensed, and they always pass inspection on the first try."
+    }
+  ]
+}
