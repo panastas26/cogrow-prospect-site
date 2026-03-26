@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Downers Grove Electric Company",
+  "tagline": "Powering Downers Grove Since the 1950s",
+  "hero_subtitle": "Illinois-licensed electrical contractor serving Downers Grove and surrounding communities since the 1950s. Residential, commercial, and 24/7 emergency service.",
+  "phone": "630-296-5638",
+  "email": "",
+  "address": "Downers Grove, IL",
+  "city": "Downers Grove, IL",
+  "service_area": "DuPage County",
+  "service_area_description": "Serving Downers Grove, Westmont, Woodridge, Lisle, Darien, and DuPage County.",
+  "years_in_business": 70,
+  "jobs_completed": 20000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#dc2626",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Downers Grove Electric Company | Electricians in Downers Grove, IL",
+  "seo_description": "Downers Grove Electric Company in Downers Grove, IL. Illinois-licensed electricians since the 1950s. 24/7 emergency service. Call 630-296-5638.",
+  "about_heading": "Seven Decades of Electrical Excellence",
+  "services_subtitle": "Full-service electrical contractor with 24/7 emergency availability for residential and commercial clients.",
+  "reviews_heading": "Downers Grove Trusts Their Electricians",
+  "reviews_subtitle": "Generations of homeowners and businesses have relied on us for quality electrical work.",
+  "cta_heading": "70 years of experience, one call away.",
+  "cta_subtitle": "Get a free estimate. We bring decades of expertise to every project, big or small.",
+  "footer_description": "Illinois-licensed electrical contractor in Downers Grove since the 1950s. Residential, commercial, and 24/7 emergency service.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Residential Electrical",
+      "description": "Panel upgrades, rewiring, lighting, outlets, ceiling fans, smoke detectors, and whole-home electrical inspections.",
+      "icon": "home",
+      "image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Office, retail, and restaurant electrical services. Buildouts, renovations, code upgrades, and ongoing maintenance.",
+      "icon": "store"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "24/7 Emergency Service",
+      "description": "Electrical emergencies don't wait. Call us any time for fast, safe emergency repairs and troubleshooting.",
+      "icon": "warning",
+      "phone": "630-296-5638"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Electrical Upgrades",
+      "description": "Panel upgrades, circuit additions, whole-home rewiring, and code compliance updates for older homes.",
+      "icon": "electrical_services"
+    }
+  ],
+  "services_all": [
+    { "name": "Residential" },
+    { "name": "Commercial" },
+    { "name": "Emergency Service" },
+    { "name": "Panel Upgrades" },
+    { "name": "Rewiring" },
+    { "name": "Lighting" }
+  ],
+  "stats": [
+    { "value": "70+", "label": "Years in Business", "is_first": true },
+    { "value": "20K+", "label": "Jobs Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "IL Licensed Contractor",
+      "description": "Fully licensed Illinois electrical contractor. Every project meets state and local electrical codes."
+    },
+    {
+      "icon": "location_on",
+      "title": "Downers Grove Since the 1950s",
+      "description": "Deeply rooted in the community. We've served generations of Downers Grove families and businesses."
+    },
+    {
+      "icon": "schedule",
+      "title": "24/7 Availability",
+      "description": "Electrical emergencies happen at all hours. We're available around the clock for urgent service calls."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "My parents used Downers Grove Electric and now I do too. Professional, honest, and they stand behind their work."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Westmont, IL",
+      "stars": 5,
+      "text": "Called for an emergency on a Sunday and they came right out. Fixed the issue quickly and pricing was fair."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Woodridge, IL",
+      "stars": 5,
+      "text": "Reliable and consistent. They handle electrical work for all my rental properties and always pass inspection."
+    }
+  ]
+}
