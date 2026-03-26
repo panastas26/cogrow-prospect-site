@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "DuPage Commercial Cleaning",
+  "tagline": "Lombard's Go-To Commercial Cleaning Team",
+  "hero_subtitle": "Professional commercial cleaning and janitorial services for offices, retail, and facilities across DuPage County and the western suburbs.",
+  "phone": "630-620-5500",
+  "email": "",
+  "address": "Lombard, IL",
+  "city": "Lombard, IL",
+  "service_area": "DuPage County",
+  "service_area_description": "Serving Lombard, Elmhurst, Villa Park, Glen Ellyn, Wheaton, and DuPage County.",
+  "years_in_business": 15,
+  "jobs_completed": 4000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "DuPage Commercial Cleaning | Commercial Cleaning in Lombard, IL",
+  "seo_description": "DuPage Commercial Cleaning in Lombard, IL. Professional office and commercial janitorial services for DuPage County businesses. Call 630-620-5500.",
+  "about_heading": "DuPage County's Cleaning Professionals",
+  "services_subtitle": "Complete commercial cleaning solutions for offices, retail spaces, and facilities across the western suburbs.",
+  "reviews_heading": "DuPage County Businesses Trust Us",
+  "reviews_subtitle": "Offices, retail spaces, and commercial buildings rely on our consistent, professional cleaning.",
+  "cta_heading": "Cleaner facilities start here.",
+  "cta_subtitle": "Schedule a free walkthrough and custom quote. We'll match a cleaning plan to your building's needs.",
+  "footer_description": "Professional commercial cleaning and janitorial services for DuPage County businesses. Locally owned in Lombard, IL.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Office Cleaning",
+      "description": "Daily, weekly, or custom-scheduled office cleaning. Restrooms, break rooms, workstations, and common areas maintained to a high standard.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Janitorial",
+      "description": "Comprehensive janitorial programs for retail, medical, and commercial buildings. Dedicated crews and consistent results.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Floor Care & Maintenance",
+      "description": "Carpet cleaning, tile stripping, VCT waxing, and hardwood floor care. Protect your flooring investment.",
+      "icon": "layers",
+      "phone": "630-620-5500"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Deep Cleaning & Sanitization",
+      "description": "Thorough deep cleaning for offices, warehouses, and commercial spaces. Disinfection and sanitization protocols available.",
+      "icon": "health_and_safety"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Janitorial" },
+    { "name": "Floor Care" },
+    { "name": "Deep Cleaning" },
+    { "name": "Window Cleaning" },
+    { "name": "Sanitization" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Business", "is_first": true },
+    { "value": "4000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "DuPage County Based",
+      "description": "Locally owned and operated in Lombard. We know the western suburbs and serve them with pride."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Background-checked crews for your facility's security."
+    },
+    {
+      "icon": "schedule",
+      "title": "Flexible Scheduling",
+      "description": "Day, evening, and weekend cleaning available. We work around your business hours."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Office Manager",
+      "location": "Lombard, IL",
+      "stars": 5,
+      "text": "DuPage Commercial Cleaning has been reliable and thorough. Our office has never looked better and the pricing is fair."
+    },
+    {
+      "name": "Retail Store Owner",
+      "location": "Elmhurst, IL",
+      "stars": 5,
+      "text": "They clean our retail space every night and it's always ready for customers in the morning. Great team."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Glen Ellyn, IL",
+      "stars": 5,
+      "text": "Managing multiple buildings, I need a cleaning company I can count on. DuPage delivers every time."
+    }
+  ]
+}
