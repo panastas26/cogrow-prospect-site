@@ -1,0 +1,114 @@
+{
+  "template": "field-service",
+  "company_name": "Essex County Pest Control",
+  "tagline": "Pests Out. Peace In. Every Home in Essex County.",
+  "hero_subtitle": "Licensed, insured pest control serving all 22 municipalities of Essex County, NJ. 24/7 emergency service with same-day appointments available.",
+  "phone": "(781) 598-3100",
+  "email": "",
+  "address": "Lynn, MA",
+  "city": "Lynn, MA",
+  "service_area": "Essex County, NJ",
+  "service_area_description": "Serving all 22 municipalities including Newark, Montclair, West Orange, Bloomfield, Livingston, Millburn, Nutley, and Maplewood.",
+  "years_in_business": 9,
+  "jobs_completed": 6000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Essex County Pest Control | Pest Control in Lynn, MA",
+  "seo_description": "Essex County Pest Control in Lynn, MA. 24/7 emergency pest control with same-day appointments. Bed bugs, rodents, termites, and more. Call (781) 598-3100.",
+  "about_heading": "Essex County's 24/7 Pest Control Experts",
+  "services_subtitle": "From bed bugs to wildlife — comprehensive, licensed pest management for homes and businesses across Essex County.",
+  "reviews_heading": "5-Star Rated Across Essex County",
+  "reviews_subtitle": "Homeowners trust us for fast, professional pest control with lasting results.",
+  "cta_heading": "Pests don't wait. Neither should you.",
+  "cta_subtitle": "Get a free inspection and customized treatment plan — same-day appointments available.",
+  "footer_description": "Licensed and insured pest control serving all 22 municipalities of Essex County. 24/7 emergency service, free inspections, and proven treatments. Since 2017.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Bed Bug Extermination",
+      "description": "Fast, thorough bed bug elimination with professional follow-up. We treat your home completely and make sure they don't come back.",
+      "icon": "pest_control",
+      "image_url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Termite Treatment",
+      "description": "Advanced termite detection and elimination. Protect your property from costly structural damage with our proven treatment protocols.",
+      "icon": "bug_report"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Rodent Control",
+      "description": "Complete rodent removal — trapping, exclusion, and sanitation. We seal entry points and eliminate the problem at its source.",
+      "icon": "pest_control_rodent",
+      "phone": "(781) 598-3100"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Wildlife Removal",
+      "description": "Humane wildlife removal for squirrels, raccoons, and other animals. We relocate safely and seal your property to prevent re-entry.",
+      "icon": "forest"
+    }
+  ],
+  "services_all": [
+    {"name": "Bed Bug Extermination"},
+    {"name": "Rodent Control"},
+    {"name": "Cockroach Extermination"},
+    {"name": "Ant Control"},
+    {"name": "Termite Treatment"},
+    {"name": "Mosquito Control"},
+    {"name": "Wasp & Bee Removal"},
+    {"name": "Tick Control"},
+    {"name": "Flea Extermination"},
+    {"name": "Wildlife Removal"}
+  ],
+  "stats": [
+    {"value": "9+", "label": "Years in Business", "is_first": true},
+    {"value": "6K+", "label": "Homes Protected", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "schedule",
+      "title": "24/7 Emergency Service",
+      "description": "Pest emergencies happen at all hours. We offer round-the-clock service with same-day and next-day appointments."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & DEP Certified",
+      "description": "Licensed by the NJ Department of Environmental Protection. Every technician is trained, certified, and insured."
+    },
+    {
+      "icon": "search",
+      "title": "Free Inspections",
+      "description": "We'll assess your pest problem at no cost and provide an honest recommendation before any treatment begins."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Maria S.",
+      "location": "Montclair, NJ",
+      "stars": 5,
+      "text": "Resolved our rodent problem within days. The technician was thorough, professional, and explained every step."
+    },
+    {
+      "name": "James T.",
+      "location": "West Orange, NJ",
+      "stars": 5,
+      "text": "Called on Friday for bed bugs, treated Saturday morning. Treatment was thorough with professional follow-up."
+    },
+    {
+      "name": "Linda K.",
+      "location": "Newark, NJ",
+      "stars": 5,
+      "text": "Treated cockroach problem professionally across multiple units with immediate, lasting results."
+    }
+  ]
+}

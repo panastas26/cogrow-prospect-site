@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Fox River Pest Defense",
+  "tagline": "Elgin Homes Deserve Better Than Bugs",
+  "hero_subtitle": "Professional pest control for the Fox River Valley. We protect your home and business with proven treatments, honest pricing, and guaranteed results.",
+  "phone": "847-697-7200",
+  "email": "",
+  "address": "Elgin, IL",
+  "city": "Elgin, IL",
+  "service_area": "Fox River Valley",
+  "service_area_description": "Serving Elgin, St. Charles, Geneva, Batavia, Aurora, South Elgin, and communities throughout the Fox River Valley.",
+  "years_in_business": 20,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Fox River Pest Defense | Pest Control in Elgin, IL",
+  "seo_description": "Fox River Pest Defense in Elgin, IL. Professional residential and commercial pest control serving the Fox River Valley. Call 847-697-7200 for a free estimate.",
+  "about_heading": "Elgin's Trusted Pest Control Professionals",
+  "services_subtitle": "From termites to wildlife — complete pest management for homes and businesses across the Fox River Valley.",
+  "reviews_heading": "Fox Valley Families Trust Us",
+  "reviews_subtitle": "See why homeowners across Elgin and the Fox River Valley choose us year after year.",
+  "cta_heading": "One call. No more pests. That simple.",
+  "cta_subtitle": "Get a free estimate and customized treatment plan from Elgin's trusted pest control team.",
+  "footer_description": "Professional pest control serving Elgin and the Fox River Valley. Residential and commercial extermination, termite treatment, rodent control, and wildlife removal. Licensed and insured.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "General Pest Control",
+      "description": "Year-round protection from ants, roaches, spiders, and other common invaders. Quarterly plans that keep your home pest-free all season.",
+      "icon": "pest_control",
+      "image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Termite Treatment",
+      "description": "Advanced baiting and liquid barrier systems to detect and eliminate termites before they cause serious structural damage.",
+      "icon": "bug_report"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Rodent Control",
+      "description": "Complete mouse and rat elimination. We trap, remove, and permanently seal entry points so rodents can't return.",
+      "icon": "pest_control_rodent",
+      "phone": "847-697-7200"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Wildlife Removal",
+      "description": "Humane removal of raccoons, squirrels, opossums, and other nuisance wildlife. We relocate safely and prevent re-entry.",
+      "icon": "forest"
+    }
+  ],
+  "services_all": [
+    {"name": "Ant Control"},
+    {"name": "Roach Extermination"},
+    {"name": "Termite Treatment"},
+    {"name": "Rodent Control"},
+    {"name": "Bed Bug Treatment"},
+    {"name": "Mosquito & Tick Control"},
+    {"name": "Wasp & Bee Removal"},
+    {"name": "Wildlife Removal"}
+  ],
+  "stats": [
+    {"value": "20+", "label": "Years in Business", "is_first": true},
+    {"value": "8K+", "label": "Homes Protected", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "eco",
+      "title": "Eco-Friendly Methods",
+      "description": "We use integrated pest management and low-toxicity products that are effective on pests but safe for your family and the environment."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed by the State of Illinois. Every technician is trained, certified, and committed to professional service."
+    },
+    {
+      "icon": "thumb_up",
+      "title": "Satisfaction Guaranteed",
+      "description": "If pests return between treatments, so do we — at no additional cost. That's our promise to every customer."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jennifer L.",
+      "location": "Elgin, IL",
+      "stars": 5,
+      "text": "We had a severe ant problem every summer. After one treatment, they were gone. The quarterly plan keeps our home completely pest-free."
+    },
+    {
+      "name": "David K.",
+      "location": "St. Charles, IL",
+      "stars": 5,
+      "text": "Found termite damage in our basement. They treated the entire perimeter and set up monitoring. Professional, thorough, and fair pricing."
+    },
+    {
+      "name": "Karen W.",
+      "location": "Geneva, IL",
+      "stars": 5,
+      "text": "Raccoons in our attic — they removed them humanely, cleaned everything up, and sealed the entry points. Haven't had a problem since."
+    }
+  ]
+}

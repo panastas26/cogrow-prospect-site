@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Chicago Pests LLC",
+  "tagline": "Your Locally Owned Shield Against Unwanted Pests",
+  "hero_subtitle": "Park Forest's trusted pest control team. We protect Chicago Southland homes and businesses with proven, safe treatments that actually work.",
+  "phone": "844-720-2847",
+  "email": "",
+  "address": "Park Forest, IL",
+  "city": "Park Forest, IL",
+  "service_area": "Chicago Southland",
+  "service_area_description": "Serving Park Forest, Matteson, Olympia Fields, Richton Park, Homewood, Flossmoor, and communities across the Chicago Southland.",
+  "years_in_business": 10,
+  "jobs_completed": 4000,
+  "hero_image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Chicago Pests LLC | Pest Control in Park Forest, IL",
+  "seo_description": "Chicago Pests LLC in Park Forest, IL. Locally owned pest control serving the Chicago Southland. Residential and commercial extermination. Call 844-720-2847.",
+  "about_heading": "Park Forest's Locally Owned Pest Control Team",
+  "services_subtitle": "From roaches to rodents — comprehensive pest management for homes and businesses across the Chicago Southland.",
+  "reviews_heading": "Southland Families Count On Us",
+  "reviews_subtitle": "See why homeowners across Park Forest and the Chicago Southland trust us to keep their homes pest-free.",
+  "cta_heading": "Bugs don't take days off. Neither do we.",
+  "cta_subtitle": "Get a free inspection and customized treatment plan today.",
+  "footer_description": "Locally owned pest control serving Park Forest and the Chicago Southland. Residential and commercial extermination, rodent control, and preventive treatments. Licensed and insured.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "General Pest Control",
+      "description": "Complete elimination of ants, roaches, spiders, silverfish, and other common household invaders. One-time or recurring plans available.",
+      "icon": "pest_control",
+      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Bed Bug Extermination",
+      "description": "Advanced heat and chemical treatments to completely eliminate bed bugs. We inspect, treat, and follow up to ensure total eradication.",
+      "icon": "bug_report"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Rodent Control",
+      "description": "Rats and mice are more than a nuisance — they're a health risk. We trap, remove, and seal your property to stop them for good.",
+      "icon": "pest_control_rodent",
+      "phone": "844-720-2847"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Commercial Pest Management",
+      "description": "Restaurants, offices, and retail — we keep your business pest-free and compliant with health department standards.",
+      "icon": "business"
+    }
+  ],
+  "services_all": [
+    {"name": "Ant Control"},
+    {"name": "Roach Extermination"},
+    {"name": "Bed Bug Treatment"},
+    {"name": "Rodent Control"},
+    {"name": "Termite Treatment"},
+    {"name": "Mosquito Control"},
+    {"name": "Wasp & Bee Removal"},
+    {"name": "Commercial Pest Management"}
+  ],
+  "stats": [
+    {"value": "10+", "label": "Years in Business", "is_first": true},
+    {"value": "4K+", "label": "Homes Protected", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "eco",
+      "title": "Eco-Friendly Solutions",
+      "description": "We use low-toxicity, EPA-approved products that eliminate pests while keeping your family and pets safe."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed by the State of Illinois. Every technician is trained, certified, and committed to your satisfaction."
+    },
+    {
+      "icon": "groups",
+      "title": "Locally Owned & Operated",
+      "description": "We live and work in the Southland. When you call, you get a neighbor who cares — not a call center."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Angela W.",
+      "location": "Park Forest, IL",
+      "stars": 5,
+      "text": "Had roaches in our kitchen and they were gone within a week of treatment. The technician was thorough and explained everything. Highly recommend."
+    },
+    {
+      "name": "Marcus T.",
+      "location": "Matteson, IL",
+      "stars": 5,
+      "text": "Called about a mouse problem and they were out the next day. Sealed every entry point and set traps. Haven't seen one since. Great company."
+    },
+    {
+      "name": "Patricia H.",
+      "location": "Homewood, IL",
+      "stars": 5,
+      "text": "We use them for quarterly pest control and our home has been completely pest-free. Professional, on time, and very reasonably priced."
+    }
+  ]
+}

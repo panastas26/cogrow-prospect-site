@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Merrimack Valley Pest Defense",
+  "tagline": "Lowell's First Call for Pest-Free Living",
+  "hero_subtitle": "Trusted pest control serving the Merrimack Valley. We protect homes and businesses with proven treatments, fast response times, and results that last.",
+  "phone": "(978) 458-6100",
+  "email": "",
+  "address": "Lowell, MA",
+  "city": "Lowell, MA",
+  "service_area": "Merrimack Valley",
+  "service_area_description": "Serving Lowell, Lawrence, Chelmsford, Dracut, Tewksbury, Andover, Billerica, and communities throughout the Merrimack Valley.",
+  "years_in_business": 18,
+  "jobs_completed": 7000,
+  "hero_image_url": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Merrimack Valley Pest Defense | Pest Control in Lowell, MA",
+  "seo_description": "Merrimack Valley Pest Defense in Lowell, MA. Professional residential and commercial pest control serving the Merrimack Valley. Call (978) 458-6100.",
+  "about_heading": "Lowell's Trusted Pest Control Experts",
+  "services_subtitle": "From carpenter ants to raccoons — complete pest management for homes and businesses across the Merrimack Valley.",
+  "reviews_heading": "Merrimack Valley Homeowners Trust Us",
+  "reviews_subtitle": "See why families across Lowell and the Merrimack Valley choose us for reliable, effective pest control.",
+  "cta_heading": "Sleep tight. We handle the rest.",
+  "cta_subtitle": "Get a free inspection and customized treatment plan from the Merrimack Valley's trusted pest control team.",
+  "footer_description": "Professional pest control serving Lowell and the Merrimack Valley. Residential and commercial extermination, rodent control, termite treatment, and wildlife removal. Licensed and insured.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "General Pest Control",
+      "description": "Complete protection from ants, roaches, spiders, and seasonal invaders. Customized treatment plans that keep your home pest-free year-round.",
+      "icon": "pest_control",
+      "image_url": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Termite Treatment",
+      "description": "Protect your home from New England's most destructive pest. Advanced detection and treatment systems to stop termites before they spread.",
+      "icon": "bug_report"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Rodent Control",
+      "description": "Mice and rats are a serious problem in the Merrimack Valley. We eliminate them, seal your home, and prevent future infestations.",
+      "icon": "pest_control_rodent",
+      "phone": "(978) 458-6100"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Wildlife Removal",
+      "description": "Humane removal of squirrels, raccoons, skunks, and bats. We safely relocate wildlife and seal entry points to protect your home.",
+      "icon": "forest"
+    }
+  ],
+  "services_all": [
+    {"name": "Ant Control"},
+    {"name": "Roach Extermination"},
+    {"name": "Termite Treatment"},
+    {"name": "Rodent Control"},
+    {"name": "Bed Bug Treatment"},
+    {"name": "Mosquito & Tick Control"},
+    {"name": "Wasp & Bee Removal"},
+    {"name": "Wildlife Removal"}
+  ],
+  "stats": [
+    {"value": "18+", "label": "Years in Business", "is_first": true},
+    {"value": "7K+", "label": "Homes Protected", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "eco",
+      "title": "Eco-Friendly Treatments",
+      "description": "We use integrated pest management and EPA-approved products that are tough on pests but safe for your family and pets."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed by the Commonwealth of Massachusetts. Every technician is trained, certified, and background-checked."
+    },
+    {
+      "icon": "schedule",
+      "title": "Fast Response Times",
+      "description": "Most appointments within 24 hours. Pest emergencies get priority scheduling — call us and we'll be there."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Christine M.",
+      "location": "Lowell, MA",
+      "stars": 5,
+      "text": "Had carpenter ants destroying our deck. They identified the colony, treated it completely, and the problem was solved in days. Excellent work."
+    },
+    {
+      "name": "Brian D.",
+      "location": "Chelmsford, MA",
+      "stars": 5,
+      "text": "Mice kept getting into our garage every winter. They sealed every gap and set up traps. Three years running with zero mice. Couldn't be happier."
+    },
+    {
+      "name": "Sandra L.",
+      "location": "Dracut, MA",
+      "stars": 5,
+      "text": "Professional, punctual, and effective. We use their quarterly service and our home has been completely pest-free. Best decision we made."
+    }
+  ]
+}

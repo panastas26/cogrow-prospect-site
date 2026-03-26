@@ -1,0 +1,112 @@
+{
+  "template": "field-service",
+  "company_name": "Boston's Best Pest Control",
+  "tagline": "Saugus Homes, Pest-Free — Guaranteed",
+  "hero_subtitle": "Family-owned pest control serving the North Shore and Greater Boston. Fast response, proven treatments, and results you can count on.",
+  "phone": "(617) 319-8261",
+  "email": "",
+  "address": "Saugus, MA",
+  "city": "Saugus, MA",
+  "service_area": "Greater Boston & North Shore",
+  "service_area_description": "Serving Saugus, Lynn, Revere, Malden, Medford, Melrose, and communities across the North Shore.",
+  "years_in_business": 15,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&q=85",
+  "accent_color": "#16a34a",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Boston's Best Pest Control | Pest Control in Saugus, MA",
+  "seo_description": "Boston's Best Pest Control in Saugus, MA. Trusted residential and commercial pest control services across Greater Boston and the North Shore. Call (617) 319-8261.",
+  "about_heading": "Saugus's Trusted Pest Control Experts",
+  "services_subtitle": "From ants to wildlife — comprehensive pest management for homes and businesses across the North Shore.",
+  "reviews_heading": "North Shore Homeowners Trust Us",
+  "reviews_subtitle": "See why families across Saugus and Greater Boston choose us for reliable, effective pest control.",
+  "cta_heading": "Pests don't wait. Neither should you.",
+  "cta_subtitle": "Get a free inspection and customized treatment plan today.",
+  "footer_description": "Professional pest control serving Saugus and Greater Boston. Residential and commercial extermination, wildlife removal, and preventive treatments. Licensed and insured.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "General Pest Control",
+      "description": "Comprehensive treatment for ants, roaches, spiders, and other household pests. We eliminate the problem and prevent it from coming back.",
+      "icon": "pest_control",
+      "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Termite Treatment",
+      "description": "Protect your biggest investment. Advanced termite detection and elimination with ongoing monitoring to keep your home safe.",
+      "icon": "bug_report"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Rodent Control",
+      "description": "Mice and rats don't belong in your home. We seal entry points, trap, and remove rodents — then make sure they stay out.",
+      "icon": "pest_control_rodent",
+      "phone": "(617) 319-8261"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Wildlife Removal",
+      "description": "Humane removal of squirrels, raccoons, skunks, and other wildlife. We relocate animals safely and seal your property.",
+      "icon": "forest"
+    }
+  ],
+  "services_all": [
+    {"name": "Ant Control"},
+    {"name": "Roach Extermination"},
+    {"name": "Termite Treatment"},
+    {"name": "Rodent Control"},
+    {"name": "Bed Bug Treatment"},
+    {"name": "Mosquito Control"},
+    {"name": "Wasp & Bee Removal"},
+    {"name": "Wildlife Removal"}
+  ],
+  "stats": [
+    {"value": "15+", "label": "Years in Business", "is_first": true},
+    {"value": "5K+", "label": "Homes Protected", "is_second": true}
+  ],
+  "about_features": [
+    {
+      "icon": "eco",
+      "title": "Eco-Friendly Treatments",
+      "description": "We use environmentally responsible products that are tough on pests but safe for your family and pets."
+    },
+    {
+      "icon": "verified_user",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed by the Commonwealth of Massachusetts. Every technician is trained, certified, and background-checked."
+    },
+    {
+      "icon": "schedule",
+      "title": "Same-Day Service",
+      "description": "Pest emergencies can't wait. Call before noon and we'll be at your door the same day."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Saugus, MA",
+      "stars": 5,
+      "text": "Had a terrible ant problem every spring. They came out, treated inside and out, and we haven't seen a single ant since. Fantastic service."
+    },
+    {
+      "name": "Tom R.",
+      "location": "Revere, MA",
+      "stars": 5,
+      "text": "Found mice in our basement and they responded the next morning. Professional, thorough, and sealed up every entry point. Highly recommend."
+    },
+    {
+      "name": "Linda P.",
+      "location": "Malden, MA",
+      "stars": 5,
+      "text": "We've used them for years for quarterly treatments. Always on time, always friendly, and our home stays pest-free. Worth every penny."
+    }
+  ]
+}
