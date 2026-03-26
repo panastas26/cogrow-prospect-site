@@ -1,0 +1,130 @@
+{
+  "template": "field-service",
+  "company_name": "Norman E. Kenney & Co.",
+  "tagline": "Waltham's Commercial Electricians Since 1963",
+  "hero_subtitle": "Family-owned commercial electrical contractor serving 27+ Greater Boston communities since 1963. Honest, quality work at affordable prices with minimal business disruption.",
+  "phone": "781-894-7184",
+  "email": "nekelect@aol.com",
+  "address": "49 Cedar St., Waltham, MA 02453",
+  "city": "Waltham, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Waltham, Newton, Boston, Brookline, Cambridge & 27+ Greater Boston communities.",
+  "years_in_business": 60,
+  "jobs_completed": 15000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "https://nekcoinc.com/images/mobile/mobile-logo.png",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#1e3a5f",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Norman E. Kenney & Co. | Commercial Electricians in Waltham, MA",
+  "seo_description": "Norman E. Kenney & Co. in Waltham, MA. 60+ years of commercial electrical services. LED lighting, tenant improvements, design build, and facility upgrades.",
+  "about_heading": "60+ Years of Commercial Electrical Excellence",
+  "services_subtitle": "Specialized commercial electrical services \u2014 from LED retrofits to new construction \u2014 with minimal disruption to your business.",
+  "reviews_heading": "What Our Clients Say",
+  "reviews_subtitle": "Trusted by businesses across 27+ Greater Boston communities since 1963.",
+  "cta_heading": "Your business deserves an electrician that shows up.",
+  "cta_subtitle": "Get a free estimate. We'll minimize disruption and deliver honest, quality work at a fair price.",
+  "footer_description": "Family-owned commercial electrical contractor since 1963. LED lighting, tenant improvements, facility upgrades, and new construction across Greater Boston.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "LED Lighting & Retrofits",
+      "description": "Cut energy costs and improve visibility with expert LED conversions. Lighting analysis included to maximize your ROI.",
+      "icon": "lightbulb",
+      "image_url": "https://nekcoinc.com/images/banner/banner-2.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Tenant Improvements",
+      "description": "Get your space move-in ready. Electrical buildouts for offices, retail, and commercial spaces done on time and on budget.",
+      "icon": "construction"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Design Build",
+      "description": "From concept to completion \u2014 integrated electrical design and installation for new construction and major renovations.",
+      "icon": "architecture",
+      "phone": "781-894-7184"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Facility Upgrades & Maintenance",
+      "description": "Keep your building's electrical systems modern and code-compliant. Panel upgrades, parking lot lighting, and preventive maintenance.",
+      "icon": "apartment"
+    }
+  ],
+  "services_all": [
+    {
+      "name": "LED Lighting"
+    },
+    {
+      "name": "Tenant Improvements"
+    },
+    {
+      "name": "Design Build"
+    },
+    {
+      "name": "Facility Upgrades"
+    },
+    {
+      "name": "Parking Lot Lighting"
+    },
+    {
+      "name": "New Construction"
+    }
+  ],
+  "stats": [
+    {
+      "value": "60+",
+      "label": "Years in Business",
+      "is_first": true
+    },
+    {
+      "value": "27+",
+      "label": "Communities Served",
+      "is_second": true
+    }
+  ],
+  "about_features": [
+    {
+      "icon": "person",
+      "title": "Norm Kenney, Owner",
+      "description": "Owner-operated since 1963. Norm personally ensures every project meets his standards for quality, honesty, and fair pricing."
+    },
+    {
+      "icon": "family_restroom",
+      "title": "Family Business Values",
+      "description": "Locally owned, not a franchise. We deliver the personalized service and accountability that only a family business can."
+    },
+    {
+      "icon": "schedule",
+      "title": "Minimal Business Disruption",
+      "description": "We work around your schedule to keep your business running smoothly. Evenings and weekends available."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "James T.",
+      "location": "Waltham, MA",
+      "stars": 5,
+      "text": "Prompt service, good communications, and good follow up service. Kenney & Co. is our go-to commercial electrician."
+    },
+    {
+      "name": "George F.",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "Very professional and neat and clean. Very pleased with the final product. Would recommend to any business owner."
+    },
+    {
+      "name": "Office Manager",
+      "location": "Newton, MA",
+      "stars": 5,
+      "text": "They retrofitted our entire office to LED with zero downtime. The energy savings paid for the project in under a year."
+    }
+  ]
+}
