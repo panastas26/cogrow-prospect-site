@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Elmhurst Electrical Maintenance",
+  "tagline": "Elmhurst's Trusted Electrical Maintenance Pros",
+  "hero_subtitle": "Professional electrical maintenance and repair services for residential, commercial, and industrial clients across Elmhurst and the western suburbs.",
+  "phone": "630-834-7780",
+  "email": "",
+  "address": "Elmhurst, IL",
+  "city": "Elmhurst, IL",
+  "service_area": "Western Suburbs of Chicago",
+  "service_area_description": "Serving Elmhurst, Villa Park, Lombard, Addison, Oakbrook Terrace, and the western suburbs.",
+  "years_in_business": 20,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#dc2626",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Elmhurst Electrical Maintenance | Electricians in Elmhurst, IL",
+  "seo_description": "Elmhurst Electrical Maintenance in Elmhurst, IL. Professional electrical maintenance and repair for homes and businesses. Call 630-834-7780.",
+  "about_heading": "Elmhurst's Electrical Maintenance Experts",
+  "services_subtitle": "Complete electrical maintenance, repair, and installation for residential and commercial properties.",
+  "reviews_heading": "Western Suburbs Count on Elmhurst Electric",
+  "reviews_subtitle": "Homeowners and businesses across the western suburbs trust us for reliable electrical maintenance.",
+  "cta_heading": "Keep your electrical systems running right.",
+  "cta_subtitle": "Get a free estimate. Preventive maintenance, repairs, and upgrades from licensed electricians.",
+  "footer_description": "Professional electrical maintenance and repair services in Elmhurst and the western suburbs of Chicago.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Electrical Maintenance",
+      "description": "Preventive maintenance programs for residential and commercial properties. Keep your electrical systems safe and efficient.",
+      "icon": "build",
+      "image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Residential Electrical",
+      "description": "Panel upgrades, rewiring, lighting, outlets, and whole-home electrical inspections and repairs.",
+      "icon": "home"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Office, retail, and facility electrical services. Buildouts, maintenance contracts, and code compliance.",
+      "icon": "store",
+      "phone": "630-834-7780"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Emergency Repairs",
+      "description": "Fast response for electrical emergencies. Power outages, equipment failures, and safety hazards resolved quickly.",
+      "icon": "warning"
+    }
+  ],
+  "services_all": [
+    { "name": "Maintenance" },
+    { "name": "Residential" },
+    { "name": "Commercial" },
+    { "name": "Emergency Repairs" },
+    { "name": "Panel Upgrades" },
+    { "name": "Lighting" }
+  ],
+  "stats": [
+    { "value": "20+", "label": "Years Experience", "is_first": true },
+    { "value": "8000+", "label": "Jobs Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "IL Licensed Contractor",
+      "description": "Fully licensed Illinois electrical contractor. Every project meets state and local electrical codes."
+    },
+    {
+      "icon": "location_on",
+      "title": "Elmhurst Based",
+      "description": "Locally owned and operated in Elmhurst. We know the western suburbs and serve our neighbors."
+    },
+    {
+      "icon": "build",
+      "title": "Maintenance Focused",
+      "description": "Preventive maintenance saves money and prevents emergencies. We keep your systems running safely and efficiently."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Homeowner",
+      "location": "Elmhurst, IL",
+      "stars": 5,
+      "text": "Elmhurst Electrical Maintenance keeps our home's electrical in top shape. Professional, reliable, and fair pricing."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Villa Park, IL",
+      "stars": 5,
+      "text": "We have a maintenance contract with them for our office building. Issues are caught early and repairs are done right."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Lombard, IL",
+      "stars": 5,
+      "text": "Responsive and thorough. They manage electrical maintenance for all my rental properties. Highly recommend."
+    }
+  ]
+}
