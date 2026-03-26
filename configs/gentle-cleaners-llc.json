@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Gentle Cleaners LLC",
+  "tagline": "Eco-Friendly Commercial Cleaning Done Right",
+  "hero_subtitle": "Premier commercial cleaning company providing complete janitorial services and office cleaning to businesses throughout Greater Boston. Eco-friendly and personalized.",
+  "phone": "(781) 901-5590",
+  "email": "info@gentlecleanersllc.com",
+  "address": "Woburn, MA",
+  "city": "Woburn, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Woburn, Boston, Cambridge, Quincy, Somerville, and the Greater Boston area.",
+  "years_in_business": 10,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "https://gentlecleanersllc.com/_next/image?url=%2Fimages%2FGentleCleanersLLCLogo.png&w=128&q=75",
+  "about_image_1": "https://gentlecleanersllc.com/_next/image?url=%2Fprofessional-commercial-cleaning-team-in-boston-of.jpg&w=1920&q=85",
+  "about_image_2": "https://gentlecleanersllc.com/_next/image?url=%2Fimages%2Fclean-productive-office-workspace-boston.webp&w=1920&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Gentle Cleaners LLC | Commercial Cleaning in Woburn, MA",
+  "seo_description": "Gentle Cleaners LLC in Woburn, MA. Eco-friendly commercial cleaning and janitorial services for offices, tech companies, and businesses across Greater Boston.",
+  "about_heading": "Greater Boston's Eco-Friendly Cleaning Experts",
+  "services_subtitle": "Daily, weekly, and one-time commercial cleaning with eco-friendly products. Flexible scheduling for every business.",
+  "reviews_heading": "Trusted by Growing Boston Businesses",
+  "reviews_subtitle": "Tech startups, medical offices, retail spaces, and accounting firms rely on Gentle Cleaners.",
+  "cta_heading": "Professional cleaning, zero hassle.",
+  "cta_subtitle": "Book a free estimate. Flexible scheduling, eco-friendly products, and 100% satisfaction guaranteed.",
+  "footer_description": "Eco-friendly commercial cleaning and janitorial services for Greater Boston businesses. Mon-Fri 8:30 AM - 9:00 PM.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Daily Office Cleaning",
+      "description": "Professional daily, weekly, or monthly janitorial services for offices, startups, and tech companies throughout Greater Boston.",
+      "icon": "cleaning_services",
+      "image_url": "https://gentlecleanersllc.com/_next/image?url=%2Fimages%2Fservicesdaily-office-hero.png&w=1920&q=75"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Weekly Janitorial Services",
+      "description": "Regular scheduled janitorial services that fit your budget. Affordable, consistent cleaning for businesses of all sizes.",
+      "icon": "event_repeat"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "One-Time Deep Cleaning",
+      "description": "No contract required. Perfect for events, meetings, or catching up on cleaning. Same-week service available.",
+      "icon": "auto_awesome",
+      "phone": "(781) 901-5590"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Industry-Specific Cleaning",
+      "description": "Specialized cleaning for tech offices, healthcare, retail, real estate, and accounting firms. Tailored protocols for each industry.",
+      "icon": "category"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Janitorial" },
+    { "name": "Deep Cleaning" },
+    { "name": "Tech Offices" },
+    { "name": "Healthcare" },
+    { "name": "Retail" }
+  ],
+  "stats": [
+    { "value": "10+", "label": "Years Serving Boston", "is_first": true },
+    { "value": "5000+", "label": "Office Cleanings", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "eco",
+      "title": "Eco-Friendly Products",
+      "description": "Green cleaning solutions that are safe for your staff, visitors, and the environment. No harsh chemicals."
+    },
+    {
+      "icon": "thumb_up",
+      "title": "100% Satisfaction Guarantee",
+      "description": "If you're not satisfied with any cleaning, we'll come back and make it right — no questions asked."
+    },
+    {
+      "icon": "schedule",
+      "title": "Flexible Scheduling",
+      "description": "Daily, weekly, monthly, or one-time cleaning. Mon-Fri 8:30 AM - 9:00 PM. We work around your hours."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Tech Startup CEO",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "Gentle Cleaners keeps our Seaport office spotless. The eco-friendly products are important to our team and the quality is always top-notch."
+    },
+    {
+      "name": "Real Estate Office Manager",
+      "location": "Quincy, MA",
+      "stars": 5,
+      "text": "Quick, efficient, and reliable. They clean our office twice a week and it's always perfect for client showings."
+    },
+    {
+      "name": "Retail Manager",
+      "location": "Somerville, MA",
+      "stars": 5,
+      "text": "We needed a cleaning company that understood retail. Gentle Cleaners gets it — our store is always presentable for customers."
+    }
+  ]
+}
