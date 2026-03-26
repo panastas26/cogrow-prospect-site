@@ -1,0 +1,125 @@
+{
+  "template": "field-service",
+  "company_name": "Chicagoland Tree Preservation",
+  "tagline": "Preserving & Protecting Chicagoland's Urban Canopy",
+  "hero_subtitle": "Certified arborists specializing in tree preservation, removal, and plant health care across the western suburbs.",
+  "phone": "630-832-7700",
+  "email": "info@chicagolandtreepreservation.com",
+  "address": "Elmhurst, IL 60126",
+  "city": "Elmhurst, IL",
+  "service_area": "Chicagoland Western Suburbs",
+  "service_area_description": "Serving Elmhurst, Oak Park, Lombard, Downers Grove, Wheaton, Naperville & the western suburbs.",
+  "years_in_business": 20,
+  "jobs_completed": 8000,
+  "logo_url": "",
+  "hero_image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=90",
+  "about_image_2": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=90",
+  "accent_color": "#16a34a",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "seo_title": "Chicagoland Tree Preservation | Tree Care Experts in Elmhurst, IL",
+  "seo_description": "Chicagoland Tree Preservation — certified arborists offering tree preservation, removal, pruning, and plant health care in Elmhurst and the western suburbs.",
+  "about_heading": "Elmhurst's Tree Preservation Specialists",
+  "services_subtitle": "Science-driven tree care that keeps your landscape healthy and your property safe.",
+  "reviews_heading": "Rooted in Trust",
+  "reviews_subtitle": "Homeowners and municipalities across the western suburbs rely on our preservation-first approach.",
+  "cta_heading": "Don't wait until the next storm decides for you.",
+  "cta_subtitle": "Schedule a free arborist consultation and get a detailed care plan within 48 hours.",
+  "footer_description": "Certified arborists dedicated to preserving Chicagoland's urban tree canopy.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Tree Preservation",
+      "description": "Proactive care plans to protect mature trees from disease, construction damage, and environmental stress.",
+      "icon": "eco",
+      "image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80"
+    },
+    {
+      "name": "Tree Removal",
+      "description": "Safe, controlled removal when a tree can't be saved — minimizing impact to your landscape.",
+      "icon": "park",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Plant Health Care",
+      "description": "Targeted treatments for disease, insect infestations, and nutrient deficiencies.",
+      "icon": "local_florist"
+    },
+    {
+      "name": "Stump Grinding",
+      "description": "Complete stump removal to reclaim usable yard space and prevent regrowth.",
+      "icon": "landscape"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Emergency Storm Response",
+      "description": "Rapid response for storm-damaged trees threatening your home or property.",
+      "icon": "warning",
+      "phone": "630-832-7700"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Pruning & Canopy Management",
+      "description": "Structural pruning that promotes long-term health, clearance, and aesthetic form.",
+      "icon": "content_cut"
+    }
+  ],
+  "services_all": [
+    { "name": "Tree Preservation" },
+    { "name": "Tree Removal" },
+    { "name": "Pruning & Trimming" },
+    { "name": "Plant Health Care" },
+    { "name": "Stump Grinding" },
+    { "name": "Emergency Storm Response" },
+    { "name": "Canopy Management" },
+    { "name": "Arborist Consultations" }
+  ],
+  "stats": [
+    { "value": "20+", "label": "Years Experience", "is_first": true },
+    { "value": "8k+", "label": "Trees Preserved", "is_second": true },
+    { "value": "ISA", "label": "Certified Arborists" },
+    { "value": "100%", "label": "Fully Insured" }
+  ],
+  "about_features": [
+    {
+      "icon": "eco",
+      "title": "Preservation-First Philosophy",
+      "description": "We exhaust every option to save a tree before recommending removal — because mature trees are irreplaceable."
+    },
+    {
+      "icon": "verified",
+      "title": "ISA Certified Arborists",
+      "description": "Our team holds International Society of Arboriculture credentials and stays current on best practices."
+    },
+    {
+      "icon": "location_on",
+      "title": "Deep Suburban Roots",
+      "description": "Locally owned and operated in Elmhurst, serving the communities we live in."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Laura K.",
+      "location": "Elmhurst, IL",
+      "stars": 5,
+      "text": "They saved our 80-year-old elm that two other companies said had to come down. True preservation experts."
+    },
+    {
+      "name": "Tom H.",
+      "location": "Lombard, IL",
+      "stars": 5,
+      "text": "Professional from estimate to cleanup. Their plant health care program brought our maples back to life."
+    },
+    {
+      "name": "Rita P.",
+      "location": "Downers Grove, IL",
+      "stars": 5,
+      "text": "After a bad storm they were out the next morning. Removed a split oak safely and left our yard spotless."
+    }
+  ]
+}

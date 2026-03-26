@@ -1,0 +1,125 @@
+{
+  "template": "field-service",
+  "company_name": "Boston Tree Company",
+  "tagline": "30 Years of 5-Star Tree Care in Greater Boston",
+  "hero_subtitle": "Massachusetts Certified Arborists delivering precision tree care with 120-foot cranes and decades of expertise.",
+  "phone": "(617) 327-3600",
+  "email": "info@bostontree.com",
+  "address": "Needham, MA 02492",
+  "city": "Needham, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Needham, Newton, Brookline, Wellesley, Weston, Westwood, Dedham, Milton & Greater Boston.",
+  "years_in_business": 30,
+  "jobs_completed": 12000,
+  "logo_url": "https://bostontree.com/wp-content/uploads/2023/05/boston-tree-logo.png",
+  "hero_image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=90",
+  "about_image_2": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=90",
+  "accent_color": "#16a34a",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "seo_title": "Boston Tree Company | Certified Arborists in Needham, MA",
+  "seo_description": "Boston Tree Company — 30+ years of expert tree removal, pruning, crane services, and emergency tree care in Greater Boston. Fully licensed and insured.",
+  "about_heading": "Needham's Trusted Arborists Since 1993",
+  "services_subtitle": "Full-spectrum tree care backed by certified arborists and heavy-duty equipment.",
+  "reviews_heading": "What Our Neighbors Say",
+  "reviews_subtitle": "Trusted by homeowners and property managers across Greater Boston for over three decades.",
+  "cta_heading": "That tree isn't going to handle itself.",
+  "cta_subtitle": "Get a transparent, no-obligation quote from a certified arborist within 24 hours.",
+  "footer_description": "Massachusetts Certified Arborists proudly serving Greater Boston since 1993.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Tree Removal",
+      "description": "Safe, efficient removal of hazardous, dead, or unwanted trees — including tight-access jobs using our 120-ft crane.",
+      "icon": "park",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+    },
+    {
+      "name": "Tree Trimming & Pruning",
+      "description": "Structural pruning and canopy shaping to promote health, safety, and curb appeal.",
+      "icon": "content_cut",
+      "image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Crane Tree Services",
+      "description": "120-foot boom crane for large-scale removals and hard-to-reach trees — no yard damage.",
+      "icon": "construction"
+    },
+    {
+      "name": "Tree Health Inspections",
+      "description": "Comprehensive health assessments by certified arborists to catch disease early.",
+      "icon": "health_and_safety"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "24/7 Emergency Service",
+      "description": "Rapid storm damage response — call us anytime for emergency tree removal.",
+      "icon": "warning",
+      "phone": "(617) 327-3600"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Professional Consultations",
+      "description": "Expert arborist advice on tree preservation, risk assessment, and landscape planning.",
+      "icon": "assignment"
+    }
+  ],
+  "services_all": [
+    { "name": "Tree Removal" },
+    { "name": "Tree Trimming" },
+    { "name": "Tree Pruning" },
+    { "name": "Crane Tree Services" },
+    { "name": "Tree Health Inspections" },
+    { "name": "Professional Consultations" },
+    { "name": "Emergency Service" },
+    { "name": "Stump Grinding" }
+  ],
+  "stats": [
+    { "value": "30+", "label": "Years Experience", "is_first": true },
+    { "value": "12k+", "label": "Trees Serviced", "is_second": true },
+    { "value": "120ft", "label": "Crane Reach" },
+    { "value": "100%", "label": "Licensed & Insured" }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "MA Certified Arborists",
+      "description": "Every job is supervised by a Massachusetts Certified Arborist with decades of field experience."
+    },
+    {
+      "icon": "construction",
+      "title": "Heavy-Duty Equipment",
+      "description": "120-foot cranes, 65-foot bucket trucks, and commercial chippers — all in-house, never subcontracted."
+    },
+    {
+      "icon": "shield",
+      "title": "Safety-First Culture",
+      "description": "Fully licensed and insured with a 30-year safety record. Member of the Massachusetts Arborist Association."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Karen T.",
+      "location": "Newton, MA",
+      "stars": 5,
+      "text": "They brought a crane and removed a massive oak over our house without a scratch on anything. Incredible skill."
+    },
+    {
+      "name": "Michael D.",
+      "location": "Needham, MA",
+      "stars": 5,
+      "text": "Boston Tree has maintained our property for 15 years. Always professional, always on time, always excellent."
+    },
+    {
+      "name": "Jennifer S.",
+      "location": "Brookline, MA",
+      "stars": 5,
+      "text": "Storm knocked a tree onto our driveway at midnight. They were there by 7 AM and had it cleared by noon."
+    }
+  ]
+}

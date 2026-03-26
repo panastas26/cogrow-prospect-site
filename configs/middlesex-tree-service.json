@@ -1,0 +1,125 @@
+{
+  "template": "field-service",
+  "company_name": "Middlesex Tree Service",
+  "tagline": "Trusted Tree Experts Serving the Merrimack Valley",
+  "hero_subtitle": "Professional tree removal, pruning, and land clearing for residential and commercial properties across Middlesex County.",
+  "phone": "(978) 663-3322",
+  "email": "info@middlesextreeservice.com",
+  "address": "Billerica, MA 01821",
+  "city": "Billerica, MA",
+  "service_area": "Middlesex County & the Merrimack Valley",
+  "service_area_description": "Serving Billerica, Burlington, Chelmsford, Lowell, Wilmington, Tewksbury & surrounding towns.",
+  "years_in_business": 25,
+  "jobs_completed": 9000,
+  "logo_url": "",
+  "hero_image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=90",
+  "about_image_1": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=90",
+  "about_image_2": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=90",
+  "accent_color": "#16a34a",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "seo_title": "Middlesex Tree Service | Professional Tree Care in Billerica, MA",
+  "seo_description": "Middlesex Tree Service — expert tree removal, pruning, stump grinding, and land clearing in Billerica and the Merrimack Valley. Fully insured.",
+  "about_heading": "Billerica's Go-To Tree Crew",
+  "services_subtitle": "From a single branch to an entire lot — we handle every job with the same precision.",
+  "reviews_heading": "Straight From the Yard",
+  "reviews_subtitle": "Property owners across Middlesex County trust us to get the job done right.",
+  "cta_heading": "Your trees deserve better than guesswork.",
+  "cta_subtitle": "Get a free, detailed estimate from our experienced crew — usually within 24 hours.",
+  "footer_description": "Professional tree care proudly serving Billerica and the Merrimack Valley.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Tree Removal",
+      "description": "Complete tree removal for dead, damaged, or hazardous trees — residential and commercial.",
+      "icon": "park",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+    },
+    {
+      "name": "Land Clearing",
+      "description": "Efficient lot clearing for construction, development, or property restoration projects.",
+      "icon": "terrain",
+      "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Stump Grinding",
+      "description": "Below-grade stump grinding to eliminate tripping hazards and free up usable space.",
+      "icon": "landscape"
+    },
+    {
+      "name": "Pruning & Trimming",
+      "description": "Corrective and maintenance pruning to improve tree health, structure, and appearance.",
+      "icon": "content_cut"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Emergency Tree Removal",
+      "description": "Rapid response for storm damage and fallen trees threatening your home or roadway.",
+      "icon": "warning",
+      "phone": "(978) 663-3322"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Bucket Truck Services",
+      "description": "High-reach bucket trucks for safe access to tall trees and overhead limbs.",
+      "icon": "construction"
+    }
+  ],
+  "services_all": [
+    { "name": "Tree Removal" },
+    { "name": "Land Clearing" },
+    { "name": "Stump Grinding" },
+    { "name": "Pruning & Trimming" },
+    { "name": "Emergency Tree Removal" },
+    { "name": "Bucket Truck Services" },
+    { "name": "Brush Chipping" },
+    { "name": "Firewood Sales" }
+  ],
+  "stats": [
+    { "value": "25+", "label": "Years Experience", "is_first": true },
+    { "value": "9k+", "label": "Jobs Completed", "is_second": true },
+    { "value": "24/7", "label": "Emergency Response" },
+    { "value": "100%", "label": "Fully Insured" }
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "Locally Owned & Operated",
+      "description": "Based in Billerica and deeply rooted in the Middlesex County community we serve."
+    },
+    {
+      "icon": "shield",
+      "title": "Fully Licensed & Insured",
+      "description": "Complete liability coverage and workers' comp — protecting your property and our crew."
+    },
+    {
+      "icon": "recycling",
+      "title": "Clean Site Guaranteed",
+      "description": "Every job ends with a thorough cleanup. We haul debris and leave your property better than we found it."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Steve M.",
+      "location": "Billerica, MA",
+      "stars": 5,
+      "text": "Took down three massive pines next to our garage. Not a scratch on anything. These guys know what they're doing."
+    },
+    {
+      "name": "Diane C.",
+      "location": "Burlington, MA",
+      "stars": 5,
+      "text": "Fair price, showed up on time, cleaned up everything. Exactly what you want from a tree service."
+    },
+    {
+      "name": "Paul R.",
+      "location": "Chelmsford, MA",
+      "stars": 5,
+      "text": "We used them for land clearing before our addition. Fast, efficient, and the lot looked perfect when they finished."
+    }
+  ]
+}
