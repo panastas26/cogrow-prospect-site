@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Breezie Cleaning and Janitorial Services",
+  "tagline": "Boston's MBE-Certified Cleaning Professionals",
+  "hero_subtitle": "BBB A+ rated commercial cleaning company serving Greater Boston since 2014. Office cleaning, janitorial, carpet care, and building maintenance.",
+  "phone": "(617) 397-7241",
+  "email": "",
+  "address": "Quincy, MA",
+  "city": "Quincy, MA",
+  "service_area": "Greater Boston",
+  "service_area_description": "Serving Quincy, Boston, Braintree, Weymouth, and the Greater Boston area.",
+  "years_in_business": 12,
+  "jobs_completed": 5000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "https://breezie-cleaning.com/userfiles/5396/Breezie-Cleaning-and-Janitorial-Services-logo_300.jpg",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Breezie Cleaning & Janitorial | Commercial Cleaning in Quincy, MA",
+  "seo_description": "Breezie Cleaning and Janitorial Services in Quincy, MA. BBB A+ rated, MBE-certified commercial cleaning since 2014. Call (617) 397-7241 for a free quote.",
+  "about_heading": "Quincy's BBB A+ Cleaning Company",
+  "services_subtitle": "Office cleaning, janitorial services, carpet care, and building maintenance — customized for your facility.",
+  "reviews_heading": "A+ Rated for a Reason",
+  "reviews_subtitle": "BBB accredited and MBE certified. Greater Boston businesses trust Breezie for consistent results.",
+  "cta_heading": "Get 25% off your first 3 months.",
+  "cta_subtitle": "Schedule a free estimate today. No long-term contracts required — just great cleaning.",
+  "footer_description": "BBB A+ rated, MBE-certified commercial cleaning company in Quincy, MA. Office cleaning, janitorial, and facility maintenance since 2014.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Office Cleaning",
+      "description": "Professional office cleaning tailored to your schedule. Desks, restrooms, break rooms, and common areas done right.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Janitorial Services",
+      "description": "Full-service janitorial programs with dedicated crews. Consistent quality every visit, guaranteed.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Carpet & Floor Cleaning",
+      "description": "Deep carpet extraction, floor stripping, waxing, and polishing. Extend the life of your flooring investment.",
+      "icon": "layers",
+      "phone": "(617) 397-7241"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Construction Cleanup",
+      "description": "Post-construction deep cleaning for new builds and renovations. Get your space move-in ready fast.",
+      "icon": "construction"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Janitorial" },
+    { "name": "Carpet Cleaning" },
+    { "name": "Floor Care" },
+    { "name": "Window Cleaning" },
+    { "name": "Construction Cleanup" }
+  ],
+  "stats": [
+    { "value": "12", "label": "Years in Business", "is_first": true },
+    { "value": "A+", "label": "BBB Rating", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "workspace_premium",
+      "title": "BBB A+ Rated",
+      "description": "Accredited by the Better Business Bureau with an A+ rating. Ethical, transparent, and accountable."
+    },
+    {
+      "icon": "verified",
+      "title": "MBE Certified",
+      "description": "Minority Business Enterprise certified. Supporting diversity in the commercial cleaning industry."
+    },
+    {
+      "icon": "eco",
+      "title": "Green Cleaning",
+      "description": "Eco-friendly products and sustainable cleaning practices. Safe for your staff and the environment."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Americo M.",
+      "location": "Quincy, MA",
+      "stars": 5,
+      "text": "Breezie has been cleaning our office for over a year. Always professional, always thorough. The BBB rating is well deserved."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "We manage multiple commercial buildings and Breezie handles them all. Consistent quality and great communication."
+    },
+    {
+      "name": "Business Owner",
+      "location": "Braintree, MA",
+      "stars": 5,
+      "text": "The MBE certification was important to us, but the quality of their work is why we stay. Highly recommend."
+    }
+  ]
+}
