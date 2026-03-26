@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "CJ Power, Inc.",
+  "tagline": "Fox Valley's Preferred Electricians Since 1992",
+  "hero_subtitle": "Full-service commercial and industrial electrical contractor serving the Fox Valley area. Emergency repairs, new construction, and energy audits.",
+  "phone": "(630) 552-9700",
+  "email": "",
+  "address": "Sandwich, IL 60548",
+  "city": "Elmhurst, IL",
+  "service_area": "Fox Valley & Western Suburbs",
+  "service_area_description": "Serving Elmhurst, Sandwich, Plano, Yorkville, Oswego, and the Fox Valley region.",
+  "years_in_business": 34,
+  "jobs_completed": 8000,
+  "hero_image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1200&q=90",
+  "logo_url": "https://du9m0k402rjmo.cloudfront.net/images/P_1305/cb729f40-a8b6-41d9-b66d-561a333eda89.jpg",
+  "about_image_1": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=85",
+  "accent_color": "#dc2626",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "CJ Power, Inc. | Electricians in Elmhurst, IL",
+  "seo_description": "CJ Power, Inc. serving Elmhurst and the Fox Valley area since 1992. Commercial, industrial, and residential electrical services. Call (630) 552-9700.",
+  "about_heading": "Powering the Fox Valley Since 1992",
+  "services_subtitle": "Commercial, industrial, and residential electrical services with 24/7 emergency response.",
+  "reviews_heading": "Fox Valley's Go-To Electricians",
+  "reviews_subtitle": "Businesses and homeowners across the Fox Valley trust CJ Power for reliable, quality electrical work.",
+  "cta_heading": "Need an electrician you can count on?",
+  "cta_subtitle": "Get a free estimate. We handle everything from emergency repairs to full commercial installations.",
+  "footer_description": "Full-service electrical contractor serving the Fox Valley area since 1992. Commercial, industrial, and residential services.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Commercial Electrical",
+      "description": "Complete commercial electrical services for restaurants, retail, offices, and industrial facilities. New construction and retrofits.",
+      "icon": "store",
+      "image_url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Industrial Electrical",
+      "description": "Industrial power distribution, machinery wiring, motor controls, and facility electrical maintenance.",
+      "icon": "factory"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Emergency Repairs",
+      "description": "24/7 emergency electrical service. Power outages, equipment failures, and urgent repairs handled fast.",
+      "icon": "warning",
+      "phone": "(630) 552-9700"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "New Construction & Additions",
+      "description": "Complete electrical systems for new homes, commercial builds, and additions. Design, install, and inspect.",
+      "icon": "construction"
+    }
+  ],
+  "services_all": [
+    { "name": "Commercial" },
+    { "name": "Industrial" },
+    { "name": "Residential" },
+    { "name": "Emergency Repairs" },
+    { "name": "Energy Audits" },
+    { "name": "New Construction" }
+  ],
+  "stats": [
+    { "value": "34", "label": "Years Experience", "is_first": true },
+    { "value": "8000+", "label": "Jobs Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "verified",
+      "title": "Licensed & Insured",
+      "description": "Fully licensed Illinois electrical contractor. Every project meets or exceeds local and state electrical codes."
+    },
+    {
+      "icon": "location_on",
+      "title": "Fox Valley Roots",
+      "description": "Locally owned since 1992. We know the Fox Valley's buildings, codes, and electrical infrastructure."
+    },
+    {
+      "icon": "schedule",
+      "title": "24/7 Emergency Service",
+      "description": "Electrical emergencies don't wait for business hours. Neither do we. Call anytime for fast response."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Restaurant Owner",
+      "location": "Elmhurst, IL",
+      "stars": 5,
+      "text": "CJ Power handled all the electrical for our restaurant buildout. Professional, on schedule, and passed inspection with flying colors."
+    },
+    {
+      "name": "Homeowner",
+      "location": "Sandwich, IL",
+      "stars": 5,
+      "text": "Called for an emergency repair and they were at our house within the hour. Fixed the issue quickly and explained everything clearly."
+    },
+    {
+      "name": "Facility Manager",
+      "location": "Plano, IL",
+      "stars": 5,
+      "text": "We've used CJ Power for industrial electrical maintenance for years. Reliable, knowledgeable, and always on time."
+    }
+  ]
+}
