@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "Bay State Office Cleaning",
+  "tagline": "Quincy's Reliable Commercial Cleaning Experts",
+  "hero_subtitle": "Professional office and commercial cleaning services for businesses across the South Shore. Dependable, thorough, and locally owned.",
+  "phone": "(617) 479-5550",
+  "email": "",
+  "address": "Quincy, MA",
+  "city": "Quincy, MA",
+  "service_area": "South Shore",
+  "service_area_description": "Serving Quincy, Braintree, Weymouth, Milton, and the South Shore.",
+  "years_in_business": 15,
+  "jobs_completed": 3000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Bay State Office Cleaning | Commercial Cleaning in Quincy, MA",
+  "seo_description": "Bay State Office Cleaning in Quincy, MA. Professional office and commercial cleaning services for the South Shore. Call (617) 479-5550 for a free estimate.",
+  "about_heading": "Quincy's Trusted Cleaning Partner",
+  "services_subtitle": "Complete commercial cleaning solutions tailored to your building's needs and schedule.",
+  "reviews_heading": "South Shore Businesses Trust Bay State",
+  "reviews_subtitle": "Consistent, reliable cleaning that keeps your workspace spotless and professional.",
+  "cta_heading": "A cleaner office starts with one call.",
+  "cta_subtitle": "Get a free walkthrough and custom cleaning quote. No contracts required.",
+  "footer_description": "Professional office and commercial cleaning services in Quincy and the South Shore. Locally owned and operated.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Office Cleaning",
+      "description": "Daily, weekly, or monthly office cleaning tailored to your schedule. Desks, floors, restrooms, and common areas kept spotless.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Commercial Janitorial",
+      "description": "Full-service janitorial programs for offices, medical facilities, and retail spaces. Customized cleaning plans.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Floor Care",
+      "description": "Carpet cleaning, tile stripping, waxing, and floor maintenance to keep your facility looking its best.",
+      "icon": "layers",
+      "phone": "(617) 479-5550"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Move-In/Move-Out Cleaning",
+      "description": "Deep cleaning for office relocations, lease turnovers, and construction cleanup. Ready for occupancy fast.",
+      "icon": "moving"
+    }
+  ],
+  "services_all": [
+    { "name": "Office Cleaning" },
+    { "name": "Janitorial" },
+    { "name": "Floor Care" },
+    { "name": "Restroom Sanitation" },
+    { "name": "Window Cleaning" },
+    { "name": "Move-In/Out" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Business", "is_first": true },
+    { "value": "3000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "schedule",
+      "title": "Flexible Scheduling",
+      "description": "Day, evening, and weekend cleaning available. We work around your business hours, not the other way around."
+    },
+    {
+      "icon": "location_on",
+      "title": "Locally Owned",
+      "description": "Based in Quincy and serving the South Shore. We know your neighborhood and your building's needs."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Your facility is in safe, professional hands."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Office Manager",
+      "location": "Quincy, MA",
+      "stars": 5,
+      "text": "Bay State has been cleaning our office for years. Always on time, always thorough. Our staff constantly comments on how clean everything is."
+    },
+    {
+      "name": "Property Manager",
+      "location": "Braintree, MA",
+      "stars": 5,
+      "text": "They handle all five of our commercial properties. Responsive, professional, and the quality never slips."
+    },
+    {
+      "name": "Medical Office Director",
+      "location": "Weymouth, MA",
+      "stars": 5,
+      "text": "We need a higher standard of clean for our medical practice. Bay State delivers every single time."
+    }
+  ]
+}
