@@ -1,0 +1,110 @@
+{
+  "template": "field-service",
+  "company_name": "La Grange Commercial Janitorial",
+  "tagline": "La Grange's Dependable Janitorial Crew",
+  "hero_subtitle": "Professional commercial janitorial and office cleaning services for businesses across La Grange, Western Springs, and the western suburbs of Chicago.",
+  "phone": "708-352-5505",
+  "email": "",
+  "address": "La Grange, IL",
+  "city": "La Grange, IL",
+  "service_area": "Western Suburbs of Chicago",
+  "service_area_description": "Serving La Grange, Western Springs, Brookfield, Hinsdale, and the western suburbs.",
+  "years_in_business": 15,
+  "jobs_completed": 3000,
+  "hero_image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=1200&q=90",
+  "logo_url": "",
+  "about_image_1": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=800&q=85",
+  "about_image_2": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=800&q=85",
+  "accent_color": "#0d9488",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "La Grange Commercial Janitorial | Janitorial Services in La Grange, IL",
+  "seo_description": "La Grange Commercial Janitorial in La Grange, IL. Professional office cleaning and janitorial services for the western suburbs of Chicago. Call 708-352-5505.",
+  "about_heading": "La Grange's Local Janitorial Experts",
+  "services_subtitle": "Complete janitorial and commercial cleaning programs for offices, retail, and commercial buildings.",
+  "reviews_heading": "Western Suburbs Depend on Us",
+  "reviews_subtitle": "Consistent, reliable janitorial services that keep your facility looking its best.",
+  "cta_heading": "A cleaner building is one call away.",
+  "cta_subtitle": "Get a free walkthrough and custom cleaning plan. No long-term contracts required.",
+  "footer_description": "Professional commercial janitorial services in La Grange and the western suburbs of Chicago.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Commercial Janitorial",
+      "description": "Full-service janitorial programs for offices and commercial buildings. Dedicated crews, consistent quality, every visit.",
+      "icon": "cleaning_services",
+      "image_url": "https://images.unsplash.com/photo-1581578731548-c64695c952952?w=800&q=85"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Office Cleaning",
+      "description": "Professional office cleaning tailored to your schedule. Desks, restrooms, kitchens, and common areas maintained daily or weekly.",
+      "icon": "business"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Floor Care",
+      "description": "Carpet cleaning, tile stripping, waxing, and floor maintenance. Professional results that extend the life of your floors.",
+      "icon": "layers",
+      "phone": "708-352-5505"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Post-Construction Cleanup",
+      "description": "Thorough cleanup for new construction, renovations, and tenant improvements. Get your space ready for business.",
+      "icon": "construction"
+    }
+  ],
+  "services_all": [
+    { "name": "Janitorial" },
+    { "name": "Office Cleaning" },
+    { "name": "Floor Care" },
+    { "name": "Window Cleaning" },
+    { "name": "Deep Cleaning" },
+    { "name": "Post-Construction" }
+  ],
+  "stats": [
+    { "value": "15+", "label": "Years in Business", "is_first": true },
+    { "value": "3000+", "label": "Cleanings Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "location_on",
+      "title": "La Grange Based",
+      "description": "Locally owned and operated. We know the western suburbs and serve our neighbors with pride."
+    },
+    {
+      "icon": "verified",
+      "title": "Fully Insured",
+      "description": "Licensed, bonded, and insured. Background-checked crews for your building's security."
+    },
+    {
+      "icon": "schedule",
+      "title": "Flexible Hours",
+      "description": "Day, evening, and weekend cleaning available. We work around your business schedule."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Office Manager",
+      "location": "La Grange, IL",
+      "stars": 5,
+      "text": "Dependable and thorough. Our office is always spotless when we arrive in the morning. Great local company."
+    },
+    {
+      "name": "Retail Store Owner",
+      "location": "Western Springs, IL",
+      "stars": 5,
+      "text": "They clean our store every evening and it's always ready for customers. Professional and fairly priced."
+    },
+    {
+      "name": "Building Manager",
+      "location": "Brookfield, IL",
+      "stars": 5,
+      "text": "We manage several commercial properties and La Grange Janitorial handles them all. Consistent and reliable."
+    }
+  ]
+}
