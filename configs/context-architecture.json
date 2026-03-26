@@ -1,0 +1,110 @@
+{
+  "template": "professional-service",
+  "company_name": "Context Architecture",
+  "tagline": "Award-Winning Design Rooted in Community",
+  "hero_subtitle": "50-year-old Boston architecture firm specializing in public safety, religious, multifamily housing, and municipal projects across New England.",
+  "phone": "(617) 423-1400",
+  "email": "marketing@contextarc.com",
+  "address": "65 Franklin Street, Boston, MA 02110",
+  "city": "Boston, MA",
+  "service_area": "New England",
+  "service_area_description": "Serving Boston, Cambridge, and communities throughout Massachusetts and New England.",
+  "years_in_business": 50,
+  "jobs_completed": 1000,
+  "hero_image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=90",
+  "logo_url": "https://images.squarespace-cdn.com/content/v1/551da919e4b0adef9655e2da/a45139db-35db-4f07-b6b3-c89870093037/Context+Logo+Outline+Filled+Test.png",
+  "about_image_1": "https://images.squarespace-cdn.com/content/v1/551da919e4b0adef9655e2da/93ca2bab-a1c5-4709-b0fd-742cee45b130/About+Section_Metrics+%26+Projects2.jpg",
+  "about_image_2": "https://images.squarespace-cdn.com/content/v1/551da919e4b0adef9655e2da/bdcd6d9d-e8e4-4be6-900f-4dcd6c7a84db/About+Section_Metrics+%26+Projects.jpg",
+  "accent_color": "#475569",
+  "cal_booking_url": "https://cal.com/cogrowai/freeaudit",
+  "cal_booking_slug": "cogrowai/freeaudit",
+  "seo_title": "Context Architecture | Architecture Firm in Boston, MA",
+  "seo_description": "Context Architecture in Boston, MA. 50 years of award-winning design for public safety, religious, multifamily housing, and municipal projects across New England.",
+  "about_heading": "Five Decades of Purposeful Design",
+  "services_subtitle": "Diverse architectural practice rooted in active listening, sustainable design, and creative problem-solving.",
+  "reviews_heading": "Trusted Across New England",
+  "reviews_subtitle": "Municipalities, faith communities, and housing authorities choose Context for projects that matter.",
+  "cta_heading": "Your project deserves award-winning design.",
+  "cta_subtitle": "Schedule a consultation. 50 years of experience in projects that serve communities and stand the test of time.",
+  "footer_description": "Award-winning Boston architecture firm. 50 years of public safety, religious, housing, and municipal design across New England.",
+  "year": "2026",
+  "services_featured": [
+    {
+      "name": "Public Safety Facilities",
+      "description": "Police stations, fire stations, and emergency services buildings designed for operational excellence, durability, and community integration.",
+      "icon": "local_police",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/551da919e4b0adef9655e2da/86cabc71-b0c0-474d-b378-5884b33ca4d5/About_Metric+01.jpg"
+    }
+  ],
+  "services_secondary": [
+    {
+      "name": "Religious & Worship Spaces",
+      "description": "Sacred spaces that honor tradition while meeting modern accessibility, sustainability, and community gathering needs.",
+      "icon": "church"
+    }
+  ],
+  "services_accent": [
+    {
+      "name": "Multifamily Housing",
+      "description": "Residential communities designed for livability, sustainability, and long-term value. LEED-accredited team.",
+      "icon": "apartment",
+      "phone": "(617) 423-1400"
+    }
+  ],
+  "services_wide": [
+    {
+      "name": "Municipal & Civic",
+      "description": "Libraries, town halls, community centers, and public buildings that serve residents and reflect civic pride.",
+      "icon": "account_balance"
+    }
+  ],
+  "services_all": [
+    { "name": "Public Safety" },
+    { "name": "Religious" },
+    { "name": "Multifamily Housing" },
+    { "name": "Municipal" },
+    { "name": "Civic" },
+    { "name": "Sustainable Design" }
+  ],
+  "stats": [
+    { "value": "50", "label": "Years in Practice", "is_first": true },
+    { "value": "1000+", "label": "Projects Completed", "is_second": true }
+  ],
+  "about_features": [
+    {
+      "icon": "hearing",
+      "title": "Active Listening",
+      "description": "Every project starts with understanding your vision. We listen first, then design solutions that exceed expectations."
+    },
+    {
+      "icon": "eco",
+      "title": "Sustainable Design",
+      "description": "LEED-accredited practice committed to environmentally responsible design that reduces operational costs."
+    },
+    {
+      "icon": "groups",
+      "title": "Community Engagement",
+      "description": "We design spaces that bring people together. Public input and stakeholder collaboration drive every project."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Municipal Client",
+      "location": "Boston, MA",
+      "stars": 5,
+      "text": "Context Architecture delivered a public safety building that exceeded our operational requirements while staying under budget. Their understanding of first responder workflows is unmatched."
+    },
+    {
+      "name": "Faith Community Leader",
+      "location": "Cambridge, MA",
+      "stars": 5,
+      "text": "They honored our traditions while creating a space that serves our growing congregation beautifully. The community engagement process was incredibly thoughtful."
+    },
+    {
+      "name": "Housing Authority Director",
+      "location": "Massachusetts",
+      "stars": 5,
+      "text": "50 years of experience shows in every detail. Context delivered a multifamily project that residents are proud to call home."
+    }
+  ]
+}
