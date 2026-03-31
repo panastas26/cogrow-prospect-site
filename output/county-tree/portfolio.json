@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "title": "Hazardous Oak Removal - Lincoln Park",
+    "service_type": "Tree Removal",
+    "location": "Lincoln Park, Chicago",
+    "date": "2024-03-15",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+    "description": "Removed a 65-year-old diseased oak leaning toward residential structure. Precision rigging prevented damage to adjacent landscaping."
+  },
+  {
+    "id": "2",
+    "title": "Stump Grinding - Wicker Park",
+    "service_type": "Stump Grinding",
+    "location": "Wicker Park, Chicago",
+    "date": "2024-02-28",
+    "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Deep-root stump grinding for 45-year-old maple. Reclaimed 400 sq ft of usable backyard space for new landscape design."
+  },
+  {
+    "id": "3",
+    "title": "Crown Reduction - Bucktown",
+    "service_type": "Crown Reduction",
+    "location": "Bucktown, Chicago",
+    "date": "2024-03-20",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Artistic crown reduction on overgrown elm. Improved light penetration to home while preserving structural integrity."
+  },
+  {
+    "id": "4",
+    "title": "Emergency Storm Cleanup - Hyde Park",
+    "service_type": "Emergency Service",
+    "location": "Hyde Park, Chicago",
+    "date": "2024-01-15",
+    "before_photo_url": "https://images.pexels.com/photos/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "24-hour response to winter storm damage. Removed 3 downed trees and hazardous limbs, cleared debris completely."
+  },
+  {
+    "id": "5",
+    "title": "Tree Removal & Mulching - Pilsen",
+    "service_type": "Tree Removal",
+    "location": "Pilsen, Chicago",
+    "date": "2024-03-10",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+    "description": "Removed dead birch and ground stump. Materials recycled into premium mulch for client's garden beds."
+  },
+  {
+    "id": "6",
+    "title": "Pruning & Shaping - Logan Square",
+    "service_type": "Pruning & Trimming",
+    "location": "Logan Square, Chicago",
+    "date": "2024-03-22",
+    "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Systematic pruning to restore maple's natural form. Enhanced structural health and seasonal appearance."
+  },
+  {
+    "id": "7",
+    "title": "Double Oak Removal - Avondale",
+    "service_type": "Tree Removal",
+    "location": "Avondale, Chicago",
+    "date": "2024-02-14",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+    "description": "Removed twin oaks impacting foundation. Used advanced rigging to prevent structural damage to attached garage."
+  },
+  {
+    "id": "8",
+    "title": "Stump Removal & Landscaping - Lakeview",
+    "service_type": "Stump Grinding",
+    "location": "Lakeview, Chicago",
+    "date": "2024-03-08",
+    "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Grinding below grade for seamless turf installation. Client added xeriscaping and native plantings post-removal."
+  },
+  {
+    "id": "9",
+    "title": "Heritage Elm Crown Work - Ravenswood",
+    "service_type": "Crown Reduction",
+    "location": "Ravenswood, Chicago",
+    "date": "2024-03-25",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Careful pruning of century-old elm. Preserved character while reducing weight and improving wind resistance."
+  },
+  {
+    "id": "10",
+    "title": "Emergency Limb Failure - Edgewater",
+    "service_type": "Emergency Service",
+    "location": "Edgewater, Chicago",
+    "date": "2024-01-22",
+    "before_photo_url": "https://images.pexels.com/photos-1/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Same-day response to split oak limb threatening power lines and home. Professional rigging and removal."
+  },
+  {
+    "id": "11",
+    "title": "Ash Tree Removal - Uptown",
+    "service_type": "Tree Removal",
+    "location": "Uptown, Chicago",
+    "date": "2024-02-05",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos-1/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+    "description": "Ash borer infestation removal. Preventive action to protect surrounding landscape from pest spread."
+  },
+  {
+    "id": "12",
+    "title": "Multiple Stump Grinding - Andersonville",
+    "service_type": "Stump Grinding",
+    "location": "Andersonville, Chicago",
+    "date": "2024-03-12",
+    "before_photo_url": "https://images.pexels.com/photos-1/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Ground 4 stumps in commercial courtyard. Clean removal enabled new hardscape and seating area."
+  },
+  {
+    "id": "13",
+    "title": "Selective Tree Pruning - Old Town",
+    "service_type": "Pruning & Trimming",
+    "location": "Old Town, Chicago",
+    "date": "2024-03-18",
+    "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Strategic limb removal on mature oaks. Enhanced sight lines while maintaining canopy density."
+  },
+  {
+    "id": "14",
+    "title": "Large Maple Removal - Rogers Park",
+    "service_type": "Tree Removal",
+    "location": "Rogers Park, Chicago",
+    "date": "2024-01-30",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos-1/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+    "description": "Removed 70ft maple impacting roof and gutters. Clean removal with comprehensive debris management."
+  },
+  {
+    "id": "15",
+    "title": "Root Grinding & Clearing - Norwood Park",
+    "service_type": "Stump Grinding",
+    "location": "Norwood Park, Chicago",
+    "date": "2024-03-05",
+    "before_photo_url": "https://images.pexels.com/photos-1/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Complete root system removal preventing future sidewalk damage and foundation issues."
+  },
+  {
+    "id": "16",
+    "title": "Storm Damage Clearing - Jefferson Park",
+    "service_type": "Emergency Service",
+    "location": "Jefferson Park, Chicago",
+    "date": "2024-02-20",
+    "before_photo_url": "https://images.pexels.com/photos-1/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Emergency response clearing multiple downed trees after severe wind event. Full property restoration."
+  },
+  {
+    "id": "17",
+    "title": "Elm Tree Crown Restoration - Forest Glen",
+    "service_type": "Crown Reduction",
+    "location": "Forest Glen, Chicago",
+    "date": "2024-03-20",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Comprehensive crown work on historic elm. Improved branch structure and disease resistance."
+  },
+  {
+    "id": "18",
+    "title": "Diseased Oak Removal - Beverly",
+    "service_type": "Tree Removal",
+    "location": "Beverly, Chicago",
+    "date": "2024-02-10",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos-1/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+    "description": "Removal of oak with advanced decay. Professional handling prevented spread to adjacent healthy trees."
+  },
+  {
+    "id": "19",
+    "title": "Stump Removal for Patio - Morgan Park",
+    "service_type": "Stump Grinding",
+    "location": "Morgan Park, Chicago",
+    "date": "2024-03-02",
+    "before_photo_url": "https://images.pexels.com/photos-1/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Complete stump removal enabled new patio installation. Client expanded outdoor entertainment space."
+  },
+  {
+    "id": "20",
+    "title": "Precision Limb Trimming - West Ridge",
+    "service_type": "Pruning & Trimming",
+    "location": "West Ridge, Chicago",
+    "date": "2024-03-16",
+    "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Selective pruning to clear roof clearance and improve tree health. Systematic approach prevented future damage."
+  },
+  {
+    "id": "21",
+    "title": "Emergency Wind Damage - Hegewisch",
+    "service_type": "Emergency Service",
+    "location": "Hegewisch, Chicago",
+    "date": "2024-01-28",
+    "before_photo_url": "https://images.pexels.com/photos-1/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "24/7 emergency crew cleared hazardous limbs threatening roof. Complete debris removal same day."
+  },
+  {
+    "id": "22",
+    "title": "Maple Tree Removal - Garfield Ridge",
+    "service_type": "Tree Removal",
+    "location": "Garfield Ridge, Chicago",
+    "date": "2024-02-26",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos-1/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+    "description": "Large maple removal in confined residential area. Careful rigging protected neighboring properties."
+  },
+  {
+    "id": "23",
+    "title": "Deep Root Grinding - Clearing - Cicero",
+    "service_type": "Stump Grinding",
+    "location": "Cicero, Chicago",
+    "date": "2024-03-14",
+    "before_photo_url": "https://images.pexels.com/photos-1/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Complete root elimination preventing foundation and utility line damage. Property ready for development."
+  },
+  {
+    "id": "24",
+    "title": "Crown Shaping Birch - Berwyn",
+    "service_type": "Crown Reduction",
+    "location": "Berwyn, Chicago",
+    "date": "2024-03-21",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Artistic pruning restored birch form. Improved aesthetics while reducing disease susceptibility."
+  },
+  {
+    "id": "25",
+    "title": "Multiple Tree Removal - Oak Park",
+    "service_type": "Tree Removal",
+    "location": "Oak Park, Chicago",
+    "date": "2024-02-18",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos-1/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+    "description": "Removed 3 hazardous trees from commercial property. Professional cleanup enabled landscaping redesign."
+  },
+  {
+    "id": "26",
+    "title": "Stump Removal - Riverside",
+    "service_type": "Stump Grinding",
+    "location": "Riverside, Chicago",
+    "date": "2024-03-09",
+    "before_photo_url": "https://images.pexels.com/photos-1/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Professional grinding for lawn renovation project. Clean, level surface ready for new turf."
+  },
+  {
+    "id": "27",
+    "title": "Hazard Limb Removal - Forest Preserve Area",
+    "service_type": "Pruning & Trimming",
+    "location": "Des Plaines, Chicago",
+    "date": "2024-03-17",
+    "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "description": "Selective removal of dead and hazardous limbs. Enhanced safety without removing the healthy tree."
+  },
+  {
+    "id": "28",
+    "title": "Storm Response Limb Failure - Skokie",
+    "service_type": "Emergency Service",
+    "location": "Skokie, Chicago",
+    "date": "2024-01-25",
+    "before_photo_url": "https://images.pexels.com/photos-1/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Emergency crew responded within 2 hours to split oak limb. Complete debris removal and minor repairs."
+  },
+  {
+    "id": "29",
+    "title": "Large Ash Tree Removal - Niles",
+    "service_type": "Tree Removal",
+    "location": "Niles, Chicago",
+    "date": "2024-02-12",
+    "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "after_photo_url": "https://images.pexels.com/photos-1/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+    "description": "Ash borer infestation led to removal of 60ft tree. Preventive action protected neighboring properties."
+  },
+  {
+    "id": "30",
+    "title": "Complete Stump & Root Removal - Evanston",
+    "service_type": "Stump Grinding",
+    "location": "Evanston, Chicago",
+    "date": "2024-03-07",
+    "before_photo_url": "https://images.pexels.com/photos-1/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+    "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+    "description": "Full stump and deep root removal. Property reclaimed for new hardscape installation and expanded living space."
+  }
+]

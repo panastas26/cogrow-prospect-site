@@ -1,0 +1,513 @@
+<!-- Portfolio Section -->
+<section id="portfolio" class="py-24 bg-surface-container-low px-6">
+  <div class="max-w-7xl mx-auto">
+    <div class="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
+      <div class="max-w-2xl">
+        <h2 class="font-headline text-4xl md:text-6xl font-black text-primary tracking-tighter mb-4">Project Portfolio</h2>
+        <p class="text-on-surface-variant text-lg">30+ projects showcasing tree removal, stump grinding, and emergency response across the Chicago area.</p>
+      </div>
+      <div class="text-on-surface-variant text-sm font-bold">
+        <span class="text-tertiary-fixed">30 Projects</span> | <span class="text-secondary">Completed</span>
+      </div>
+    </div>
+
+    <!-- Filter Buttons -->
+    <div class="flex flex-wrap gap-3 mb-12 pb-6 border-b border-outline-variant">
+      <button class="portfolio-filter px-6 py-2 rounded-full font-bold text-sm font-headline bg-primary text-tertiary-fixed transition-all active-filter" data-filter="all">
+        All Services
+      </button>
+      <button class="portfolio-filter px-6 py-2 rounded-full font-bold text-sm font-headline bg-surface-container-highest text-on-surface hover:bg-outline-variant transition-all" data-filter="tree-removal">
+        Tree Removal
+      </button>
+      <button class="portfolio-filter px-6 py-2 rounded-full font-bold text-sm font-headline bg-surface-container-highest text-on-surface hover:bg-outline-variant transition-all" data-filter="stump-grinding">
+        Stump Grinding
+      </button>
+      <button class="portfolio-filter px-6 py-2 rounded-full font-bold text-sm font-headline bg-surface-container-highest text-on-surface hover:bg-outline-variant transition-all" data-filter="pruning-trimming">
+        Pruning & Trimming
+      </button>
+      <button class="portfolio-filter px-6 py-2 rounded-full font-bold text-sm font-headline bg-surface-container-highest text-on-surface hover:bg-outline-variant transition-all" data-filter="emergency-service">
+        Emergency Service
+      </button>
+      <button class="portfolio-filter px-6 py-2 rounded-full font-bold text-sm font-headline bg-surface-container-highest text-on-surface hover:bg-outline-variant transition-all" data-filter="crown-reduction">
+        Crown Reduction
+      </button>
+    </div>
+
+    <!-- Portfolio Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="portfolioGrid">
+      <!-- Cards populated via JavaScript -->
+    </div>
+  </div>
+</section>
+
+<!-- Before/After Modal -->
+<div id="portfolioModal" class="fixed inset-0 bg-black/80 flex items-center justify-center z-[100] p-4 hidden">
+  <div class="bg-white rounded-[2rem] shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
+    <div class="sticky top-0 bg-white border-b border-outline flex justify-between items-center p-8">
+      <h2 class="font-headline text-2xl font-black text-primary" id="modalTitle"></h2>
+      <button onclick="document.getElementById('portfolioModal').classList.add('hidden')" class="text-on-surface-variant hover:text-primary text-3xl leading-none">&times;</button>
+    </div>
+    
+    <div class="p-8">
+      <!-- Before/After Slider -->
+      <div class="mb-8 relative overflow-hidden rounded-xl bg-surface-container-highest h-96">
+        <div class="flex h-full">
+          <div class="w-1/2 relative overflow-hidden">
+            <img id="modalBefore" src="" alt="Before" class="w-full h-full object-cover"/>
+            <div class="absolute top-4 left-4 bg-black/50 text-white px-4 py-2 rounded-lg text-sm font-bold font-headline">BEFORE</div>
+          </div>
+          <div class="w-1/2 relative overflow-hidden">
+            <img id="modalAfter" src="" alt="After" class="w-full h-full object-cover"/>
+            <div class="absolute top-4 right-4 bg-primary text-tertiary-fixed px-4 py-2 rounded-lg text-sm font-bold font-headline">AFTER</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project Details -->
+      <div class="grid md:grid-cols-2 gap-8 mb-8">
+        <div>
+          <h3 class="text-on-surface-variant text-sm font-bold uppercase tracking-widest mb-2">Service Type</h3>
+          <p class="text-2xl font-bold text-primary font-headline" id="modalService"></p>
+        </div>
+        <div>
+          <h3 class="text-on-surface-variant text-sm font-bold uppercase tracking-widest mb-2">Location</h3>
+          <p class="text-2xl font-bold text-primary font-headline" id="modalLocation"></p>
+        </div>
+        <div>
+          <h3 class="text-on-surface-variant text-sm font-bold uppercase tracking-widest mb-2">Completed</h3>
+          <p class="text-2xl font-bold text-secondary font-headline" id="modalDate"></p>
+        </div>
+      </div>
+
+      <!-- Description -->
+      <div class="bg-surface-container p-6 rounded-xl mb-8">
+        <h3 class="text-on-surface-variant text-sm font-bold uppercase tracking-widest mb-3">Project Details</h3>
+        <p class="text-on-surface text-lg leading-relaxed" id="modalDescription"></p>
+      </div>
+
+      <!-- CTA -->
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="https://cal.com/cogrowai/freeaudit" target="_blank" class="bg-tertiary-fixed text-on-tertiary-fixed px-8 py-4 rounded-xl font-bold font-headline text-lg hover:shadow-2xl transition-all flex-1 text-center">
+          Schedule a Similar Service
+        </a>
+        <button onclick="document.getElementById('portfolioModal').classList.add('hidden')" class="bg-surface-container-highest text-primary px-8 py-4 rounded-xl font-bold font-headline text-lg hover:bg-outline-variant transition-all flex-1">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Portfolio data
+  const portfolioData = [
+    {
+      "id": "1",
+      "title": "Hazardous Oak Removal - Lincoln Park",
+      "service_type": "Tree Removal",
+      "location": "Lincoln Park, Chicago",
+      "date": "2024-03-15",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+      "description": "Removed a 65-year-old diseased oak leaning toward residential structure. Precision rigging prevented damage to adjacent landscaping."
+    },
+    {
+      "id": "2",
+      "title": "Stump Grinding - Wicker Park",
+      "service_type": "Stump Grinding",
+      "location": "Wicker Park, Chicago",
+      "date": "2024-02-28",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Deep-root stump grinding for 45-year-old maple. Reclaimed 400 sq ft of usable backyard space for new landscape design."
+    },
+    {
+      "id": "3",
+      "title": "Crown Reduction - Bucktown",
+      "service_type": "Crown Reduction",
+      "location": "Bucktown, Chicago",
+      "date": "2024-03-20",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Artistic crown reduction on overgrown elm. Improved light penetration to home while preserving structural integrity."
+    },
+    {
+      "id": "4",
+      "title": "Emergency Storm Cleanup - Hyde Park",
+      "service_type": "Emergency Service",
+      "location": "Hyde Park, Chicago",
+      "date": "2024-01-15",
+      "before_photo_url": "https://images.pexels.com/photos/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "24-hour response to winter storm damage. Removed 3 downed trees and hazardous limbs, cleared debris completely."
+    },
+    {
+      "id": "5",
+      "title": "Tree Removal & Mulching - Pilsen",
+      "service_type": "Tree Removal",
+      "location": "Pilsen, Chicago",
+      "date": "2024-03-10",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+      "description": "Removed dead birch and ground stump. Materials recycled into premium mulch for client's garden beds."
+    },
+    {
+      "id": "6",
+      "title": "Pruning & Shaping - Logan Square",
+      "service_type": "Pruning & Trimming",
+      "location": "Logan Square, Chicago",
+      "date": "2024-03-22",
+      "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Systematic pruning to restore maple's natural form. Enhanced structural health and seasonal appearance."
+    },
+    {
+      "id": "7",
+      "title": "Double Oak Removal - Avondale",
+      "service_type": "Tree Removal",
+      "location": "Avondale, Chicago",
+      "date": "2024-02-14",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+      "description": "Removed twin oaks impacting foundation. Used advanced rigging to prevent structural damage to attached garage."
+    },
+    {
+      "id": "8",
+      "title": "Stump Removal & Landscaping - Lakeview",
+      "service_type": "Stump Grinding",
+      "location": "Lakeview, Chicago",
+      "date": "2024-03-08",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Grinding below grade for seamless turf installation. Client added xeriscaping and native plantings post-removal."
+    },
+    {
+      "id": "9",
+      "title": "Heritage Elm Crown Work - Ravenswood",
+      "service_type": "Crown Reduction",
+      "location": "Ravenswood, Chicago",
+      "date": "2024-03-25",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Careful pruning of century-old elm. Preserved character while reducing weight and improving wind resistance."
+    },
+    {
+      "id": "10",
+      "title": "Emergency Limb Failure - Edgewater",
+      "service_type": "Emergency Service",
+      "location": "Edgewater, Chicago",
+      "date": "2024-01-22",
+      "before_photo_url": "https://images.pexels.com/photos/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Same-day response to split oak limb threatening power lines and home. Professional rigging and removal."
+    },
+    {
+      "id": "11",
+      "title": "Ash Tree Removal - Uptown",
+      "service_type": "Tree Removal",
+      "location": "Uptown, Chicago",
+      "date": "2024-02-05",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+      "description": "Ash borer infestation removal. Preventive action to protect surrounding landscape from pest spread."
+    },
+    {
+      "id": "12",
+      "title": "Multiple Stump Grinding - Andersonville",
+      "service_type": "Stump Grinding",
+      "location": "Andersonville, Chicago",
+      "date": "2024-03-12",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Ground 4 stumps in commercial courtyard. Clean removal enabled new hardscape and seating area."
+    },
+    {
+      "id": "13",
+      "title": "Selective Tree Pruning - Old Town",
+      "service_type": "Pruning & Trimming",
+      "location": "Old Town, Chicago",
+      "date": "2024-03-18",
+      "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Strategic limb removal on mature oaks. Enhanced sight lines while maintaining canopy density."
+    },
+    {
+      "id": "14",
+      "title": "Large Maple Removal - Rogers Park",
+      "service_type": "Tree Removal",
+      "location": "Rogers Park, Chicago",
+      "date": "2024-01-30",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+      "description": "Removed 70ft maple impacting roof and gutters. Clean removal with comprehensive debris management."
+    },
+    {
+      "id": "15",
+      "title": "Root Grinding & Clearing - Norwood Park",
+      "service_type": "Stump Grinding",
+      "location": "Norwood Park, Chicago",
+      "date": "2024-03-05",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Complete root system removal preventing future sidewalk damage and foundation issues."
+    },
+    {
+      "id": "16",
+      "title": "Storm Damage Clearing - Jefferson Park",
+      "service_type": "Emergency Service",
+      "location": "Jefferson Park, Chicago",
+      "date": "2024-02-20",
+      "before_photo_url": "https://images.pexels.com/photos/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Emergency response clearing multiple downed trees after severe wind event. Full property restoration."
+    },
+    {
+      "id": "17",
+      "title": "Elm Tree Crown Restoration - Forest Glen",
+      "service_type": "Crown Reduction",
+      "location": "Forest Glen, Chicago",
+      "date": "2024-03-20",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Comprehensive crown work on historic elm. Improved branch structure and disease resistance."
+    },
+    {
+      "id": "18",
+      "title": "Diseased Oak Removal - Beverly",
+      "service_type": "Tree Removal",
+      "location": "Beverly, Chicago",
+      "date": "2024-02-10",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+      "description": "Removal of oak with advanced decay. Professional handling prevented spread to adjacent healthy trees."
+    },
+    {
+      "id": "19",
+      "title": "Stump Removal for Patio - Morgan Park",
+      "service_type": "Stump Grinding",
+      "location": "Morgan Park, Chicago",
+      "date": "2024-03-02",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Complete stump removal enabled new patio installation. Client expanded outdoor entertainment space."
+    },
+    {
+      "id": "20",
+      "title": "Precision Limb Trimming - West Ridge",
+      "service_type": "Pruning & Trimming",
+      "location": "West Ridge, Chicago",
+      "date": "2024-03-16",
+      "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Selective pruning to clear roof clearance and improve tree health. Systematic approach prevented future damage."
+    },
+    {
+      "id": "21",
+      "title": "Emergency Wind Damage - Hegewisch",
+      "service_type": "Emergency Service",
+      "location": "Hegewisch, Chicago",
+      "date": "2024-01-28",
+      "before_photo_url": "https://images.pexels.com/photos/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "24/7 emergency crew cleared hazardous limbs threatening roof. Complete debris removal same day."
+    },
+    {
+      "id": "22",
+      "title": "Maple Tree Removal - Garfield Ridge",
+      "service_type": "Tree Removal",
+      "location": "Garfield Ridge, Chicago",
+      "date": "2024-02-26",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+      "description": "Large maple removal in confined residential area. Careful rigging protected neighboring properties."
+    },
+    {
+      "id": "23",
+      "title": "Deep Root Grinding - Clearing - Cicero",
+      "service_type": "Stump Grinding",
+      "location": "Cicero, Chicago",
+      "date": "2024-03-14",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Complete root elimination preventing foundation and utility line damage. Property ready for development."
+    },
+    {
+      "id": "24",
+      "title": "Crown Shaping Birch - Berwyn",
+      "service_type": "Crown Reduction",
+      "location": "Berwyn, Chicago",
+      "date": "2024-03-21",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Artistic pruning restored birch form. Improved aesthetics while reducing disease susceptibility."
+    },
+    {
+      "id": "25",
+      "title": "Multiple Tree Removal - Oak Park",
+      "service_type": "Tree Removal",
+      "location": "Oak Park, Chicago",
+      "date": "2024-02-18",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/4503270/pexels-photo-4503270.jpeg?w=800&q=80",
+      "description": "Removed 3 hazardous trees from commercial property. Professional cleanup enabled landscaping redesign."
+    },
+    {
+      "id": "26",
+      "title": "Stump Removal - Riverside",
+      "service_type": "Stump Grinding",
+      "location": "Riverside, Chicago",
+      "date": "2024-03-09",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Professional grinding for lawn renovation project. Clean, level surface ready for new turf."
+    },
+    {
+      "id": "27",
+      "title": "Hazard Limb Removal - Forest Preserve Area",
+      "service_type": "Pruning & Trimming",
+      "location": "Des Plaines, Chicago",
+      "date": "2024-03-17",
+      "before_photo_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "description": "Selective removal of dead and hazardous limbs. Enhanced safety without removing the healthy tree."
+    },
+    {
+      "id": "28",
+      "title": "Storm Response Limb Failure - Skokie",
+      "service_type": "Emergency Service",
+      "location": "Skokie, Chicago",
+      "date": "2024-01-25",
+      "before_photo_url": "https://images.pexels.com/photos/3852170/pexels-photo-3852170.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Emergency crew responded within 2 hours to split oak limb. Complete debris removal and minor repairs."
+    },
+    {
+      "id": "29",
+      "title": "Large Ash Tree Removal - Niles",
+      "service_type": "Tree Removal",
+      "location": "Niles, Chicago",
+      "date": "2024-02-12",
+      "before_photo_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "after_photo_url": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?w=800&q=80",
+      "description": "Ash borer infestation led to removal of 60ft tree. Preventive action protected neighboring properties."
+    },
+    {
+      "id": "30",
+      "title": "Complete Stump & Root Removal - Evanston",
+      "service_type": "Stump Grinding",
+      "location": "Evanston, Chicago",
+      "date": "2024-03-07",
+      "before_photo_url": "https://images.pexels.com/photos/7974628/pexels-photo-7974628.jpeg?w=800&q=80",
+      "after_photo_url": "https://images.unsplash.com/photo-1585320033636-e3b6faf87d81?w=800&q=80",
+      "description": "Full stump and deep root removal. Property reclaimed for new hardscape installation and expanded living space."
+    }
+  ];
+
+  // Service type mapping
+  const serviceTypeMap = {
+    "Tree Removal": "tree-removal",
+    "Stump Grinding": "stump-grinding",
+    "Pruning & Trimming": "pruning-trimming",
+    "Emergency Service": "emergency-service",
+    "Crown Reduction": "crown-reduction"
+  };
+
+  // Initialize portfolio
+  function initPortfolio() {
+    renderPortfolio(portfolioData);
+    attachFilterListeners();
+  }
+
+  // Render portfolio cards
+  function renderPortfolio(data) {
+    const grid = document.getElementById('portfolioGrid');
+    grid.innerHTML = '';
+    
+    data.forEach(project => {
+      const serviceKey = serviceTypeMap[project.service_type];
+      const card = document.createElement('div');
+      card.className = 'portfolio-card group relative overflow-hidden rounded-xl bg-white shadow-lg hover:shadow-2xl transition-all duration-300 cursor-pointer';
+      card.setAttribute('data-filter', serviceKey);
+      card.innerHTML = `
+        <div class="relative overflow-hidden bg-surface-container-highest h-64">
+          <img src="${project.before_photo_url}" alt="Before" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+          <div class="absolute top-4 left-4">
+            <span class="inline-block bg-primary text-tertiary-fixed px-3 py-1 rounded-full text-xs font-bold font-headline">${project.service_type}</span>
+          </div>
+        </div>
+        <div class="p-6">
+          <h3 class="font-headline text-xl font-bold text-primary mb-3 line-clamp-2">${project.title}</h3>
+          <div class="flex items-start justify-between mb-4">
+            <div class="flex-1">
+              <p class="text-on-surface-variant text-sm mb-1"><span class="material-symbols-outlined text-base align-middle" style="font-variation-settings: 'FILL' 0;">location_on</span> ${project.location}</p>
+              <p class="text-on-surface-variant text-sm"><span class="material-symbols-outlined text-base align-middle" style="font-variation-settings: 'FILL' 0;">calendar_today</span> ${new Date(project.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</p>
+            </div>
+          </div>
+          <p class="text-on-surface text-sm leading-relaxed mb-4 line-clamp-2">${project.description}</p>
+          <button class="w-full bg-tertiary-fixed text-on-tertiary-fixed py-2 rounded-lg font-bold font-headline text-sm hover:bg-primary transition-colors view-project-btn" data-id="${project.id}">
+            View Before/After
+          </button>
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+
+    attachViewProjectListeners();
+  }
+
+  // Filter functionality
+  function attachFilterListeners() {
+    document.querySelectorAll('.portfolio-filter').forEach(button => {
+      button.addEventListener('click', function() {
+        const filter = this.getAttribute('data-filter');
+        
+        // Update active state
+        document.querySelectorAll('.portfolio-filter').forEach(btn => {
+          btn.classList.remove('bg-primary', 'text-tertiary-fixed', 'active-filter');
+          btn.classList.add('bg-surface-container-highest', 'text-on-surface');
+        });
+        this.classList.remove('bg-surface-container-highest', 'text-on-surface');
+        this.classList.add('bg-primary', 'text-tertiary-fixed', 'active-filter');
+
+        // Filter cards
+        if (filter === 'all') {
+          renderPortfolio(portfolioData);
+        } else {
+          const filtered = portfolioData.filter(project => serviceTypeMap[project.service_type] === filter);
+          renderPortfolio(filtered);
+        }
+      });
+    });
+  }
+
+  // View project modal
+  function attachViewProjectListeners() {
+    document.querySelectorAll('.view-project-btn').forEach(button => {
+      button.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const id = this.getAttribute('data-id');
+        const project = portfolioData.find(p => p.id === id);
+        
+        if (project) {
+          document.getElementById('modalTitle').textContent = project.title;
+          document.getElementById('modalBefore').src = project.before_photo_url;
+          document.getElementById('modalAfter').src = project.after_photo_url;
+          document.getElementById('modalService').textContent = project.service_type;
+          document.getElementById('modalLocation').textContent = project.location;
+          document.getElementById('modalDate').textContent = new Date(project.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+          document.getElementById('modalDescription').textContent = project.description;
+          
+          document.getElementById('portfolioModal').classList.remove('hidden');
+        }
+      });
+    });
+  }
+
+  // Initialize on page load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initPortfolio);
+  } else {
+    initPortfolio();
+  }
+</script>
