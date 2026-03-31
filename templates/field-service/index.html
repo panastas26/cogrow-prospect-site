@@ -83,6 +83,7 @@
 <div class="hidden md:flex items-center space-x-8">
 <a class="text-primary border-b-2 border-tertiary-fixed pb-1 font-headline font-bold tracking-tight" href="#">Home</a>
 <a class="text-on-surface-variant hover:text-primary transition-colors font-headline font-bold tracking-tight" href="#services">Services</a>
+{{#portfolio}}<a class="text-on-surface-variant hover:text-primary transition-colors font-headline font-bold tracking-tight" href="#portfolio">Portfolio</a>{{/portfolio}}
 <a class="text-on-surface-variant hover:text-primary transition-colors font-headline font-bold tracking-tight" href="#about">About</a>
 <a class="text-on-surface-variant hover:text-primary transition-colors font-headline font-bold tracking-tight" href="#reviews">Reviews</a>
 </div>
@@ -99,7 +100,7 @@
 <p class="text-lg md:text-xl text-on-surface-variant max-w-lg mb-10 leading-relaxed">{{hero_subtitle}}</p>
 <div class="flex flex-col sm:flex-row gap-4">
 <a href="https://cal.com/{{cal_booking_slug}}" target="_blank" class="bg-tertiary-fixed text-on-tertiary-fixed px-8 py-4 rounded-xl font-bold font-headline text-lg hover:shadow-2xl transition-all">Get a Free Quote</a>
-<button class="px-8 py-4 text-primary font-bold font-headline text-lg flex items-center gap-2 group">Our Portfolio <span class="material-symbols-outlined transition-transform group-hover:translate-x-2">arrow_forward</span></button>
+{{#portfolio}}<a href="#portfolio" class="px-8 py-4 text-primary font-bold font-headline text-lg flex items-center gap-2 group">Our Portfolio <span class="material-symbols-outlined transition-transform group-hover:translate-x-2">arrow_forward</span></a>{{/portfolio}}
 </div>
 </div>
 <div class="relative hidden lg:block">
@@ -171,6 +172,75 @@
 </div>
 </div>
 </section>
+
+<!-- Portfolio -->
+{{#portfolio}}
+<section id="portfolio" class="py-24 px-6 bg-surface">
+<div class="max-w-7xl mx-auto">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
+<div class="max-w-2xl">
+<h2 class="font-headline text-4xl md:text-6xl font-black text-primary tracking-tighter mb-4">Our Work</h2>
+<p class="text-on-surface-variant text-lg">{{portfolio}} completed projects showcasing precision, safety, and transformative care across the service area.</p>
+</div>
+</div>
+<div id="portfolioGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+<!-- Portfolio items loaded via JavaScript -->
+</div>
+</div>
+</section>
+
+<script>
+// Portfolio loading and rendering
+async function loadPortfolio() {
+  try {
+    const response = await fetch('./portfolio.json');
+    const portfolio = await response.json();
+    const grid = document.getElementById('portfolioGrid');
+    
+    portfolio.forEach(item => {
+      const card = document.createElement('div');
+      card.className = 'group relative overflow-hidden rounded-xl bg-white border border-outline-variant/30 shadow-sm hover:shadow-lg transition-all duration-300 h-full flex flex-col';
+      
+      // Determine service type color
+      let tagColor = 'bg-primary/10 text-primary';
+      if (item.service_type === 'Stump Grinding') tagColor = 'bg-secondary-container text-on-secondary-container';
+      if (item.service_type === 'Emergency Service') tagColor = 'bg-error-container/30 text-error';
+      if (item.service_type === 'Crown Reduction') tagColor = 'bg-tertiary-fixed/20 text-tertiary-container';
+      
+      // Format date
+      const dateObj = new Date(item.date);
+      const formattedDate = dateObj.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
+      
+      card.innerHTML = `
+        <div class="relative overflow-hidden h-56 bg-gray-200">
+          <img src="${item.before_photo_url}" alt="${item.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300"></div>
+        </div>
+        <div class="p-6 flex-1 flex flex-col">
+          <div class="flex items-center gap-2 mb-3">
+            <span class="text-xs font-bold px-3 py-1 rounded-full ${tagColor} uppercase tracking-widest">${item.service_type}</span>
+            <span class="text-xs text-on-surface-variant font-medium">${formattedDate}</span>
+          </div>
+          <h3 class="font-headline text-lg font-bold text-primary mb-2 leading-tight">${item.title}</h3>
+          <p class="text-on-surface-variant text-sm mb-4 flex-1 leading-relaxed">${item.description}</p>
+          <p class="text-xs text-on-surface-variant/60 font-medium">📍 ${item.location}</p>
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+  } catch (error) {
+    console.error('Error loading portfolio:', error);
+  }
+}
+
+// Load portfolio when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', loadPortfolio);
+} else {
+  loadPortfolio();
+}
+</script>
+{{/portfolio}}
 
 <!-- About -->
 <section id="about" class="py-24 px-6 overflow-hidden">
